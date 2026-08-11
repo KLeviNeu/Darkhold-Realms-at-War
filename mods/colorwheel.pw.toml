@@ -3,8 +3,8 @@ filename = "colorwheel-forge-1.2.9+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "53a7b955b747817855b3f8b26a5487fa60449610087ad98cf741013f1d5850a3d57ad75a0a2bbc25198dca9e61d6b6510d020cfe2605e79dc4c08d858cc6e9d4"
+hash-format = "sha256"
+hash = "f1632bb755738e86413fad5da5148ef29a4cbafadb569f151f17590f9d6a89e1"
 mode = "metadata:curseforge"
 
 [update]

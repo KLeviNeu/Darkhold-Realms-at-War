@@ -3,8 +3,8 @@ filename = "citadel-2.6.3-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "42e3fa0ddefb1ebdbba4242d81caede834cd0bbd96e4e90b12b2157a5b07c68b625f64046de1f9e1ad4d6056d3536e17207be5f4b24960582052d713b13f22c0"
+hash-format = "sha256"
+hash = "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce"
 mode = "metadata:curseforge"
 
 [update]

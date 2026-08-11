@@ -3,8 +3,8 @@ filename = "structurify-forge-2.0.30+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "da3fc225c653db3cd5334a329af7d00b203db702520ed90d5e91430c8156ec5082f084e43601362934af6a71f0f4a5f9b96a066b5cb64dab83dcf589bbec653e"
+hash-format = "sha256"
+hash = "ab48aefcebecb57954a16f287f9b1649ddc681e5e0dc03b541532c7902581476"
 mode = "metadata:curseforge"
 
 [update]

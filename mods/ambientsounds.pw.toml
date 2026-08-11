@@ -3,8 +3,8 @@ filename = "AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "150acb106bcb5cb7c74ede40f92cd7f597cc5f735104633b9a068179b05f5488d844af00fde98195a9cb8091f8055011a65126a67d96a8a2af95515a4ae42e55"
+hash-format = "sha256"
+hash = "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b"
 mode = "metadata:curseforge"
 
 [update]

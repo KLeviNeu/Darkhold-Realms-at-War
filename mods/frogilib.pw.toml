@@ -3,8 +3,8 @@ filename = "forge frogi_lib-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "c4a571ff8597b79c4c7e7f06298a4856111ebefa340a97bbe63c2d221aab8b36dd87f332bd571f62c6143ae5e733b7f424d5f60dcc304d452175924a0eb1fd8f"
+hash-format = "sha256"
+hash = "fd7181d0a4591d91d7f5a1c323cf1c74eaf173a62d486c6627b0e39ab7464e97"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MTOTFlRo/versions/kGj2MzL0/knights_and_castles-1.0.6%2Bbeta-forge-1.20.1.jar"
-hash-format = "sha512"
-hash = "16234f9b15704f19f33ed03f7749a351ab6cd3074ba8cc212fd485746bb3b01bc614f3dfa7ab05c3da1c2c9f4e212e2bec1bdf176825700691987c7200b04337"
+hash-format = "sha256"
+hash = "aac4e08d747aff26150823c0b34e4d4156ee6bbf1d6145f4db6a62980b7a3193"
 
 [update]
 [update.modrinth]

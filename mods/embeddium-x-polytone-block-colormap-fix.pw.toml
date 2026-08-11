@@ -3,8 +3,8 @@ filename = "texturereload-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "6847aeb95dfbcff858b9fe0ec319b745eea118cf1a2b55bf3b88edfca5c83311f78eba84e09e8fda12625ba380bf7ff58e2a5c1b7ca0deb5de997f13cce74ec1"
+hash-format = "sha256"
+hash = "fe33f0df4a0bc4c3e2df0098433673a768d98a183d9a76584454ce297a10a032"
 mode = "metadata:curseforge"
 
 [update]

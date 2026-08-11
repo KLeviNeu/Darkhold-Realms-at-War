@@ -3,8 +3,8 @@ filename = "BEB-Forge-1.20.1-6.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "4912af061e28abbabe54aa38025a8748c00b6cf1a0f3ab9dab35f6afec3fd9c3f92e7d0d15228bc35ba9e4fbd4aef0abfe7ef6f97652586382e973080759477a"
+hash-format = "sha256"
+hash = "f6b0bf62ca159c17473a8c79d32c27c6bed20d4120900d98e88a61641586a358"
 mode = "metadata:curseforge"
 
 [update]

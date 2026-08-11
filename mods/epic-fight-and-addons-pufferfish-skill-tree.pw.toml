@@ -3,8 +3,8 @@ filename = "EpicFightPuffer.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "dbb69f7ec81dddeab6f5445c1a22dd5f734234e8a388785cd8276d4876126b20b1b1e7f97e0721d58976ba5a5c23f1c6d5840c9b4597fc2656c3dbbd72983707"
+hash-format = "sha256"
+hash = "af6fba6a8aed73abe2d4d5627faa80adf8a7c589fda057bb5676091a8191b06d"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "lootintegrations_iceandfire-1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "1fbd8cbfaee5ba93ec1717453786b7e8ae17f1f38c663e1d3ae4faf23c56bae6676c578007db92c5d4ebd91ddaa4d54f832cb65a0189385ecb1527192dbe309f"
+hash-format = "sha256"
+hash = "5f4f130e29119111d06d257760fd569b88db209cead00e15639b117b37591634"
 mode = "metadata:curseforge"
 
 [update]

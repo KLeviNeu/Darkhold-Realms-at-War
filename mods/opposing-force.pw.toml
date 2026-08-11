@@ -3,8 +3,8 @@ filename = "Opposing-Force-1.20.1-2.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "9529e1a911e8c2545a65b2fbb3738ddcb2be910d0985e72dae08bc22c28bd87bf191d754da40530d450daa201d532fc3476a2ba02beed9da8cc62ffa8954e757"
+hash-format = "sha256"
+hash = "a844a83619cefc41a94710f24af9a729460f18d498552cc50fb8912ca7ef18f5"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "fantasy_armor-forge-1.2.4-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "8337b0d3a1bd7296f716d8652e66aaf48a87a6011e7d497c7616c1cc85f4e263f1243bcef03c6453c7e4e253ec30f816a8a87980835d4eaf18c0c6a137ea87d9"
+hash-format = "sha256"
+hash = "60723448eb979d29da51bd6fe71e6ef1b695decd3d91da76f1e970664bf80693"
 mode = "metadata:curseforge"
 
 [update]

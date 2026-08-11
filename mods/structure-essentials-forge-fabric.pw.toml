@@ -3,8 +3,8 @@ filename = "structureessentials-1.20.1-5.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "a447bb52ef654e3d96373c75d92dd7e497506375f1387b5ac74f12902107fc56212bccac1fc2ffd34ca1d172f9b18c958952342cdceb9007214c1d1bb53d32b8"
+hash-format = "sha256"
+hash = "602c8f17f6d805458c3da679b28183b0dfb4987457fd8a365de339d127f22831"
 mode = "metadata:curseforge"
 
 [update]

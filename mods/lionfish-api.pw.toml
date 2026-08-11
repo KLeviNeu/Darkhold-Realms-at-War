@@ -3,8 +3,8 @@ filename = "lionfishapi-3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "a7cf6c9bf27a77b45efe434a166f9c99efdb6db14e5d88ce8417c6364aea9d250a9f43627e9e0ac162e106517fccf51cebb5035852c8449fb7fb299a083770c4"
+hash-format = "sha256"
+hash = "d2fdaf7e9bc53fde7da4a86ab17018a3ed6c16fc2d46de5054e5a83e2bef7871"
 mode = "metadata:curseforge"
 
 [update]

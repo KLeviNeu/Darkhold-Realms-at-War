@@ -3,8 +3,8 @@ filename = "polytone-1.20-3.5.26.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "574664c5f0aacf2450aae924eab1df9b4b6064ce01ec3f6531740f143e4eb1b5895c4c5e1cc60bc04d8d41af7acd6ba01611e627faf8557eb088f7d28f7ae8a2"
+hash-format = "sha256"
+hash = "3409f22a39a93eaa699f96561ea8830bf5f492db43a000be783f53ae59e00404"
 mode = "metadata:curseforge"
 
 [update]

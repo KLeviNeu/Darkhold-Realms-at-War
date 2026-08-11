@@ -3,8 +3,8 @@ filename = "epicfightx_better_trail1.5.zip"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "23bfb67c8c7c81ee23dc3732340690a26448f2c5dcd15d9d3e37894ab3697f97b7bacaa38ae918e197135839ace3f709d81f37d0e3d3a5a01de074dce334b58d"
+hash-format = "sha256"
+hash = "76752f36d4173743fb43d8d80128da45da84af2b053e2256ac6fdcef60ff5a80"
 mode = "metadata:curseforge"
 
 [update]

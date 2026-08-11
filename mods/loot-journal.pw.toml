@@ -3,8 +3,8 @@ filename = "loot_journal-forge-1.20.1-6.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "da2cc36812a40b42dca9443c3f696dbeac5b28395ff9bfea22584ef87492824c0331fd970e9114aa2e7064c04e818cfb7520330d4f94982cbd7ce1e3dbe84854"
+hash-format = "sha256"
+hash = "46c17475ca54ffa6d16b8d185ceeac9547b01f0c8735689e8fea86f573b20e9a"
 mode = "metadata:curseforge"
 
 [update]
