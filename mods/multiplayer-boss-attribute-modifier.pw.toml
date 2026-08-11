@@ -1,8 +1,8 @@
 name = "multiplayer-boss-attribute-modifier"
-filename = "multiplayer_boss_fight-neoforge1.21.1-1.0.3.jar"
+filename = "multiplayer_boss_fight-forge1.20.1-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://github.com/KLeviNeu/Darkhold-Realms-at-War/blob/main/multiplayer_boss_fight-neoforge1.21.1-1.0.3.jar"
+url = "https://github.com/KLeviNeu/Darkhold-Realms-at-War/blob/main/multiplayer_boss_fight-forge1.20.1-1.0.3.jar"
 hash-format = "sha256"
-hash = "f482b9624d7991dc029d3f13335b385c5f7ae0a1a92d5a45ce78133c4785befb"
+hash = "ef5fdd058fc322583cb3d60cf32cd8f4edf38c77fc61cea24f10f03ff3ca50e3"
