@@ -1,0 +1,13 @@
+name = "Spice of MineColonies Life: Carrot Flavor"
+filename = "MineColonies_SoLCarrot-1.20.1-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56fca411648c9b82848ce4006d2de6e5ae1feef8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8054962
+project-id = 1190360

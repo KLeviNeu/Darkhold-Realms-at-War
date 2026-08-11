@@ -1,0 +1,13 @@
+name = "Millager (Village Defenders)"
+filename = "millager-forge-1.20.1-0.7.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8369a526c80434e5c7f4f91310b3d4f0c062c39d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8607036
+project-id = 1546835

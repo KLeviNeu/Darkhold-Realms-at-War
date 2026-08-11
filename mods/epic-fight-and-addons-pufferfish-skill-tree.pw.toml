@@ -1,0 +1,13 @@
+name = "Epic Fight (and addons) Pufferfish Skill Tree"
+filename = "EpicFightPuffer.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ea01391ad425fe2ede1c6cec3cb001efd9984bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7744788
+project-id = 1483805

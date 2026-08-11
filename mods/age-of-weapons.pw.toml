@@ -1,0 +1,13 @@
+name = "Age of Weapons"
+filename = "AgeOfWeapons - Reforged v.1.3.2c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79b1e3c0dc07689f3595024f4556b624f7d01220"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6500100
+project-id = 265090

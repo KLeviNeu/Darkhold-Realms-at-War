@@ -1,0 +1,13 @@
+name = "Conquest Reforged Resourcepack "
+filename = "CRRP-2.0.3+1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d84dba3bd0577c251390ab321f9d0e9d6990ffe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6014623
+project-id = 250080

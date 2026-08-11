@@ -1,0 +1,13 @@
+name = "Knights And Castles"
+filename = "knights_and_castles-1.0.6+beta-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "646cf9d8a61131fd07370ef7995f90a6d38d3e67"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6919360
+project-id = 1038253

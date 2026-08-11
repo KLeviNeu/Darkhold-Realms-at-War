@@ -1,0 +1,13 @@
+name = "Oceanic Realms"
+filename = "oceanicrealms-1.0.7-last-laster-ver.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "624d0583081291088f79273d21d0458c46417feb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7258141
+project-id = 1202395

@@ -1,0 +1,12 @@
+name = "Darkhold"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "63b3a982b7b0e5bc6976a713f0da0478b8582bcc9533c07526fdda7daf79aa68"
+
+[versions]
+forge = "47.4.22"
+minecraft = "1.20.1"

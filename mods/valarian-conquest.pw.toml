@@ -1,0 +1,13 @@
+name = "Valarian Conquest"
+filename = "valarian_conquest-4.2.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f91686ec092dbf1bc77356d8cb70e5b8c157d929"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8422493
+project-id = 960209

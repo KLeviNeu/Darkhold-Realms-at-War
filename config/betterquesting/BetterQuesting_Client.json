@@ -1,0 +1,11 @@
+{
+  "General": {
+    "GUI Theme": "betterquesting:dark",
+    "GUI Layout": "betterquestin:classic",
+    "Use Bookmarks": true,
+    "Show Notices": true,
+    "Advanced Tooltips": false,
+    "GUI Margin X": 16,
+    "GUI Margin Y": 16
+  }
+}

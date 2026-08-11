@@ -1,0 +1,13 @@
+name = "Embeddium x Polytone Block Colormap Fix"
+filename = "texturereload-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76fe9d04f747beddec1fd93a63525f26ddd42d7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8409351
+project-id = 1605538

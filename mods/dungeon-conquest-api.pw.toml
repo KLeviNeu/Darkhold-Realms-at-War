@@ -1,0 +1,13 @@
+name = "Dungeon Conquest API"
+filename = "dungeon_conquest_api-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "154e42013f0b16244c1adddc133696022db26583"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8496767
+project-id = 1621429
