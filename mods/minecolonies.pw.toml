@@ -3,8 +3,8 @@ filename = "minecolonies-1.20.1-1.1.1275-snapshot.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "81d684038eb4d03c6d8ba08e15b6c049a3b10ed35f0e1b17458e6fb729b3c379"
+hash-format = "sha512"
+hash = "c7f9de2f8d2eaf7cf688e3e96e9719a0ab6afd930d1bca863d0d9331722667275776294e9c362874f2908f2c4c30537aa539a2517b39ebf276b4b9223c5626fe"
 mode = "metadata:curseforge"
 
 [update]

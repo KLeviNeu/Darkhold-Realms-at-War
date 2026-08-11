@@ -3,8 +3,8 @@ filename = "siege-machines-1.20.1-forge-1.39.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "6a24c20ff92a9b804656bdb3dc1d06b601bc258d0c5b6fb644ccfc680555d6a1"
+hash-format = "sha512"
+hash = "43e020903314aaca3c724798191191369a8e3251406313959344083f2dabcb23a99332f93d0288b3680ed4346746a350511c3238f356dd6d2ea8c5388150f3b8"
 mode = "metadata:curseforge"
 
 [update]

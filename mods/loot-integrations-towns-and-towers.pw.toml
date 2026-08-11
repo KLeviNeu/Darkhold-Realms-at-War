@@ -3,8 +3,8 @@ filename = "lootintegration_townsandtowers-1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "3ae245fa68937122ddc50461c48aea55619ba9918c6ff5b0f9d6d7e60aef032f"
+hash-format = "sha512"
+hash = "e0201daf45b519c499d5b99ad669e4173fe8029f1a56d16fa1494a8f20cb92bb4e7fc02cc5d73eeb46bd2450662881db28fc38c70baba458200b567934cb627f"
 mode = "metadata:curseforge"
 
 [update]

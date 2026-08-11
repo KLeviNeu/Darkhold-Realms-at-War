@@ -3,8 +3,8 @@ filename = "Corgilib-Forge-1.20.1-4.0.3.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "6879c214e0793278e14105b70d085ba218551c39daa78c846273030278bef350"
+hash-format = "sha512"
+hash = "e87997e1ee8094228f5be53cda7fd46ad77fe2f238eed59ebdbcd8a4d3f8c6cd5f565e45ebabb3d4dc61d1a99b701198bad11daea9b1277a3b1e949db7ad0e72"
 mode = "metadata:curseforge"
 
 [update]

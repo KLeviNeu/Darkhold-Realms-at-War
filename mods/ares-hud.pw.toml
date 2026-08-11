@@ -3,8 +3,8 @@ filename = "ares_hud-1.4.0-1.20.1-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "40220c6241de50b7aef77861c4be48170232101aacd6c26d08c8e9f987d1959d"
+hash-format = "sha512"
+hash = "6351c9baf6851370324d8c48614ebe45b827025334be69c6e85a39f920e56ffd41ebe46b3c7d3159aa113bbea3dd12a7f6f9c82c5337af1be8f185c2ae708210"
 mode = "metadata:curseforge"
 
 [update]

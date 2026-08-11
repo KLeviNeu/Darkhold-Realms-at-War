@@ -3,8 +3,8 @@ filename = "valarian_conquest-4.2.2-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "36942512eed99dceff59c6b2bd3766d1bd689db3dab60c819e9527bd1abf8783"
+hash-format = "sha512"
+hash = "224f22b350b4dc2b0db5cdad8813ea0c0264e0ef792990895f905ca1826bfc8b5c8c5f9eb13504656c75a7b3818a23769d889cc40ed12e287c8cbcd4efccd0d4"
 mode = "metadata:curseforge"
 
 [update]

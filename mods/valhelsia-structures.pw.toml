@@ -3,8 +3,8 @@ filename = "valhelsia_structures-forge-1.20.1-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "ce2196035200ff1f07ce209d17aae98c0670db601128a3b970edcd69095edd6a"
+hash-format = "sha512"
+hash = "1744800037937ba66bd18dae178cfd1a0780938412442a0e6e5fe98a8052c5e70409a8e88afe99869c80f446e24e29ac374011d26618fea77703cf09bca3b2ef"
 mode = "metadata:curseforge"
 
 [update]

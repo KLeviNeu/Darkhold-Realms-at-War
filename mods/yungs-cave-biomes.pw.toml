@@ -3,8 +3,8 @@ filename = "YungsCaveBiomes-1.20.1-Forge-2.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "b799668cbbc0903e885f5b638119d0221186e5dbfe812eaf391f86ab8a97bd42"
+hash-format = "sha512"
+hash = "c09d75eec4a9e4245e2f0a7cb0b64b6da70ccd46b3d351c2d6baded3deb2f15f6980229be40cc85557b2ccd468f5a4d6b74bb28190723647076aba49bebcaf36"
 mode = "metadata:curseforge"
 
 [update]

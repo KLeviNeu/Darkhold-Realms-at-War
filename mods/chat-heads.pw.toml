@@ -3,8 +3,8 @@ filename = "chat_heads-0.15.6-forge-1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "8abe0c1a82352382abdec3a83d9c059f2bfe49fe477811adefe20713a0a4aa86"
+hash-format = "sha512"
+hash = "f5a3344d01636df66b66e3328a98255dda4e47211e70e2e00d20a19bbce770d5f64bf3e68a322e3e7d372c4fbe4715505bd759d092331268ded01a3c95426dd5"
 mode = "metadata:curseforge"
 
 [update]

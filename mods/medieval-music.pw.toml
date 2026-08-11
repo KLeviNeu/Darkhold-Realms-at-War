@@ -3,8 +3,8 @@ filename = "zmedievalmusic-1.20.1-2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "afe5d3d0b6623fb2df6622a76e8fc93d8ab8b32cd9384ca138dec1944049ac84"
+hash-format = "sha512"
+hash = "1b5dc7811a1fad99fcdf3618faeb85b7e5957bdad16bccb45a5db9e0a65a08e4048a86746b19f7dc25873badb74aa56e20eb14046cb6bc88b5f4e2e288ffd530"
 mode = "metadata:curseforge"
 
 [update]

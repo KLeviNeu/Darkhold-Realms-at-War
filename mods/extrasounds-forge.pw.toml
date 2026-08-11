@@ -3,8 +3,8 @@ filename = "extrasounds-1.5.6+1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "c67783aef93eba20114bd0a5c0d025de02ceefe07b5596828e574c2d99848452"
+hash-format = "sha512"
+hash = "1567f4dc521ccc6f616f1fd400e4c96ec11c420e0a1945d603e99f6ff3b94f1322c7cbb680b738fc61d2e5db59f4fdf1dbf18584d448a7067f1a24b8dd383ee9"
 mode = "metadata:curseforge"
 
 [update]

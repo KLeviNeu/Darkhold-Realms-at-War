@@ -3,8 +3,8 @@ filename = "Barsita-1.20-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "26aa57761d60a62474ae13b2b4ed3582bb0f493c306793cde24b8e20aedd9489"
+hash-format = "sha512"
+hash = "86ed8d0745446a824b72fab253521f3d41e68d8d9085eea40eab7918bb288f15592fb1642f36b6454d610f52759ee27332f2a87bc01e37ec79630c9dc3dc0a9b"
 mode = "metadata:curseforge"
 
 [update]

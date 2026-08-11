@@ -3,8 +3,8 @@ filename = "puffish_skills-0.18.3-1.20-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "123766a820bfe46d520b359a3bc710f774a35fa4f81931c981fa7d1d8cd7a5f8"
+hash-format = "sha512"
+hash = "fd6f8ba15b158d6aa63074677ed1a44731f26490361de4736be78f51985450ef1d1e7032b051857eb5f6e54447a1ea648fdfe5e026df54906c1ca0048fa85e13"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "MakeUp-UltraFast-9.5c.zip"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "8b62b38e6572f230b89035a14c13f596e85c29a7a7422d6a654204aac9ee8a05"
+hash-format = "sha512"
+hash = "67d3938a1ad27ee0951b63703cd638b9db36bcf92c66dfe7ffff4c01ac365e952bbf630af1bb5bbddde8a723e7fb287e88bf80fe0301c70f12b4ebe8546c7947"
 mode = "metadata:curseforge"
 
 [update]

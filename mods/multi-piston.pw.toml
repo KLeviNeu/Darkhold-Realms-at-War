@@ -3,8 +3,8 @@ filename = "multipiston-1.20-0.0.47-snapshot.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "ea41ccf857b3dd9cb7b1128f982fa138f1a62fdb6a4995adbd99eff963d71721"
+hash-format = "sha512"
+hash = "8f015c1e0d0efed2a907e98ae0b22432213d1f787ea090dca856880e1b919535fa522985fea4e2a40cafe61bb9d34dbb12da2390ee2484ad421ad39c7f6a6e5f"
 mode = "metadata:curseforge"
 
 [update]

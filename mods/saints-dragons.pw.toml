@@ -3,8 +3,8 @@ filename = "saintsdragons-0.9.3+forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "4b0026eaf12bb86fbe41f2b7e0b05104a24ae2afd994faed073005ad48d4e5c7"
+hash-format = "sha512"
+hash = "087feafe66274964aa545a2beb53678c17a7f08b04fb9e48783448f69878057423b6a06d661f5d413ad3a073ee4218fa7f7dd094df8e33a42061057f4e5ffe00"
 mode = "metadata:curseforge"
 
 [update]

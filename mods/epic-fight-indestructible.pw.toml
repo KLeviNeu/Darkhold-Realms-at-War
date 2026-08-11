@@ -3,8 +3,8 @@ filename = "indestructible-20.12.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "29b8e44b3b0365e638737c818585ba0e187394002e90e6e86894a969e09bf13d"
+hash-format = "sha512"
+hash = "52480050ce354deca92ea5c1f85f1ccaa8b77dbd6279081b0204de14d0e0d3e65f2b50e8de0cda1a09d5bccc14eb01d114a129a3aefa4aeaaac7d92f55204473"
 mode = "metadata:curseforge"
 
 [update]

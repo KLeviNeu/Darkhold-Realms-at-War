@@ -3,8 +3,8 @@ filename = "fragmentum-forge-1.20.1-1.5.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "c5d12e49e31af941f0dc96b2c9e6e6368ceaa0d4dac24f83af4431f49bca262d"
+hash-format = "sha512"
+hash = "23a0010ea6ebff893d5a8324fbe2d3be167d1263e6f84deadf7c4577132abb88b34fe88647d062acb0802468f5027f234e27a4b53c179cfb0f438f52a1942514"
 mode = "metadata:curseforge"
 
 [update]

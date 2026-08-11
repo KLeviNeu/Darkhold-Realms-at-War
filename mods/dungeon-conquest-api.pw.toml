@@ -3,8 +3,8 @@ filename = "dungeon_conquest_api-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "78e1bb639d49d8f0202b75d00b5edb7e63fe39d0c8052c8f0276833326ee110f"
+hash-format = "sha512"
+hash = "e95a9154ef77e2796541090f5e6c6056d8d2fae14e1aec99b8ccf21f64fa1f31487e661252c8f4b78fa393053326db83df430d5ef53bd9d53c3336a2049f6161"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,6 +3,6 @@ filename = "ba_bt-1.20.1-3.0.0-beta3.2.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/KLeviNeu/Darkhold-Realms-at-War/blob/main/ba_bt-1.20.1-3.0.0-beta3.2.1.jar"
-hash-format = "sha256"
-hash = "64f2f89b2a1d7daf528dbddf41817248fefc0f9070d3aae6eb70799dbe43d85b"
+url = "https://github.com/KLeviNeu/Darkhold-Realms-at-War/raw/refs/heads/main/ba_bt-1.20.1-3.0.0-beta3.2.1.jar"
+hash-format = "sha512"
+hash = "e2596ed73e59c13b73ec8fc4959124ce298a43506b754ae774cd41dcc3cfd8e82882347c2cc0a75ea9315401b56cd727b30afaa3877a707907a97ba06fb54153"
