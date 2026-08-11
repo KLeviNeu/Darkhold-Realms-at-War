@@ -1786,8 +1786,8 @@ hash = "da069e723737ae49203f7572eb774be0fd21f5f083ce7a7ee1bed25916befca8"
 metafile = true
 
 [[files]]
-file = "mods/camps-castles-carriages.pw.toml"
-hash = "e142dab33c940b91b38ee409617130838170a8f126c9f054f890fc10d0b94360"
+file = "mods/camps_castles_carriages.pw.toml"
+hash = "5c1d09c9eb446b8c05f52edff66a12b479629e6c489739b445382abf905d6c58"
 metafile = true
 
 [[files]]
@@ -2002,7 +2002,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "37c8fd64e324fae219a25f9937dad68e2a88ab17a5cd8c3f09029a92afc47641"
+hash = "fbad2488da791994cbb4a0541e2dd22c536dbe6ca8f7edfdd9af12120e283fd2"
 metafile = true
 
 [[files]]
@@ -2232,7 +2232,7 @@ metafile = true
 
 [[files]]
 file = "mods/knights-and-castles.pw.toml"
-hash = "669585914f8d4bead16c9ec71fd31d0f3e5d43a86cde9c1186d4750699aa58df"
+hash = "e5c408eb2f384d510ad233c1331b2b0cfc552973299e72e9d82f2493b37c8a40"
 metafile = true
 
 [[files]]
@@ -2367,7 +2367,7 @@ metafile = true
 
 [[files]]
 file = "mods/millager.pw.toml"
-hash = "03a3328a02b8fd528e283866237b9b447c6ac2681ec855fa27ca1eda0b1e990f"
+hash = "a5aaaf336be23e869ecbbd36eb8bb26b6be0d14dda9cfbe3eb23e38a0884d0db"
 metafile = true
 
 [[files]]
@@ -2592,7 +2592,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
+hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
 metafile = true
 
 [[files]]
@@ -2671,8 +2671,8 @@ hash = "81616d4497a861461df0ef3bb5dc068ac68b89aeff23c0ca5fcbdf1d3be91bd6"
 metafile = true
 
 [[files]]
-file = "mods/trek-mod.pw.toml"
-hash = "284e1bce9a8d8898f958b760af793ab1dec42d7c474ae8fe7dfcab0851f2e909"
+file = "mods/trek.pw.toml"
+hash = "1f541b8ddfb9f0f9b987dcee33be2b9408e17e191ea429658bad5f369ef5c00a"
 metafile = true
 
 [[files]]
@@ -2786,12 +2786,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
-hash = "c3c618df6fa8e9f4b8de628c050cde77fec5fac7778a38ac94b28f42183e3a2a"
+hash = "8ed45d3cf487c5ed8736050223b1b4211d79b44587031238afae1844199727cc"
 metafile = true
 
 [[files]]
 file = "resourcepacks/visual-travelers-titles.pw.toml"
-hash = "6488e8100ae61aed581986f7a7a371590f4dcd20e031d86c3cf9ec53edc28aef"
+hash = "6dc2fb07f22e7ab4d62399bf38e7287ae9d00177718b5b21ba6cc17bdcf9d9e7"
 metafile = true
 
 [[files]]
