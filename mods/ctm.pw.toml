@@ -3,8 +3,8 @@ filename = "CTM-1.20.1-1.1.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5381b3092d99c8f16f9fe36b3b680dee63db33a9"
+hash-format = "sha512"
+hash = "0404c49305b8ded5c9a27e9b631dcdad83269a4d321501a0d28b36b0857df8524c11ab78c5566d076993993cb737a46f44f077ca17e5b6bf9a1cbb43b58a7839"
 mode = "metadata:curseforge"
 
 [update]

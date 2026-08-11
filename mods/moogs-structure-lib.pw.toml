@@ -3,8 +3,8 @@ filename = "moogs_structures-1.20-1.20.4-3.0.2-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "73abd51db47e96593bb3e34ce33ac4230c42f861"
+hash-format = "sha512"
+hash = "f72720fa1b00ba1dbc9a8901f5017aee45d69607223f0bcab5408adc88c9466d4ab24adeb306e93643a97f68b3f4ac2856c26278a4e675aca39325b522e8e58a"
 mode = "metadata:curseforge"
 
 [update]

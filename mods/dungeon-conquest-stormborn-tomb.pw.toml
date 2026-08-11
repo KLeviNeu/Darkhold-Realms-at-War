@@ -3,8 +3,8 @@ filename = "stormborn_tomb-1.3.5 forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6f3557120977b8cff31358c82ff5920d6219eb58"
+hash-format = "sha512"
+hash = "ced3a509b71e615f4936b01f04e81fa0dd5be7d2c2d0880fc79f29eec1b7850fff3ca3d3bc0da213ceda4edf857719ee2ec905b0c77bc477af7b4662f9f5960a"
 mode = "metadata:curseforge"
 
 [update]

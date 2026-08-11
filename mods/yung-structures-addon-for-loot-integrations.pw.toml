@@ -3,8 +3,8 @@ filename = "lootintegrations_yungs-1.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a0a2a57cb89435048819be14666c2a9f8d956828"
+hash-format = "sha512"
+hash = "249c65a85f8f879f15ae0a4cedcc722107279a0eee03f9770858be851181be2270068afbdc19a8a9f22cabaef740b0dec22744b16939d9c9e471fb77dc893a30"
 mode = "metadata:curseforge"
 
 [update]

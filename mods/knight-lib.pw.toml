@@ -3,8 +3,8 @@ filename = "knightlib-forge-1.20.1-1.6.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "eb03a424f191b559412b05217c246047a7568733"
+hash-format = "sha512"
+hash = "774a1294e6241861c1ede15ec24e1af0e548120bfa73537ee900be4b93e8a0381b3cb41426790a7e7e449410cf15dff0b140fcd263c1effdfe2dfc28ddea0228"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "CombatEvolution-2.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "12f157f94b9dd095f0c91a6ff7c57a190fc5d53d"
+hash-format = "sha512"
+hash = "7f8ef4bf97198ba7ddb8b26f7bb4cc2481f0f9117803b275ea0f6aa2a0f51ff16fb9a454adeab48aeaff329d770c00d28d2f914cacd230780cc392a3e43c8bb8"
 mode = "metadata:curseforge"
 
 [update]

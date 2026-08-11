@@ -3,8 +3,8 @@ filename = "iss_scroll_description-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "de741dcb9ad4c908ff37f637c42008c58042b40e"
+hash-format = "sha512"
+hash = "79cc6f8b3ddc8a12dcd75ea7ff2dcf3c7779970e3c12c915de06217ffb7803a743906f027c225055143b3f307f73253be0ad211acdd8784e69bb95e9c0085d7a"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "AltOriginGui-forge-1.20.1-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a98a708e3751f167d5e669839a90915c56a9d56f"
+hash-format = "sha512"
+hash = "2ca9728a23504d106bfe7e533acd981602b37478692ea184ea1b952c264e8e0b410c5201f5f023817a1f0fdc156fbd1d3d96c8576c290766acfd66df08369450"
 mode = "metadata:curseforge"
 
 [update]

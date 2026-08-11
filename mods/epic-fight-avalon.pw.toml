@@ -3,8 +3,8 @@ filename = "epic_fight_avalon-20.12.6.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0843f9e18063532304ab85ec5da310ae2d425c35"
+hash-format = "sha512"
+hash = "feb145c595ffbf80f451cf11e110e9f0236b31c65cf37fb41d9debaea5f1964a95c92396b5b1f1da45c5d19a7739f372f9c0a3f455098834786d224eed6ec690"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "uniqueaccessories-1.3.3-forge-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b3e1f0ad0e75c2e341d9c30bbb523cdbf360a81f"
+hash-format = "sha512"
+hash = "e486abb81e9cd23c8c5e8ec061957c87bff19b4a127f28e4c3b2df729b2241aa71bb3e514d076eaabaedc679a884b629cf79db7bb36d4e911b7c5a7c8d430aca"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "p1nero_ec-20.14.0.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "28a713f9518fabe9ca6b14637b07858e0b53b1b9"
+hash-format = "sha512"
+hash = "0c62179518d40281d51f652fcd2662aff79c4978e6dd4231796d0cfa84289b34d98e847b1b698dab5052ca564e1b8299e89ae8b368edf1d1434b2c8ece6a68eb"
 mode = "metadata:curseforge"
 
 [update]

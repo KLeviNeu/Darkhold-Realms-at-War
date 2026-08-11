@@ -3,8 +3,8 @@ filename = "lootintegrations_ctov-1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4d24044f3757946ded3cf507e2fc5733635c5dba"
+hash-format = "sha512"
+hash = "cd15f0343a88aaffbdd3ca6eb6bdd68d008a04a186d11c91edd47be43a1377b0c2414534ede8c3d20d35e2df5a98541e36706d59864f2285a6ab14b76ecc68bb"
 mode = "metadata:curseforge"
 
 [update]

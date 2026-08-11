@@ -3,8 +3,8 @@ filename = "forge-medievalend-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "11e2b53ec5c85ee01fe689ea9ebd695ee0ceb299"
+hash-format = "sha512"
+hash = "54a775af0b3b68b2d44227cddf06b062412e5bff6622507fd8cc600a234aca27afbfd17a5e5a94dee44a380a2f518a42cf67a850a27d2c09fddee940aa1b5b5e"
 mode = "metadata:curseforge"
 
 [update]
