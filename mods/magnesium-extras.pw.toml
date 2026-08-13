@@ -3,8 +3,8 @@ filename = "sodiumextras-forge-1.0.7-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "47f298943079eb6b8f5222cbb093fec0c29c86a6f68e8000545059d64ff5c4cbf76fa774565a0d4d89d1fb0a278b62292f7619fb818e4fdfd9f01a637e7fcbfb"
+hash-format = "sha256"
+hash = "ce9a13c5f07e350f9c0b86af9e096aedb91cbc72996e59646da61ec724f1e4df"
 mode = "metadata:curseforge"
 
 [update]

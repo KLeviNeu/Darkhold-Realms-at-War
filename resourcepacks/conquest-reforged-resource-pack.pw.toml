@@ -3,8 +3,8 @@ filename = "CRRP-2.0.3+1.20.1.zip"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "83bd7c9b1886f4b0a6fb44784028b34a3a08530742bab59f2feb29365f4afd13abf307e118a94c5bd0948fa117c3c78da38e30ada65b0958177b825e58dcc8cc"
+hash-format = "sha256"
+hash = "d1aac0f31ce0d48f4290163190145c2a4fcfbee7ab7c2739ed31aca8c926073c"
 mode = "metadata:curseforge"
 
 [update]

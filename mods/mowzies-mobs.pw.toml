@@ -3,8 +3,8 @@ filename = "mowziesmobs-1.8.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "c1c5f7b8cba4dbbe57f8eb7150bea94a72076ef4ae923adf7fe1147eef703e4fedc7914a12d51fb4152faccaad94c4053ce3ff21cca8905bf2da17de61db43b0"
+hash-format = "sha256"
+hash = "e8ce1768cda6f1e1fadd2321c92921b473bd0cee45ba4b8387fb30f8326cb31c"
 mode = "metadata:curseforge"
 
 [update]

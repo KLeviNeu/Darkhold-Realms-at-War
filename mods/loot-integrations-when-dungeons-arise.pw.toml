@@ -3,8 +3,8 @@ filename = "lootintegration_wda-1.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "ead1a8c6e9b27d56b5a38e9afb58480a4a6c34c1abcbd6bc37f619688fef3e3936375e7ca9a5537f0bbccf24de0ed4ec3503624b711c40cef08f61702f318da0"
+hash-format = "sha256"
+hash = "8645bc1926c231c715beb2393141c97079f9a84798039734479d69753ddd42bb"
 mode = "metadata:curseforge"
 
 [update]

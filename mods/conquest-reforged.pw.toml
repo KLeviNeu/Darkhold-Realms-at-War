@@ -3,8 +3,8 @@ filename = "ConquestReforged-forge-1.20.1-1.6.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "5709688040a2308c52433720fa52342bd9d5e8065ba71ce679333008597a726b3ae87b0a6a6a6cfa127b6c14b689d43ba638b44631b4d099f4157945d77a2e0a"
+hash-format = "sha256"
+hash = "0a32a249b3a06d9d00567d4058c8232f7d61d6b951cf7ac8974f8d7d8d2692a3"
 mode = "metadata:curseforge"
 
 [update]

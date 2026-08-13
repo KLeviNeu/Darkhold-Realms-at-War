@@ -3,8 +3,8 @@ filename = "cinematiccataclysm-1.0.1-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "8d2c2c3456db59b6fd63943e41998048dca1a9b68c73dbc2db0354009bcbd524080dd2cc53a85dde7bf06dacaf5a0ca828fbbc88cbbac31f624cc4f266ac45de"
+hash-format = "sha256"
+hash = "2bd504cd4fa0d1cd8981d4e4f26a37a8bb0e900b8011b3cbb0ec048f824eb139"
 mode = "metadata:curseforge"
 
 [update]

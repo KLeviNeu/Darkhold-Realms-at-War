@@ -3,8 +3,8 @@ filename = "betterlockon-2.0.11-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "2d076148da6c75cc4ffa8cc159d970f47745d5e8f9e59b46ab0877c217218306f13cfc2715dd00d072ac3bc1701429f09758d9f3fd7f0d5652395af37fcc9cfa"
+hash-format = "sha256"
+hash = "0a0718eedeeeb51a9b962a3ed95d275be80ff6cc2a7c8966584d39d9cd4f17fa"
 mode = "metadata:curseforge"
 
 [update]

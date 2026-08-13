@@ -3,8 +3,8 @@ filename = "YungsBetterCaves-1.20.1-Forge-2.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "e211aff143a238d78765a3b6bcd988bcd1eb5918221994927a64285d3bb9c49bbe10c14bcce2afa212f07e83b57013fddb578d739e3fe27f1f3a43f6314ff494"
+hash-format = "sha256"
+hash = "bd1e07e03626ad851e7b84e5a8a6ecdd976f7e923a3e56df69c6b6e906e7389e"
 mode = "metadata:curseforge"
 
 [update]
