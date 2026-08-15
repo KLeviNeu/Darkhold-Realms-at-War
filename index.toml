@@ -2219,12 +2219,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "0ab1f8c59f6b28e424f4091297289ebca41681d3fc029d6dbd3c12c29aaeb37e"
+hash = "9058a347c31921851d38b5e40ab01f7c75e28dd7f38d9c3cc69655656faaa5d5"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f1e165c7b877a17146b1c2d139d88b373a215749716013edce91a56c6dd8f3c7"
+hash = "8cbe59b9df0a1d338cc5c3b437ee3be9ab6f16e3004cce70243c062d83877e11"
 metafile = true
 
 [[files]]
