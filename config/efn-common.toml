@@ -176,4 +176,3 @@
 	#Format: ["swordCount,radius"] for each ring.
 	#Example: ["1,0.0", "4,1.0", "8,2.0"]
 	customArray = ["2,0.0", "3,0.7", "8,1.5", "8,3.5", "7,4.5"]
-

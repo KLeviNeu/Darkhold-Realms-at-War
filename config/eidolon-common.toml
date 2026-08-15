@@ -18,4 +18,3 @@
 	soulEnchanterMaximumUses = -1
 	#How many enchantments the item is allowed to have to be applicable for soul enchanting (a value below 0 means unlimited)
 	soulEnchanterMaximumEnchantments = -1
-

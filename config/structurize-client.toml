@@ -20,4 +20,3 @@
 [gameplay]
 	#Sneak+scroll on the hotbar switches scan tool slots [Default: false]
 	scan_tool_scrolling = false
-

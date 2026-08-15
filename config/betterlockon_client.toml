@@ -71,4 +71,3 @@
 ["Entity Lock on Joint List"]
 	#example: minecraft:zombie#Head,Chest,Default
 	entityLockonJoint = []
-

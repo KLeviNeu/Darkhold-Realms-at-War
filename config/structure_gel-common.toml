@@ -28,4 +28,3 @@
 	# - Gel blocks automatically replace destroyed neighboring blocks.
 	# Default: true
 	advanced_gel_behavior = true
-

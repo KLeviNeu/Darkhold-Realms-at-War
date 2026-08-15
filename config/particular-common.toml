@@ -143,4 +143,3 @@
 			accelChangeChance = 180
 			#Biomes where cave dust won't spawn
 			excludeBiomes = ["minecraft:lush_caves", "minecraft:dripstone_caves", "minecraft:deep_dark"]
-

@@ -76,4 +76,3 @@
 	ownedSummonsGlow = true
 	#Hex Color Value of owned summons glow outline. Default: 0xAAFFAA
 	summonGlowColor = "0xAAFFAA"
-

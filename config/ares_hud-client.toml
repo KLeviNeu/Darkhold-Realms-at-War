@@ -247,4 +247,3 @@
 		#Automatically snap the XP/Ascension orb to the center of the gap between left and right status bars.
 		#When disabled, a scale-aware proximity check is used instead.
 		snapXpToCenterHud = true
-

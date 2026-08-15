@@ -3,4 +3,3 @@
 	#If true, enable auto releasing effeks when
 	#the OS has high memory usage.
 	enabled = false
-

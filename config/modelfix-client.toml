@@ -18,4 +18,3 @@
 	#set to 0 for non macos behavior. 1 keeps vanilla behavior to prevent atlas bleeding
 	#Range: 0.0 ~ 1.0
 	shrink_ratio_multiplier = 1.0
-

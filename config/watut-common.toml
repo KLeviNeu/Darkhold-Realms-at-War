@@ -6,4 +6,3 @@
 	#Default 5 minutes
 	#Range: > -2147483648
 	ticksToMarkPlayerIdle = 6000
-

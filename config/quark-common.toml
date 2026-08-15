@@ -1951,4 +1951,3 @@
 		"Destroy Lost Items" = false
 		#Set this to false to only allow the owner of a totem to collect its items rather than any player
 		"Allow Anyone To Collect" = true
-

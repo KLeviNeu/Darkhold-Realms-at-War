@@ -24,4 +24,3 @@
 	deduplicateEmitterTransforms = true
 	#Periodically remove already-finished detached first-person emitters.
 	cleanupDetachedHandEmitters = true
-

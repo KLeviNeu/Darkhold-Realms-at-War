@@ -20,4 +20,3 @@
 [screen_particles]
 	#Are screen particles enabled?
 	enable_screen_particles = true
-

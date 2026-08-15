@@ -6,4 +6,3 @@
 [stun_animation]
 	#Replace player stun animation
 	replace_player_stunanimation = true
-

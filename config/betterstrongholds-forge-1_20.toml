@@ -17,4 +17,3 @@
 		# The rate at which lanterns spawn throughout the stronghold.
 		# Default: 0.2
 		"Lantern Spawn Rate" = 0.2
-

@@ -3,4 +3,3 @@
 [common]
 	#Turns on/off loot added to various vanilla chest loot tables
 	chestLootEnabled = true
-

@@ -58,4 +58,3 @@
 	dontSendDetailedGUIInfo = false
 	#Privacy setting, if you dont want to show the items you are transferring to and from yourself and containers, set this to true
 	dontSendItemInfo = false
-

@@ -17,4 +17,3 @@ press_protect_tick = 110
 #代码开发者可在Builder额外设置。
 #Range: > 0
 max_press_tick = 100
-

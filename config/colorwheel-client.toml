@@ -4,4 +4,3 @@ alertIncompatiblePack = true
 alertBrokenPack = true
 #Should fallback mode be used for non supported shaderpacks.
 enableFallbackMode = false
-

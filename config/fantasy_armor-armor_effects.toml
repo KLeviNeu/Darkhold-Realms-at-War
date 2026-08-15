@@ -87,4 +87,3 @@
 
 	["Armor Effects".ornstein]
 		effects = ["minecraft:regeneration,259,0", "minecraft:resistance,259,0"]
-

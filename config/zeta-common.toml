@@ -25,4 +25,3 @@
 	"Enable Creative Verbose Logging" = false
 	#Set to true to force all creative tab additions to be added to the end of the creative tabs rather than the middle, as a failsafe
 	"Force Creative Tab Appends" = false
-

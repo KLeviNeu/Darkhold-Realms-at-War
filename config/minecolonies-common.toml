@@ -8,4 +8,3 @@
 [requestsystem]
 	#Should the request system show debug information in the debug.log? Useful if malfunctioning. [Default: false]
 	enabledebuglogging = false
-

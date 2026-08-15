@@ -65,4 +65,3 @@
 	move_time = 20
 	#Make outdated entry names slowly fade away instead of simply vanishing.
 	fade_away = true
-

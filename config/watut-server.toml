@@ -47,4 +47,3 @@
 	playScreenOpenSounds = true
 	#Plays a sutble sound when a player clicks their mouse in a Gui
 	playMouseClickSounds = true
-

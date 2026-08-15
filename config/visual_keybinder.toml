@@ -18,4 +18,3 @@
 	#Reposition the menu button vertically.
 	#Range: -10000 ~ 10000
 	menu_button_offset_y = 0
-

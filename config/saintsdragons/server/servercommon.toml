@@ -24,4 +24,3 @@
 	#Ticks between Ivy's trade restocks (20 ticks = 1 second, 24000 = 20 minutes).
 	#Range: 20 ~ 72000
 	ivyRestockInterval = 24000
-

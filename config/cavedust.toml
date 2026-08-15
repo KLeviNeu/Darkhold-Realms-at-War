@@ -24,4 +24,3 @@
 	#translation{key='menu.cavedust.particle.tooltip', args=[]}
 	#Range: 0 ~ 95
 	particleID = 80
-

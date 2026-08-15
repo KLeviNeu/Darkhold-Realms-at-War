@@ -21,4 +21,3 @@
 	#Alpha value of the flashing icons at their most visible point (1.0 = fully opaque, 0.0 = fully transparent)
 	#Range: 0.0 ~ 1.0
 	maxHudOverlayFlashAlpha = 0.65
-

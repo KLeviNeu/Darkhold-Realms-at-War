@@ -13,4 +13,3 @@ rep_from_heal = 3
 #Devotion to extra healing ratio
 #Range: 0.0 ~ 1.0
 devotion_to_heal = 0.05
-

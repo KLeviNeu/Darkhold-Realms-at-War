@@ -16,4 +16,3 @@
 	#The weighting of rare bop biome regions in the nether.
 	#Range: > 0
 	bop_nether_rare_region_weight = 2
-
