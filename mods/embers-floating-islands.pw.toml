@@ -3,8 +3,8 @@ filename = "floating_islands-1.5.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "082e108fd0322ddcef0899cdcfc3cc8ae190ea38adbf2ae0ffa2b112ef9fcc6c"
+hash-format = "sha512"
+hash = "7492cac83dcdff89b211b203161b4078a64f9cb816979eaa6d8167170466e83e2caad28f0061bba16a419e7512d97c3610d121f0a8ef3bf1c6e775ca1b065dcc"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "particular-1.20.1-Forge-1.5.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "94da59ab88871784cbac33d9b1a6de85d870a3684a3e1973da5058289acd5f8d"
+hash-format = "sha512"
+hash = "2b7bb73c6e4639580f609948dd85585f32f2a87a118e1af9d6eb8d117823332f092d5c144a2ba15b223c450c84bdeca8e283640ded5f3eb23917c0903876796d"
 mode = "metadata:curseforge"
 
 [update]

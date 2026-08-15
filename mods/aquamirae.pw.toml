@@ -3,8 +3,8 @@ filename = "aquamirae-forge-1.20.1-6.4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "1a9c845ba2e1fe0bbf321a66453e26e62bb6b528849be2f8281db9f17a0c7aca"
+hash-format = "sha512"
+hash = "d4f689e25f691cf4bafdf1eb26901c4b6d0548c73b136537b90ac649c4f6fa52b00557abf7c82dfbcedd57be5f6931dbfb577cb88f4f9fd4b4725f088200321d"
 mode = "metadata:curseforge"
 
 [update]

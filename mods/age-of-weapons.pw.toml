@@ -3,8 +3,8 @@ filename = "AgeOfWeapons - Reforged v.1.3.2c.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "7cdd3830e40d4d7f5a2fb19dbad26097f49e1daebc67c55cad4acbb15fc50a1c"
+hash-format = "sha512"
+hash = "268567d6bc401bf49c886d46178feec09e79a6645a7a5c842f12ecde9768966ef2a59da2927bcb0b42da044735a272b782f95713b9f662555885781b355311f8"
 mode = "metadata:curseforge"
 
 [update]

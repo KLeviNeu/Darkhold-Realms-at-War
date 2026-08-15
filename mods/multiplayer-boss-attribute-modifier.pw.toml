@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/KLeviNeu/Darkhold-Realms-at-War/raw/refs/heads/main/multiplayer_boss_fight-forge1.20.1-1.0.3.jar"
-hash-format = "sha256"
-hash = "798d49cb14f03ed0470e77b6a9cdd53df206a71c259b1e0ee70a2f3f1a8ed10d"
+hash-format = "sha512"
+hash = "f81271d2c76a6f3512f809eba99d08975c58499c840098f618a6faa4c953cbe83a9d268f5be953322336776225f64201f1e55a9f72d5b33853f7a40d3cec1dcc"

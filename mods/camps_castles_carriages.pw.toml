@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/h9XxzZxe/versions/RBmuDEPI/camps_castles_carriages-2.3.4.jar"
-hash-format = "sha256"
-hash = "ccd630b63cb3118c167be271ab41330f5348aa380ecdef000f2d22ed883536ea"
+hash-format = "sha512"
+hash = "f8e87ddccb6b25b1b5bfe95ef48bb44e9c6cd4bf1905b9b58d2a24b437bd920cbace571ac2f45c36d374a56ef7eb12b6aff646cceadf331dccef5f4869161887"
 
 [update]
 [update.modrinth]

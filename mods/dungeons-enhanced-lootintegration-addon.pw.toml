@@ -3,8 +3,8 @@ filename = "lootintegrations_dungeonsenhanced-1.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "864f4723442bcb9249e493ddb990ea3f69473d9f9a9404b0ba68f4bc2e92f205"
+hash-format = "sha512"
+hash = "6a4c39f772b51a94fcd2764b4571e5bd1dc2640c692dfd199b267b18476ed30948e0930d7fdeb4aa9ecba977400a0f3b3581b885de42699f1fecb39adf792325"
 mode = "metadata:curseforge"
 
 [update]

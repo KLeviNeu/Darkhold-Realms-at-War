@@ -3,8 +3,8 @@ filename = "Connector-1.0.0-beta.49+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "caf19c97c0fce9158e03e354d4ebf556e8f1745c868da5dc4f6b7498727ab29f"
+hash-format = "sha512"
+hash = "62f41b332b52a99e3b72bcf28f4a145769ba9e3cb8747cbd5abb79a5894d5b0810d84ce6edd9ee75778f3eff233972b636d2e92797d5890313966f68ffb29a82"
 mode = "metadata:curseforge"
 
 [update]

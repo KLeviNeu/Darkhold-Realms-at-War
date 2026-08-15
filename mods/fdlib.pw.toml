@@ -3,8 +3,8 @@ filename = "fdlib-1.0.9-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "27dc0b1bd0ec9fae0ab97ebeb09cc4d8cf16cdae7eae12d2e0e49c0264e0cd6b"
+hash-format = "sha512"
+hash = "dd65d8f5192361e919c4b783054d902cf1db5e6d3e2fcf7ff82cd679ae3fdec41789150f415978e7aed9b5c57128ece8461e96a962613bde6cc057e5ba2e03ac"
 mode = "metadata:curseforge"
 
 [update]

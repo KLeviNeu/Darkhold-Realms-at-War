@@ -3,8 +3,8 @@ filename = "MoogsVoyagerStructures-1.20-5.0.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "584749f9e963313984dacbfbe0aff32f6a99ddd8c662c18a5b44aba375aa2fb1"
+hash-format = "sha512"
+hash = "d6f476d63fda8cb70e9fb1b33774ed3b737c14ef1a7a54076a4af75251728d55e76038b8b68be7636c21a9c41acdf0a4b6f7b60cd5377681335184384515f0f4"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "lootintegrations_structory-1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "3d6dd6dc2abb042a0ffd993971d2f0bb91d1f100e58e219aa3c8c5f5a248b3df"
+hash-format = "sha512"
+hash = "271bb47dc0761b181106e706aa8d14e476015fa880f77efd1b8affd4e3cd98b06f1cff9042c93a7f691c057accbf172500fa367d8f6201e639df6838b98389c0"
 mode = "metadata:curseforge"
 
 [update]

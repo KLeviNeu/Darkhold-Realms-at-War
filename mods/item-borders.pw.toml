@@ -3,8 +3,8 @@ filename = "ItemBorders-1.20.1-forge-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "23710606b68c5367ef28d2efa55d8efc4a7d1df8ac1f232e4327977cd1a16b56"
+hash-format = "sha512"
+hash = "9822eaa5debee8b8a67c185fec2f03f4a5bf25513cb4ef3567266dab44280564050ebcf730b43782e1f12a4d6e19668bdedb60279c1b53925ccbed5b6680ba3b"
 mode = "metadata:curseforge"
 
 [update]
