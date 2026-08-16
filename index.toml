@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "autostop-1.0-SNAPSHOT.jar"
-hash = "4aceed7e5dce40cbf0afe0c12b5a9113012c7c0a1a25d4fcc6a474d241e3fe2b"
+hash = "8867e27e91e95e3db6fcdb1fd985d3a0d65728bc9ec2282d0ff3d7b3a32e0925"
 
 [[files]]
 file = "ba_bt-1.20.1-3.0.0-beta3.2.1.jar"
@@ -2610,7 +2610,7 @@ metafile = true
 
 [[files]]
 file = "mods/statuswebhook.pw.toml"
-hash = "947629f30dbb7d3cd015c94c661f1a64b9fecf47adea426825f2a3051b952b48"
+hash = "a66170d9bdfbe9c8c55719b138479d0e66c8aab26b13e8e3048aa9c3c0605559"
 metafile = true
 
 [[files]]
