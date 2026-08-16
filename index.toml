@@ -1733,6 +1733,11 @@ hash = "793730927f38c853ea3ee157082548437df705ec9cefd2477d865419c94a35ef"
 metafile = true
 
 [[files]]
+file = "mods/autostop.pw.toml"
+hash = "46181bf626b3e99cc0b87614d6f69f29e28fa07c158f3a1c548af18c8ffe1711"
+metafile = true
+
+[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "5359e6e635ebefb507e7cb81abff081d36f94d1c2ba60d65278516a9098d7693"
 metafile = true
@@ -2523,6 +2528,11 @@ hash = "88bb828aa5038136fffa6d9938e0dea14d517354ca82b8ae308d11241bf0d09a"
 metafile = true
 
 [[files]]
+file = "mods/proxy-compatible-forge.pw.toml"
+hash = "5f5c428c2356afaf73018ea9c24fe90cb60e4c7ca1192aef47c2731de6fe0bf2"
+metafile = true
+
+[[files]]
 file = "mods/puffish-skills.pw.toml"
 hash = "3154ad2466679bbd5d74700a4cfe0c042048b814b34b2928718bdba699cb8282"
 metafile = true
@@ -2600,6 +2610,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "a80b656d856850a891b4a29137c11bcb5833de69f6402a0f9980646e03c26940"
+metafile = true
+
+[[files]]
+file = "mods/statuswebhook.pw.toml"
+hash = "85eb6dd4c70f4a0841bc1b1b557f338c2c673766c3656fa6fa5bfea8a7e12fa9"
 metafile = true
 
 [[files]]
