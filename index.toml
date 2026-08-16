@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "autostop-1.0-SNAPSHOT.jar"
-hash = "74a86d83a851590d42d35623138ed671ea0152a8472f2d808369a8c78a52a7f5"
+hash = "86d5517e3e95159f6a969845434ce1a9427042e43227aa80b1b6629f967b16b1"
 
 [[files]]
 file = "ba_bt-1.20.1-3.0.0-beta3.2.1.jar"
