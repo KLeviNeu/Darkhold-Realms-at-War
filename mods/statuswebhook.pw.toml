@@ -3,6 +3,6 @@ filename = "statuswebhook-1.0-SNAPSHOT.jar"
 side = "both"
 
 [download]
-url = "https://github.com/KLeviNeu/Darkhold-Realms-at-War/blob/main/statuswebhook-1.0-SNAPSHOT.jar"
+url = "https://github.com/KLeviNeu/Darkhold-Realms-at-War/raw/refs/heads/main/statuswebhook-1.0-SNAPSHOT.jar"
 hash-format = "sha256"
-hash = "a16e7be0f94ccb9b32661bf83fecd2876d8a9cd212a6c959098e711e591c698f"
+hash = "e8f73337776ba3089b25da8ea34866dbadac97c7d8556a1e1f3e877cfef6dc38"

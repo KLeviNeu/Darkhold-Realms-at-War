@@ -1730,7 +1730,7 @@ metafile = true
 
 [[files]]
 file = "mods/autostop.pw.toml"
-hash = "46181bf626b3e99cc0b87614d6f69f29e28fa07c158f3a1c548af18c8ffe1711"
+hash = "70de102909847940e67bc027be9b573ae7c0bfc0458addd2158225c6ff8d20e3"
 metafile = true
 
 [[files]]
@@ -2610,7 +2610,7 @@ metafile = true
 
 [[files]]
 file = "mods/statuswebhook.pw.toml"
-hash = "85eb6dd4c70f4a0841bc1b1b557f338c2c673766c3656fa6fa5bfea8a7e12fa9"
+hash = "947629f30dbb7d3cd015c94c661f1a64b9fecf47adea426825f2a3051b952b48"
 metafile = true
 
 [[files]]
