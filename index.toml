@@ -149,6 +149,10 @@ file = "mods/autostop-1.0-SNAPSHOT.jar"
 hash = "86d5517e3e95159f6a969845434ce1a9427042e43227aa80b1b6629f967b16b1"
 
 [[files]]
+file = "mods/autostop-1.0.0.jar"
+hash = "2114207dad4cb6cbe7c0feb3656fd2f921adc180723c7a09ebdf62ca38f3b9d8"
+
+[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "5359e6e635ebefb507e7cb81abff081d36f94d1c2ba60d65278516a9098d7693"
 metafile = true
@@ -1015,6 +1019,10 @@ metafile = true
 [[files]]
 file = "mods/statuswebhook-1.0-SNAPSHOT.jar"
 hash = "d172eb672edad89c20d5a621275183ed083931f831af85956833e42cb8b15da1"
+
+[[files]]
+file = "mods/statuswebhook-1.0.0.jar"
+hash = "4fc31cbb2d66ed1d327744ad223bc588312399f48c61e7930e7fcdda5349eb49"
 
 [[files]]
 file = "mods/structory.pw.toml"
