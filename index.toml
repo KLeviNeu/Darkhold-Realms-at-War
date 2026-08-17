@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-unbound.pw.toml"
-hash = "844ff1e90b738ff33f83d7c5932f3a9bd2b1bb308bafd689725461e46f5df6d9"
-metafile = true
-
-[[files]]
 file = "datapacks/VQ_EFCompat1.1.zip"
 hash = "813628339caf51701513d6d6374920d9e9080f92034320e93e4cf42f07dd1c24"
 
@@ -88,11 +83,6 @@ hash = "c92d7a6dc58ca7168bda2dfc3cc0a5acde7af7a4d2134ec54d2014ecf47d9928"
 [[files]]
 file = "datapacks/packmenu/resources/pack.png"
 hash = "db4ba9188052b75c67fe536e5e7fc127499611abcb98b3542cf79a450fa13ece"
-
-[[files]]
-file = "makeup-ultra-fast-shader.pw.toml"
-hash = "63fa25d30274ff9a449a145a31a07909091a11eeecc195f8d34074402a9fe6dc"
-metafile = true
 
 [[files]]
 file = "mods/aaa-particles-world.pw.toml"
@@ -1242,5 +1232,15 @@ file = "shaderpacks/MakeUp-UltraFast-9.5c.zip.txt"
 hash = "aad98e732f2828762d574c705a9a30cb95c779d59b36bed7cdfbbea94958b009"
 
 [[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "844ff1e90b738ff33f83d7c5932f3a9bd2b1bb308bafd689725461e46f5df6d9"
+metafile = true
+
+[[files]]
 file = "shaderpacks/iris-fabric-loader-0.19.3-1.20.1.json"
 hash = "067666f88e89d2f96cb353dfe26b4fbc1e2bdad3d4b0904ec928bb6ed853b3ee"
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
+hash = "63fa25d30274ff9a449a145a31a07909091a11eeecc195f8d34074402a9fe6dc"
+metafile = true
