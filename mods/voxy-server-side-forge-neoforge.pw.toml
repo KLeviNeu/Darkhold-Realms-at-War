@@ -1,0 +1,13 @@
+name = "Voxy Server Side Forge / NeoForge"
+filename = "vss-0.2.10-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "81ebf9c15d6f2a5fcce7ce256ebdf900cde511889503f5cc81688a36f566b80dd55f15400a5b1d9ecef535bdaccc9dd1aaccebe210c40d8b3d11a0514c8bee48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8647019
+project-id = 1591852

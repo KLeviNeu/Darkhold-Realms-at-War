@@ -1,13 +1,13 @@
 name = "Forgified Fabric API"
-filename = "fabric-api-0.92.6+1.11.14+1.20.1.jar"
+filename = "fabric-api-0.92.6+1.11.15+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha512"
-hash = "3b84ea415d9255861bcbf78cfda3987b78aa452361bf44ba6a0223501a25ab5c5c55cb0eac6f460c88b8cec958f2b59211e488277c26e3432a08196f62049e7c"
+hash = "ded32d8eda52ac42f966950ee3d3d716f87c05262442e10f05e08d302fc9948fd1fb8844179bf521bf369e7253e60d81e26e1b74f0d63c42f1140170a207876a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6885853
+file-id = 8641553
 project-id = 889079

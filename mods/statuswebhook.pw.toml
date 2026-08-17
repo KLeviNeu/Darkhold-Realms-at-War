@@ -1,8 +1,0 @@
-name = "statuswebhook"
-filename = "statuswebhook-1.0-SNAPSHOT.jar"
-side = "both"
-
-[download]
-url = "https://github.com/KLeviNeu/Darkhold-Realms-at-War/raw/refs/heads/main/statuswebhook-1.0-SNAPSHOT.jar"
-hash-format = "sha512"
-hash = "04dcef89d49cad9cd7f82b495877dc29ee602384c0f3930fd35059871a66bcc4f5f0d6c0578e6b15e96e8ce65defbb2506f1976f29e6de8980cd9b47c05fa23c"

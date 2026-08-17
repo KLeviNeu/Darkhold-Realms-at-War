@@ -1,11 +1,12 @@
-name = "Darkhold"
+name = "Darkhold Realms at War"
+author = "The Komár Brothers"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9cbb1bc738ebe9c3e9b1583095a0d5cdda02b399b87fa0b3f1947eeeb3150a82"
+hash = "0aa017a69fbc98097f573cb9e9dcbf935d12b9ab9bf92d8b651b70dfbf9ecd0d"
 
 [versions]
 forge = "47.4.22"

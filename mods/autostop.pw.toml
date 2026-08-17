@@ -1,8 +1,0 @@
-name = "autostop"
-filename = "autostop-1.0-SNAPSHOT.jar"
-side = "both"
-
-[download]
-url = "https://github.com/KLeviNeu/Darkhold-Realms-at-War/raw/refs/heads/main/autostop-1.0-SNAPSHOT.jar"
-hash-format = "sha256"
-hash = "4aceed7e5dce40cbf0afe0c12b5a9113012c7c0a1a25d4fcc6a474d241e3fe2b"
