@@ -222,11 +222,6 @@ hash = "cffb13add639045115280a4d5f35f9308b7fe2ba3f1b8e9e25653f8772cdd5ef"
 metafile = true
 
 [[files]]
-file = "mods/camps-castles-carriages.pw.toml"
-hash = "a58cb817b1d79da3a19b17439174b087c41efc27c565e96a32213567c2cbab1b"
-metafile = true
-
-[[files]]
 file = "mods/camps_castles_carriages.pw.toml"
 hash = "5c1d09c9eb446b8c05f52edff66a12b479629e6c489739b445382abf905d6c58"
 metafile = true
