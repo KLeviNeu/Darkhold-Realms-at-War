@@ -1,13 +1,13 @@
 name = "Aquamirae [Forge Edition]"
-filename = "aquamirae-forge-1.20.1-6.4.0.jar"
+filename = "aquamirae-forge-1.20.1-7.1.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "d4f689e25f691cf4bafdf1eb26901c4b6d0548c73b136537b90ac649c4f6fa52b00557abf7c82dfbcedd57be5f6931dbfb577cb88f4f9fd4b4725f088200321d"
+hash-format = "sha1"
+hash = "be9239b04d688d5e69aa49fda0a51f93788c3696"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7985699
+file-id = 8667120
 project-id = 536254

@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquamirae.pw.toml"
-hash = "965c60fa7b84d552d0e3b97d98e6427ec39ece6b45d6bb255d7c18e7d8f099a3"
+hash = "e3290d7fdd038a0ffedb83924e47cc3f6008080e21407e766bc81ae55d3dd66e"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ hash = "41aad0a6fd15a2b84149afdd17aac9f719bf904c2dcd5677b69c32e4d2d7c3a5"
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "1e02c8d3784633dac3e1f0a007a67bf4fd49b65b2778319116efbed174d269d9"
+hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "cde8c129c4591f57160c98cc75479cd3a2b44460ba1e50358827d1c1d1614c73"
+hash = "786774be82d91494623ab9f719e822c1242c0c644e9789ba5b17219ba71d0577"
 metafile = true
 
 [[files]]
@@ -632,12 +632,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f4ebe8896dd93a556bfc3909a3e86fa00f8b2c81713f760b7b755e02ff5f61b8"
+hash = "ca2302e82daff7b0e40befd8a45143766ab305602166837e739a7bf6e55b2edb"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f1e165c7b877a17146b1c2d139d88b373a215749716013edce91a56c6dd8f3c7"
+hash = "8cbe59b9df0a1d338cc5c3b437ee3be9ab6f16e3004cce70243c062d83877e11"
 metafile = true
 
 [[files]]
@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "d433f12a62ded199710ecaa635b30a8c1392d8db2146427e08a927da69cd5fae"
+hash = "7853c06a90fb36d5518566ab5ae1f77bdba37eb0ffffc6c73b26d402db64c31f"
 metafile = true
 
 [[files]]
@@ -887,6 +887,11 @@ metafile = true
 [[files]]
 file = "mods/p1neros-epic-x-cataclysm.pw.toml"
 hash = "730c475247d5c7cc6428092ce1d63e0be4730da3a84ab971841a4b54b7ec979c"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "5ec4c3adc01d45c98ca35376d98558ceb31e4d8704f844b4ebd44caca8ed136a"
 metafile = true
 
 [[files]]
@@ -1248,5 +1253,5 @@ hash = "067666f88e89d2f96cb353dfe26b4fbc1e2bdad3d4b0904ec928bb6ed853b3ee"
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "63fa25d30274ff9a449a145a31a07909091a11eeecc195f8d34074402a9fe6dc"
+hash = "97619bbf9d7ba1ef5a2b55d8f67eb90329100bca2bcb560182f7233f5a09edb9"
 metafile = true
