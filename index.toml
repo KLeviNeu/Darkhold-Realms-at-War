@@ -216,11 +216,6 @@ hash = "5671803051dc1fa22722a1526a078b73bca9051518e780fe5323145d43ab61fc"
 metafile = true
 
 [[files]]
-file = "mods/brassamberbattletowers.pw.toml"
-hash = "a42a7f31a979a81661a7f2577b05e12bb65db916de3a37dfe37015b825a467cd"
-metafile = true
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "cffb13add639045115280a4d5f35f9308b7fe2ba3f1b8e9e25653f8772cdd5ef"
 metafile = true
@@ -838,11 +833,6 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "db5acbf7ba3b96fb4a6a1804028e41c9cd0ff07cce8f3a1a0c99332c6469585f"
-metafile = true
-
-[[files]]
-file = "mods/multiplayer-boss-attribute-modifier.pw.toml"
-hash = "b9f40c08d36a1fa16e36c530612475e0427a7468e82a7a87b5cd100fc7292879"
 metafile = true
 
 [[files]]
