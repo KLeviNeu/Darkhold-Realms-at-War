@@ -227,6 +227,11 @@ hash = "a58cb817b1d79da3a19b17439174b087c41efc27c565e96a32213567c2cbab1b"
 metafile = true
 
 [[files]]
+file = "mods/camps_castles_carriages.pw.toml"
+hash = "5c1d09c9eb446b8c05f52edff66a12b479629e6c489739b445382abf905d6c58"
+metafile = true
+
+[[files]]
 file = "mods/cataclysm-x-yungs.pw.toml"
 hash = "25c97562b8c1c89334a21c9c3557ae8c0f0f2b00944d01ce031f1edcb6a2a0e3"
 metafile = true
@@ -793,7 +798,7 @@ metafile = true
 
 [[files]]
 file = "mods/millager.pw.toml"
-hash = "b77d3a20c7e6135faf9245e70234df79b956303ad3fc7206c85c141395af8158"
+hash = "a5aaaf336be23e869ecbbd36eb8bb26b6be0d14dda9cfbe3eb23e38a0884d0db"
 metafile = true
 
 [[files]]
@@ -1026,7 +1031,7 @@ hash = "4fc31cbb2d66ed1d327744ad223bc588312399f48c61e7930e7fcdda5349eb49"
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "6ce9fb94a8f908b0492c2667d41d126bea8a4f81f5d92afc6b3a6d1ef99e730d"
+hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
 metafile = true
 
 [[files]]
