@@ -3,8 +3,8 @@ filename = "corpsecurioscompat-1.20.1-Forge-4.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1320497f252c57bf2ac0149e7b499a9f9db74650"
+hash-format = "sha512"
+hash = "75768077f9f1820b75e7b1a02a61317817dd96f4c4f07fe78f3482161ceb249a2efe6d8dd452146eb697c6c2fc071faf46f52db2e2552a2ab9df9a3c09a707ad"
 mode = "metadata:curseforge"
 
 [update]

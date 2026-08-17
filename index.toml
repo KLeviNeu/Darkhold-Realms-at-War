@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/barista/Info.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/barista/bar.json"
+hash = "420d6aa116d50b5523b8813fbc16443f928f8bade82b7aa233c7a6f7c8e3b86b"
+
+[[files]]
+file = "config/barista/icon/icon.png"
+hash = "947034d3ed33b53ae82de2225ba061114bc36a223395e44b55c111bb46864328"
+
+[[files]]
+file = "config/iceandfire-client.toml"
+hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
+
+[[files]]
 file = "datapacks/VQ_EFCompat1.1.zip"
 hash = "813628339caf51701513d6d6374920d9e9080f92034320e93e4cf42f07dd1c24"
 
@@ -131,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquamirae.pw.toml"
-hash = "e3290d7fdd038a0ffedb83924e47cc3f6008080e21407e766bc81ae55d3dd66e"
+hash = "f38955debfa95a0a647a7da5b760ece39fbf84cc01528dc9fa385399a3e503a9"
 metafile = true
 
 [[files]]
@@ -197,7 +213,7 @@ hash = "41aad0a6fd15a2b84149afdd17aac9f719bf904c2dcd5677b69c32e4d2d7c3a5"
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
+hash = "2ea30a72384f886dbc753a66051bc79a4a5ce6cdce3b5c53941ea9e0f88a6f89"
 metafile = true
 
 [[files]]
@@ -312,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "786774be82d91494623ab9f719e822c1242c0c644e9789ba5b17219ba71d0577"
+hash = "6d80e8a14430278c37666c1e2366d357943313b495cd21cea4e81d57ef8260ba"
 metafile = true
 
 [[files]]
@@ -632,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ca2302e82daff7b0e40befd8a45143766ab305602166837e739a7bf6e55b2edb"
+hash = "49d190eeff55551c24f71c2cfd0138fd4bd55b53a665e173feea1a7714d17957"
 metafile = true
 
 [[files]]
@@ -807,7 +823,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "7853c06a90fb36d5518566ab5ae1f77bdba37eb0ffffc6c73b26d402db64c31f"
+hash = "31feb5a1a563e2480404a05595162476bd1a7a08abe9eb00006f890aa94b6692"
 metafile = true
 
 [[files]]
@@ -1203,6 +1219,78 @@ hash = "7150f09728b0ec110dc09ef7433fb609cb86d7b54a2e67e49590efbbcb8dec29"
 metafile = true
 
 [[files]]
+file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
+hash = "f55f74a06e6e4ab44dae85eeae0e36dcac2a23d76c743d998eb333f562122413"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/language.json"
+hash = "688c8b2ea9c809ca441809d36d3de8a0ef60b9d7e55772c49316ac275d1475d9"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/mods.json"
+hash = "9dc2b2d828656f6200c2f7a69337a2190aebfe64f46fc2d68c295a75627e59ed"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/multiplayer.json"
+hash = "ec1a24ae5df44ff3c3392051e49d42f1d8045f909a2b67176dc7e436a4a52084"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/options.json"
+hash = "2c1791f9aa9fbd3ca3955566d59be1d4b26e8df49d8310eba919bb5fd5315a9e"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/quit.json"
+hash = "a4d785692ad8b4ec0ca4cfd25a3c7094335a8147e33044d0aeb5ae88ad3f157a"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/reloadbutton.json"
+hash = "956945d9cb9dc2a392e0ccedebb0b22aeb0abec044da190a1c3f55be4f1a6ea3"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
+hash = "a20b68305c232ad6817b1406d65e9d292931ef5e24c18e9d7b00195e8cfb4ff0"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/lang/en_us.json"
+hash = "9605ac98a90ac24492b957194b0d7255b88660c91f56e25bc43f8c07f3fb6c41"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/texts/supporters.txt"
+hash = "a930d6ba2229ffdaf7768a063165cf8d3b5ca7bb5e6ef5e65b0ddc49be237833"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/background.png"
+hash = "585d41053ee242b6203f1f83bebed618bcc5c134efe6b9d4d8136ed1db94ca2b"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/aklizbutton.png"
+hash = "0cebbd7cea1cb15bde9b058ae93058db935e79ef607ea2c1af990805fbf43701"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
+hash = "ec8c6b764755b1d4f2f0f1f95aee68f989faba5d0ee9c8bcc0c58790a87aa8f6"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
+hash = "947034d3ed33b53ae82de2225ba061114bc36a223395e44b55c111bb46864328"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/reload.png"
+hash = "0d974f16bfc16139ace6e55a53afe643ae7550c2ea4eb88e81cc506c55174347"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/widgets.png"
+hash = "26a3d4b8a23b75fdb7a0c5e8b7835ce8bdf98873a81695dde9f7010845edfe8b"
+
+[[files]]
+file = "packmenu/resources/pack.mcmeta"
+hash = "c92d7a6dc58ca7168bda2dfc3cc0a5acde7af7a4d2134ec54d2014ecf47d9928"
+
+[[files]]
+file = "packmenu/resources/pack.png"
+hash = "db4ba9188052b75c67fe536e5e7fc127499611abcb98b3542cf79a450fa13ece"
+
+[[files]]
 file = "resourcepacks/MandalasGUI+Dakmode_1.21.8_v2.5.zip"
 hash = "a4f90e90b406c1cceb7ffd29d9db647cdc86d307e0f7b22df5478e56862f6bd4"
 
@@ -1253,5 +1341,5 @@ hash = "067666f88e89d2f96cb353dfe26b4fbc1e2bdad3d4b0904ec928bb6ed853b3ee"
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "97619bbf9d7ba1ef5a2b55d8f67eb90329100bca2bcb560182f7233f5a09edb9"
+hash = "853b91bd8ca8924c5915c3dc8b3ff76848274d6a348baf4bd4900f623e56cf1a"
 metafile = true
