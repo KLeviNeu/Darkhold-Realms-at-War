@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "af9ddd345662850c171affbbfbca1d5337e0d414b60455fb0145dde1869405f6"
+hash = "fbad2488da791994cbb4a0541e2dd22c536dbe6ca8f7edfdd9af12120e283fd2"
 metafile = true
 
 [[files]]
@@ -1105,8 +1105,8 @@ hash = "cfea1fef2083cf2bfeccab3dc687bc86c4892a0a574dda33944346fcb4940acd"
 metafile = true
 
 [[files]]
-file = "mods/trek-mod.pw.toml"
-hash = "b572a3e24e7b1cbb46b38375f4d9886e746fa2f4f4380baf988acb2c3b78c333"
+file = "mods/trek.pw.toml"
+hash = "1f541b8ddfb9f0f9b987dcee33be2b9408e17e191ea429658bad5f369ef5c00a"
 metafile = true
 
 [[files]]
