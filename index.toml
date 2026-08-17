@@ -153,6 +153,10 @@ file = "mods/autostop-1.0.0.jar"
 hash = "2114207dad4cb6cbe7c0feb3656fd2f921adc180723c7a09ebdf62ca38f3b9d8"
 
 [[files]]
+file = "mods/ba_bt-1.20.1-3.0.0-beta3.2.1.jar"
+hash = "df9cbc8b7f657858d1fa823c6eabe1af027e02c0e9b5fdbd5c4398ae97653ed6"
+
+[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "5359e6e635ebefb507e7cb81abff081d36f94d1c2ba60d65278516a9098d7693"
 metafile = true
@@ -658,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/knights-and-castles.pw.toml"
-hash = "b477e9b28800448dc662c8363e2dacea7b1a520e52d30a8ad3dd97098e4c0d92"
+hash = "e5c408eb2f384d510ad233c1331b2b0cfc552973299e72e9d82f2493b37c8a40"
 metafile = true
 
 [[files]]
@@ -840,6 +844,10 @@ metafile = true
 file = "mods/multiplayer-boss-attribute-modifier.pw.toml"
 hash = "b9f40c08d36a1fa16e36c530612475e0427a7468e82a7a87b5cd100fc7292879"
 metafile = true
+
+[[files]]
+file = "mods/multiplayer_boss_fight-forge1.20.1-1.0.3.jar"
+hash = "798d49cb14f03ed0470e77b6a9cdd53df206a71c259b1e0ee70a2f3f1a8ed10d"
 
 [[files]]
 file = "mods/nullscape.pw.toml"
@@ -1228,7 +1236,7 @@ hash = "8fb9d37b45e062071fde2f191a3a4c301c48e5d6c1cf7463126ac9ac818107c3"
 
 [[files]]
 file = "resourcepacks/visual-travelers-titles.pw.toml"
-hash = "a5fd76f3e1405314b87ea0b9f47177468eac57ffc3d19264dd10a5def51d1601"
+hash = "6dc2fb07f22e7ab4d62399bf38e7287ae9d00177718b5b21ba6cc17bdcf9d9e7"
 metafile = true
 
 [[files]]
