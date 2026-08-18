@@ -1,0 +1,585 @@
+{
+	autofocus_id: "5DA5F03B22C1CD1A"
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "act_i"
+	group: "460F2EE30D504A11"
+	icon: "minecraft:book"
+	id: "73CBE701552656F6"
+	images: [{
+		height: 20.0d
+		image: "jei:textures/jei/atlas/gui/gui_background.png"
+		rotation: 0.0d
+		width: 25.0d
+		x: -2.5d
+		y: -5.5d
+	}]
+	order_index: 0
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				Count: 1
+				id: "mowziesmobs:ice_crystal"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5DA5F03B22C1CD1A"
+			progression_mode: "linear"
+			rewards: [{
+				auto: "enabled"
+				id: "4E6B0BB8F505BFE6"
+				item: "ftbquests:book"
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "5C5F723DE622B16C"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			title: "The Awakening"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5DA5F03B22C1CD1A"]
+			hide_dependency_lines: false
+			id: "25A4568ECF298D5A"
+			progression_mode: "linear"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/title @p title \"Your Journey begins here!\""
+					id: "57D14A9939A38583"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/title @p subtitle \"Complete every Act in a Chapter to move on\""
+					id: "5DF535E1061C4EBF"
+					silent: true
+					type: "command"
+				}
+			]
+			subtitle: "Open the questbook, and tick the checkmark to begin your journey!"
+			tasks: [{
+				id: "5F6F9E47DCD97A63"
+				title: "Open questbook"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["25A4568ECF298D5A"]
+			id: "30C59BC8B2ECB364"
+			rewards: [{
+				id: "4F0EFE6DFEB2A193"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "1B9FBBD68B5C1F58"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)"
+					}
+				}
+				title: "Any log"
+				type: "item"
+			}]
+			title: "Gather any log"
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["30C59BC8B2ECB364"]
+			id: "53F31C45A3232643"
+			rewards: [{
+				id: "427528F3E8F2A149"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "13E180EA825620CF"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			title: "Craft a Crafting Table"
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["53F31C45A3232643"]
+			icon: "conquest:pickaxe_on_the_ground"
+			id: "4887325927D7FC25"
+			rewards: [{
+				id: "6FE3122332CB4478"
+				type: "xp"
+				xp: 3
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "69B3E76F66B467DF"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:tools/pickaxes)"
+					}
+				}
+				title: "Any pickaxes"
+				type: "item"
+			}]
+			title: "Craft any Pickaxe!"
+			x: -1.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["53F31C45A3232643"]
+			icon: "conquest:axe_on_the_ground"
+			id: "7A1E6A394C14DF0A"
+			rewards: [{
+				id: "0D20672E4155BCF6"
+				type: "xp"
+				xp: 3
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "411DCEC3EAD81EDF"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:tools/axes)"
+					}
+				}
+				title: "Any axes"
+				type: "item"
+			}]
+			title: "Craft any Axe!"
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["53F31C45A3232643"]
+			id: "544125DC492C77B5"
+			rewards: [{
+				id: "077164FCB519C06C"
+				type: "xp"
+				xp: 3
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "336572E1163A9F7D"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:tools/swords)"
+					}
+				}
+				title: "Any swords"
+				type: "item"
+			}]
+			title: "Craft any Sword!"
+			x: 1.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["544125DC492C77B5"]
+			id: "63B2F1ED1BC9E23F"
+			rewards: [{
+				id: "7720425BF9582BC8"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "1D7557905CB7E8B5"
+				title: "Kill 5 Zombies"
+				type: "kill"
+				value: 5L
+			}]
+			x: 1.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["7A1E6A394C14DF0A"]
+			id: "160632D689673A11"
+			tasks: [{
+				count: 50L
+				id: "459CF01F9C35501B"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)"
+					}
+				}
+				title: "Any #minecraft:logs"
+				type: "item"
+			}]
+			title: "Gather logs!"
+			x: 0.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["4887325927D7FC25"]
+			id: "0BF5735324CD45A9"
+			tasks: [{
+				count: 50L
+				id: "60BA9C13EF83263D"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:cobblestone)"
+					}
+				}
+				title: "Any #forge:cobblestone"
+				type: "item"
+			}]
+			title: "Into the mines!"
+			x: -1.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["4887325927D7FC25"]
+			id: "51B57E2A62C8F288"
+			tasks: [{
+				id: "349860613794B5C8"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:coal)"
+					}
+				}
+				title: "Any #forge:coal"
+				type: "item"
+			}]
+			title: "Gather Coal!"
+			x: -3.0d
+			y: -9.5d
+		}
+		{
+			dependencies: [
+				"51B57E2A62C8F288"
+				"4887325927D7FC25"
+			]
+			id: "7867407FBBFD05F4"
+			tasks: [{
+				id: "48C19C12962C4AA6"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:raw_iron_ores)"
+					}
+				}
+				title: "Any #c:raw_iron_ores"
+				type: "item"
+			}]
+			title: "Gather Iron!"
+			x: -3.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["53F31C45A3232643"]
+			id: "585EC60A4176AE63"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "396180286C86BD49"
+				table_id: 7568351916166706434L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "44E7D830BDFDE8B3"
+				item: "tconstruct:crafting_station"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["544125DC492C77B5"]
+			id: "1307DCC14F1AB62E"
+			rewards: [{
+				id: "04B3E47AD58A7072"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				entity: "irons_spellbooks:dead_king_corpse"
+				id: "3477C5AEBD5EFC3D"
+				type: "kill"
+				value: 5L
+			}]
+			x: 3.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["585EC60A4176AE63"]
+			id: "6936BAF085435EE5"
+			tasks: [{
+				count: 30L
+				id: "6CD96CED17A69EF6"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:sand)"
+					}
+				}
+				title: "Any #forge:sand"
+				type: "item"
+			}]
+			title: "20x Sand"
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["585EC60A4176AE63"]
+			id: "1F10B243FFA844C6"
+			tasks: [{
+				count: 20L
+				id: "37FD0F69C222E687"
+				item: "minecraft:clay_ball"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["585EC60A4176AE63"]
+			id: "444CF537D509DC81"
+			tasks: [{
+				count: 20L
+				id: "30BF3C07883CC390"
+				item: "minecraft:gravel"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			dependencies: [
+				"6936BAF085435EE5"
+				"444CF537D509DC81"
+				"1F10B243FFA844C6"
+			]
+			id: "6233B2E9EB2C31AC"
+			tasks: [{
+				count: 20L
+				id: "757CB92D8D1BA6CA"
+				item: "tconstruct:grout"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6233B2E9EB2C31AC"]
+			id: "29B697969219BF75"
+			tasks: [{
+				count: 20L
+				id: "39EB28CFC4DEDBB6"
+				item: "tconstruct:seared_brick"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"29B697969219BF75"
+				"7036ED9CEB6AEFEF"
+				"69FAC264681A4483"
+				"27EE59EAD951FE02"
+				"31F8264990539D06"
+				"79878DE9687C6E81"
+			]
+			id: "328D5378C07C30AD"
+			rewards: [{
+				id: "66234F76FA06746E"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			size: 1.2d
+			tasks: [
+				{
+					id: "6E5AEEAE46047537"
+					item: "tconstruct:seared_heater"
+					type: "item"
+				}
+				{
+					id: "15CCCA68DF927E35"
+					item: "tconstruct:seared_melter"
+					type: "item"
+				}
+				{
+					id: "798FDE2DE09945C7"
+					item: "tconstruct:seared_faucet"
+					type: "item"
+				}
+				{
+					id: "34F0A050FD4A590D"
+					item: "tconstruct:seared_table"
+					type: "item"
+				}
+			]
+			title: "Introduction to smeltery"
+			x: -9.6d
+			y: -5.3999999999999995d
+		}
+		{
+			dependencies: ["7036ED9CEB6AEFEF"]
+			id: "27EE59EAD951FE02"
+			tasks: [{
+				id: "2D94E73874A9E7E3"
+				item: "tconstruct:rod_sand_cast"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["585EC60A4176AE63"]
+			id: "7036ED9CEB6AEFEF"
+			rewards: [{
+				count: 8
+				id: "504C03F19B3BEE06"
+				item: "tconstruct:pattern"
+				type: "item"
+			}]
+			tasks: [{
+				id: "535770DFC1BAF53A"
+				item: "tconstruct:part_builder"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["7036ED9CEB6AEFEF"]
+			id: "69FAC264681A4483"
+			tasks: [{
+				id: "6811512F8F5FD6EF"
+				item: "tconstruct:pick_head_sand_cast"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["7036ED9CEB6AEFEF"]
+			id: "31F8264990539D06"
+			tasks: [{
+				id: "35B2CD942979E9C4"
+				item: "tconstruct:small_axe_head_sand_cast"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["7036ED9CEB6AEFEF"]
+			id: "79878DE9687C6E81"
+			tasks: [{
+				id: "01F881EEFF7B6437"
+				item: "tconstruct:tool_binding_sand_cast"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["03106DCF31FD49D3"]
+			id: "4666E10B84438A1E"
+			rewards: [{
+				id: "53F900802A0410F9"
+				item: {
+					Count: 1
+					id: "irons_spellbooks:copper_spell_book"
+					tag: {
+						"irons_spellbooks:spell_container": {
+							data: [ ]
+							maxSpells: 5
+							mustEquip: 1b
+							spellWheel: 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "5D3FF5D97E62D7D6"
+				item: "irons_spellbooks:inscription_table"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.75d
+		}
+		{
+			dependencies: ["53F31C45A3232643"]
+			id: "36D8FCF84909C6BC"
+			subtitle: "If yes, you can track your quests, and progressions, on the Minecolonies tab."
+			tasks: [{
+				id: "42AF9F06B52E12A9"
+				title: "Ready for a Colony?"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["328D5378C07C30AD"]
+			id: "2B3980BAEA30D4F7"
+			tasks: [{
+				id: "7930959AF39CD29A"
+				item: "tconstruct:tinker_station"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["328D5378C07C30AD"]
+			id: "27A23AA7F977A140"
+			tasks: [{
+				advancement: "tconstruct:tools/make_part"
+				criterion: ""
+				id: "14365E1AAA200A8D"
+				type: "advancement"
+			}]
+			x: -10.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["328D5378C07C30AD"]
+			id: "04308C17ECB37CBD"
+			tasks: [{
+				advancement: "tconstruct:tools/tool_smith"
+				criterion: ""
+				id: "0725DA4AD4DF330A"
+				type: "advancement"
+			}]
+			x: -9.0d
+			y: -3.5d
+		}
+	]
+	title: "Act I: Waking Up Among the Ruins"
+}

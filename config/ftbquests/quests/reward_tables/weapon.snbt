@@ -1,0 +1,26 @@
+{
+	id: "50EA71380384C1A8"
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "magistuarmory:rusted_bastardsword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "magistuarmory:rusted_heavymace"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "Weapon"
+}

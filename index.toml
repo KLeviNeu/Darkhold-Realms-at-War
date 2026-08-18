@@ -13,6 +13,82 @@ file = "config/barista/icon/icon.png"
 hash = "947034d3ed33b53ae82de2225ba061114bc36a223395e44b55c111bb46864328"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "747ca82cf279e2cf24ec5f30c869b2e2bfdd3205e8721c0dd245a8041abb2091"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/act_i.snbt"
+hash = "588fef5ebc0189e84cf4c7a6bfd84523fc61abb833dc5ad9e0ce6a7f336f37e3"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/act_ii_at_the_dawn_of_the_dark_age.snbt"
+hash = "88f43795d3949eefbd1f6332fab0b3fd5d78313fb48d0f2878aefddf5de3ff7b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/asd_2.snbt"
+hash = "c685cde63e4b959af80b6036516fb18596ec9e018a27822179dbafcd1bff72f0"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/minecolonies.snbt"
+hash = "822d87f1861a59ab067b768653b3f43350cf5866a23aab0211df9825afb7624c"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "02b8accb738a0b6241b7b06a165c646d92108ade5620858c8ac482ba1d8de6aa"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/armor.snbt"
+hash = "f794c87023802b6cfa5d7e2376e1f1a8cec478f5bc0b4e0ef8a7e52f9dabb305"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/backpacks.snbt"
+hash = "833dc1a48af6db0acfb9d29e4e7868f9beeabf717de7bb12a16df8ca07063d0a"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/choice_compost.snbt"
+hash = "01dee1c3ec981e0092f5e3f172b9356e9733d966a6e30e651ddb06a899de3826"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/choice_crush.snbt"
+hash = "288f1f38a28d8ae32c1d602e219353d62e5b8ade5e9cda24330fe2cabad70b09"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/choice_flowers.snbt"
+hash = "c869c6a3eb16e6f0d956fba8c82a095da0c2c9bf98f8e0dd392cdea0c9d348b0"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/choice_food.snbt"
+hash = "bf1a252f91223db9d3d5f564f5b75c9c5fc7c6ff1270d70d78082e0da44be7e3"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/choice_hospital.snbt"
+hash = "16bd925c7177bcacc28edc345c34c59da2ae24aad89edf429a738e7f6fc0620e"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/choice_logs.snbt"
+hash = "691f85d05389869aa980ec8415e2629ad0b1386eca69059ec7855e65d752ce09"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/choice_sapling.snbt"
+hash = "d3f211ec11540833d7ca5c07412ad9f00c010e7233adaa3a4b5594a433606ca9"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/choice_stone.snbt"
+hash = "e421dca782a26b168a89c2bdbe3cd360c50e74e73933fdb6b305a1f40d32f0a9"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/helmet.snbt"
+hash = "00dca8c37a349a2ba295d63d78a312c86f6adee848c8e6dea8d61ce15b2af202"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/minecolonies_common.snbt"
+hash = "68e6ee9b1a64349512d5eb29610a7d42a1a1f3817c3a8f17bb87c8d61180713f"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/weapon.snbt"
+hash = "f4fc11bbf91953697dd336e18bcf94b81150781ad28e9564a7447db05c8893ce"
+
+[[files]]
 file = "config/iceandfire-client.toml"
 hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 

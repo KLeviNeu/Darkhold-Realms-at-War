@@ -1,0 +1,44 @@
+{
+	id: "28931ADD05BB3899"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "magistuarmory:rustedbarbute"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "magistuarmory:rustedgreathelm"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "magistuarmory:rustedchainmail_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "magistuarmory:rustedkettlehat"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "Helmet"
+}

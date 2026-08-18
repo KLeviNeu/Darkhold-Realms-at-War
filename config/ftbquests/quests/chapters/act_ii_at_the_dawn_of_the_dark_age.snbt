@@ -1,0 +1,189 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "act_ii_at_the_dawn_of_the_dark_age"
+	group: "460F2EE30D504A11"
+	icon: {
+		Count: 1
+		id: "minecraft:enchanted_book"
+		tag: {
+			StoredEnchantments: [{
+				id: "combat_evolution:massacre"
+				lvl: 5s
+			}]
+		}
+	}
+	id: "103BA0D99C088CFF"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"7F1A976C2104AB30"
+				"54F8E13E2A3E6EFA"
+				"5591D3F2AA29460F"
+			]
+			id: "7D5A9AB61313DF9A"
+			subtitle: "Tip: Make it with your already existing melter, instead of cooking grout"
+			tasks: [{
+				count: 10L
+				id: "2D21B1AB153AE57C"
+				item: "tconstruct:seared_brick"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["216F7325494EBF00"]
+			id: "54F8E13E2A3E6EFA"
+			tasks: [{
+				count: 6L
+				id: "5A7E6C4C445AF4C3"
+				item: "minecraft:raw_copper"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["216F7325494EBF00"]
+			id: "7F1A976C2104AB30"
+			tasks: [{
+				count: 15L
+				id: "40A6D6FB69545323"
+				item: { Count: 30, id: "minecraft:clay_ball" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["216F7325494EBF00"]
+			id: "5591D3F2AA29460F"
+			tasks: [{
+				count: 5L
+				id: "65071C630D76DF71"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:cobblestone)"
+					}
+				}
+				title: "Any cobblestone"
+				type: "item"
+			}]
+			title: "5x Cobblestone"
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["328D5378C07C30AD"]
+			id: "216F7325494EBF00"
+			subtitle: "Build a smeltery"
+			tasks: [{
+				id: "0BBA7C56AB572EC2"
+				title: "Your life as a blacksmith"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"09B98F67B6D39723"
+				"39816AD1A6764B9E"
+				"3E784626BA5CDD24"
+				"7F33D4C1AEF82695"
+			]
+			id: "4C194B89EFE41214"
+			tasks: [{
+				advancement: "tconstruct:smeltery/structure"
+				criterion: ""
+				id: "3E08D1F5FAC4CA73"
+				title: "Build a 1x1x1 smeltery"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7D5A9AB61313DF9A"]
+			id: "7F33D4C1AEF82695"
+			tasks: [{
+				id: "4ED0F4593BDE27C2"
+				item: "tconstruct:smeltery_controller"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7D5A9AB61313DF9A"]
+			id: "3E784626BA5CDD24"
+			tasks: [{
+				count: 2L
+				id: "738E0C0730C66C5D"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(tconstruct:seared_bricks)"
+					}
+				}
+				title: "Any 2 seared bricks"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7D5A9AB61313DF9A"]
+			id: "39816AD1A6764B9E"
+			tasks: [{
+				id: "229BF0F2F21C018E"
+				item: "tconstruct:seared_fuel_tank"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7D5A9AB61313DF9A"]
+			id: "09B98F67B6D39723"
+			tasks: [{
+				id: "29CCC981BEB8E02A"
+				item: "tconstruct:seared_drain"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4C194B89EFE41214"]
+			id: "695334DA64A7DE94"
+			subtitle: "Craft a tinker's anvil"
+			tasks: [{
+				advancement: "tconstruct:smeltery/tinkers_anvil"
+				criterion: ""
+				id: "1DF39B423B2D2A7E"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4C194B89EFE41214"]
+			id: "372DDF3179885394"
+			tasks: [{
+				id: "1214D9C4A2D10926"
+				item: "tconstruct:encyclopedia"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+	]
+	title: "Act II: At the dawn of the dark age"
+}
