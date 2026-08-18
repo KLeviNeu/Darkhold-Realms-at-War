@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquamirae.pw.toml"
-hash = "f38955debfa95a0a647a7da5b760ece39fbf84cc01528dc9fa385399a3e503a9"
+hash = "fc7ef8d7309bc912970799a5abddf751b9b19b4fef7e0e49fd224eb2f5517a86"
 metafile = true
 
 [[files]]
@@ -159,10 +159,6 @@ metafile = true
 file = "mods/ares-hud.pw.toml"
 hash = "9141d1f742a5be5bcb571526185698308c3793c2cba485ae9a6c075c4bdbbfaa"
 metafile = true
-
-[[files]]
-file = "mods/autostop-1.0-SNAPSHOT.jar"
-hash = "86d5517e3e95159f6a969845434ce1a9427042e43227aa80b1b6629f967b16b1"
 
 [[files]]
 file = "mods/autostop-1.0.0.jar"
@@ -562,8 +558,18 @@ hash = "246c0e55c0d3329122ca85004db084e528d3d5e96097c8ef3b5a90c7caf22a15"
 metafile = true
 
 [[files]]
+file = "mods/ftb-filter-system.pw.toml"
+hash = "485e9fe35e6fc47ec22941fb4efb4988f2630c04c2e2241f9758fd0f76172b16"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "5f0bab36354caa4dd0fd35d6b45565cf3fcd9ac6788bc881aa72d94dc6ec78bb"
+metafile = true
+
+[[files]]
+file = "mods/ftb-materials.pw.toml"
+hash = "b7dec86b55b658602caba5a25270fb2e62b5a951c99c9d6a388334c784923028"
 metafile = true
 
 [[files]]
@@ -574,6 +580,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "bfcfbe0491d9b3719a21a7f887cd3c81328cd6568938534d1e68da13b1fc6c83"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "18455baaf60a757870e6cb83acc97eabbd7ccfbd717f4253aab96761fdf4c03d"
 metafile = true
 
 [[files]]
@@ -648,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "49d190eeff55551c24f71c2cfd0138fd4bd55b53a665e173feea1a7714d17957"
+hash = "4ceb4d8ff40883ac18dd7804f5fab75ca4323d3b90ca54ea2af58a602b211a57"
 metafile = true
 
 [[files]]
@@ -832,6 +843,11 @@ hash = "093ec9ce30c326373e39077be490f3b7aaec31e073f1921799a81eec3f0187f0"
 metafile = true
 
 [[files]]
+file = "mods/modular-item-api.pw.toml"
+hash = "16379d26e9e99cbd5f8b94c3ed1215a33b0055f45091f3d93ad09f857e10d0da"
+metafile = true
+
+[[files]]
 file = "mods/moogs-structure-lib.pw.toml"
 hash = "a709757187b9a4b2bd62e4e495eee5388e8823ada2721ad2fc93fa03ab917b6a"
 metafile = true
@@ -854,6 +870,11 @@ metafile = true
 [[files]]
 file = "mods/multiplayer_boss_fight-forge1.20.1-1.0.3.jar"
 hash = "798d49cb14f03ed0470e77b6a9cdd53df206a71c259b1e0ee70a2f3f1a8ed10d"
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "da76fc18847e676a34e3e77ebc1ecfecaa74f93de6e5ee79b73e824e4492ac59"
+metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
@@ -987,7 +1008,7 @@ metafile = true
 
 [[files]]
 file = "mods/saints-dragons.pw.toml"
-hash = "d814a9c04701c8be9be9ab2f68a0dad243946e813bed0a5f7745951ce74fa426"
+hash = "14349438ce657f004522cb3bfd5ff7f6b333582741b0e97c92ddfe3f1233aded"
 metafile = true
 
 [[files]]
@@ -1022,7 +1043,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "6f752fb270986542f49350b5e48e4cb2f0a0937442313218fd108a46e7e4be6f"
+hash = "8f1924406c646c3f7eadc743b901a3176dffa8ca860304aa8bd8c985f834ee3f"
 metafile = true
 
 [[files]]
@@ -1034,10 +1055,6 @@ metafile = true
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "a80b656d856850a891b4a29137c11bcb5833de69f6402a0f9980646e03c26940"
 metafile = true
-
-[[files]]
-file = "mods/statuswebhook-1.0-SNAPSHOT.jar"
-hash = "d172eb672edad89c20d5a621275183ed083931f831af85956833e42cb8b15da1"
 
 [[files]]
 file = "mods/statuswebhook-1.0.0.jar"
@@ -1141,6 +1158,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "1e6af92995282dac20c69558c34530d82abe13e9d3336200c0ae846929906ea4"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-furniture.pw.toml"
+hash = "dafc0e229451151828727b3adc9dec90898d746aa8cb83a7f42daea167c4eb5f"
 metafile = true
 
 [[files]]
