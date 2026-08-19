@@ -1,5 +1,4 @@
 {
-	
 	"Blood_magic_power+5%": {
 		"title": "+5% Blood Magic Power",
 		"icon": {
@@ -17,9 +16,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "zbr7w5dzmop58b2f"
+		}
 	},
-
 	"Ender_magic_power+5%": {
 		"title": "+5% Ender Magic Power",
 		"icon": {
@@ -37,9 +38,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "i09v6lplpg5mjq85"
+		}
 	},
-
 	"Evocation_magic_power+5%": {
 		"title": "+5% Evocation Magic Power",
 		"icon": {
@@ -57,9 +60,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "xyo4r0yyox37dy2y"
+		}
 	},
-
 	"Fire_magic_power+5%": {
 		"title": "+5% Fire Magic Power",
 		"icon": {
@@ -77,9 +82,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "ymktlbdsbyottl70"
+		}
 	},
-
 	"Holy_magic_power+5%": {
 		"title": "+5% Holy Magic Power",
 		"icon": {
@@ -97,9 +104,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "2fwvgfyj64xx0pfx"
+		}
 	},
-
 	"Ice_magic_power+5%": {
 		"title": "+5% Ice Magic Power",
 		"icon": {
@@ -117,9 +126,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "dq9fvu1t4ydoy5ak"
+		}
 	},
-
 	"Lightning_magic_power+5%": {
 		"title": "+5% Lightning Magic Power",
 		"icon": {
@@ -137,9 +148,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "n7m0f163vuawp5zt"
+		}
 	},
-
 	"Nature_magic_power+5%": {
 		"title": "+5% Nature Magic Power",
 		"icon": {
@@ -157,9 +170,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "fej6afduazn2h62f"
+		}
 	},
-
 	"Summon_damage+5%": {
 		"title": "+5% Summon Damage",
 		"icon": {
@@ -177,10 +192,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "k6780v5276r02cn1"
+		}
 	},
-
-
 	"Max_Mana+5%": {
 		"title": "+5% Max Mana",
 		"icon": {
@@ -198,9 +214,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "tqyic4kjjvv8g7t1"
+		}
 	},
-
 	"Regen_Mana+5%": {
 		"title": "+5%  Mana Regeneration",
 		"icon": {
@@ -218,9 +236,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "gxnch70jnw0r8gjr"
+		}
 	},
-
 	"Cast_time_reduction+10%": {
 		"title": "+10% Cast Time Reduction",
 		"icon": {
@@ -238,9 +258,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "zef79ce0ctgd6e4v"
+		}
 	},
-
 	"Cast_Movement_Speed+15%": {
 		"title": "+15% Cast Movement Speed",
 		"icon": {
@@ -258,9 +280,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "qt95nsv4mrkt39c5"
+		}
 	},
-
 	"Cooldown_reduction+5%": {
 		"title": "+5% Cooldown Reduction",
 		"icon": {
@@ -278,9 +302,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "snrw8cgqpsywshef"
+		}
 	},
-
 	"Eldritch_spell_power+15%": {
 		"title": "+15% Eldritch Spell Power",
 		"icon": {
@@ -298,9 +324,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "lu3n4emlt0y0chsa"
+		}
 	},
-
 	"Universal_Spell_power+5%": {
 		"title": "+5% Universal Spell Power",
 		"icon": {
@@ -350,9 +378,9 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "prjajlkubqk4dkye"
+		}
 	}
-
-
-	
 }
