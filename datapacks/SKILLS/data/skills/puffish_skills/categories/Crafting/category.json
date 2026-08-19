@@ -1,0 +1,10 @@
+{
+	"title": "Crafting",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "crafting_table"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

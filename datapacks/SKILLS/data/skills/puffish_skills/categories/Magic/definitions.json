@@ -1,0 +1,358 @@
+{
+	
+	"Blood_magic_power+5%": {
+		"title": "+5% Blood Magic Power",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "redstone_dust"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:blood_magic_power",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Ender_magic_power+5%": {
+		"title": "+5% Ender Magic Power",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "ender_pearl"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:ender_magic_power",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Evocation_magic_power+5%": {
+		"title": "+5% Evocation Magic Power",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bonemeal"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:evocation_magic_power",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Fire_magic_power+5%": {
+		"title": "+5% Fire Magic Power",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "fire_resistance"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:fire_magic_power",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Holy_magic_power+5%": {
+		"title": "+5% Holy Magic Power",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "instant_health"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:holy_magic_power",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Ice_magic_power+5%": {
+		"title": "+5% Ice Magic Power",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "ice"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:ice_magic_power",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Lightning_magic_power+5%": {
+		"title": "+5% Lightning Magic Power",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "lightning_rod"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:lightning_magic_power",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Nature_magic_power+5%": {
+		"title": "+5% Nature Magic Power",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "grass_block"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:nature_magic_power",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Summon_damage+5%": {
+		"title": "+5% Summon Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spawn_egg"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:summon_damage",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+
+	"Max_Mana+5%": {
+		"title": "+5% Max Mana",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "nether_star"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:max_mana",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Regen_Mana+5%": {
+		"title": "+5%  Mana Regeneration",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"item": "regeneration"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:mana_regen",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Cast_time_reduction+10%": {
+		"title": "+10% Cast Time Reduction",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"item": "haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:cast_time_reduction",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Cast_Movement_Speed+15%": {
+		"title": "+15% Cast Movement Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"item": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:cast_movespeed",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Cooldown_reduction+5%": {
+		"title": "+5% Cooldown Reduction",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"item": "swiftness"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:cooldown_reduction",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Eldritch_spell_power+15%": {
+		"title": "+15% Eldritch Spell Power",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"item": "strength"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:eldritch_spell_power",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Universal_Spell_power+5%": {
+		"title": "+5% Universal Spell Power",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"item": "strength"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:spell_power",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "lodestone:magic_damage",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "obscure_api:magic_damage",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:magic_damage",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "eidolon:magic_power",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	}
+
+
+	
+}

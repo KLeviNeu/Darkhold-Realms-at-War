@@ -1,0 +1,10 @@
+{
+	"title": "Building",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "cobblestone"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

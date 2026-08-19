@@ -1,0 +1,10 @@
+{
+	"title": "Cooking",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "cooked_beef"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

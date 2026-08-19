@@ -1,0 +1,10 @@
+{
+	"title": "Farming",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "wheat"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

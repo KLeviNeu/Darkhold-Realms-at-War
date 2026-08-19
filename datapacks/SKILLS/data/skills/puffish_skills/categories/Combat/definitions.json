@@ -1,0 +1,416 @@
+{
+	"health+2": {
+		"description": "Increases your maximum health by 1 hearts.",
+		"title": "+1 Heart",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "health_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "1c5k1eeysykuek86"
+		}
+	},
+	"attack_speed+5%": {
+		"title": "+5% Attack Speed",
+		"description": "Increases your attack speed by 5%.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "a6eejdx92zmnfa8e"
+		}
+	},
+	"Crit_Chance": {
+		"title": "+5% Critical Hit Chance",
+		"description": "Increases your critical hit chance by 5%.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "luck"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:critical_hit_chance",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "3mcku3kvghi0slut"
+		}
+	},
+	"Crit_Damage": {
+		"title": "+10% Critical Hit Damage",
+		"description": "Increases your critical hit damage by 10%.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "strength"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:critical_hit_damage",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "ud0yo7tw4ehgj61y"
+		}
+	},
+	"Dodge_chance": {
+		"title": "+5% Dodge Chance",
+		"description": "Increases your dodge chance by 5%.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "invisibility"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:dodge_chance",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "jt9g0c1uov11ekik"
+		}
+	},
+	"Max_Combo": {
+		"title": "+1 Max Combo",
+		"description": "Increases your maximum combo by 1.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "strength"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "epicfights:max_strikes",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "zb6jikgmg0y9clkc"
+		}
+	},
+	"Stamina_regen": {
+		"title": "+10% Stamina Regeneration",
+		"description": "Increases your stamina regeneration by 10%.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "epicfights:stamina_regen",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "jqmdxp8ddvvhz355"
+		}
+	},
+	"Armor_piercing": {
+		"title": "+10% Armor Piercing",
+		"description": "Increases your armor piercing by 10%.",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_chestplate"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:armor_pierce",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "vtshkgkk41ihmjop"
+		}
+	},
+	"Experience_gain": {
+		"title": "+10% Experience Gained",
+		"description": "Increases your experience gain by 10%.",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "experience_bottle"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:experience_gained",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "b21lf3uex38wxpbz"
+		}
+	},
+	"Lifesteal": {
+		"title": "+10% Lifesteal",
+		"description": "Increases your lifesteal by 10%.",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:life_steal",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "fovv9vm9khc7f5qy"
+		}
+	},
+	"Armor": {
+		"title": "+5% Armor",
+		"description": "Increases your armor by 5%.",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_chestplate"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.armor",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "lduity7ofj5c7lch"
+		}
+	},
+	"Armor_toughness": {
+		"title": "+5% Armor Toughness",
+		"description": "Increases your armor toughness by 5%.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.armor_toughness",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "fri35l7oqvppa2fm"
+		}
+	},
+	"Attack_damage": {
+		"title": "+5% Attack Damage",
+		"description": "Increases your attack damage by 5%.",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_damage",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "oi9pduqn80f5ayev"
+		}
+	},
+	"Knockback": {
+		"title": "+5% Knockback",
+		"description": "Increases your knockback by 5%.",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "stick"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_knockback",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "xvvjybymp4cncp9d"
+		}
+	},
+	"Max_Stamina": {
+		"title": "+5% Max Stamina",
+		"description": "Increases your max stamina by 5%.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:stamina",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "i7h953un1gqryphx"
+		}
+	},
+	"Stealth": {
+		"title": "+15% Stealth effectiveness",
+		"description": "Increases your stealth effectiveness by 15%.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "invisibility"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:stealth",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "opposing_force:stealth",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "tconstruct:generic.crouch_damage_multiplier",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "miapi:generic.back_stab",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "z428zz7adjy0tac3"
+		}
+	},
+	"movement_speed+5%": {
+		"title": "+5% Movement Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "5nfn7myq73cnrpiu"
+		}
+	}
+}

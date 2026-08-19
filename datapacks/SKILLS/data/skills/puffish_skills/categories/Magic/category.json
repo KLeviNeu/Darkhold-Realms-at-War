@@ -1,0 +1,10 @@
+{
+	"title": "Magic",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "ender_pearl"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

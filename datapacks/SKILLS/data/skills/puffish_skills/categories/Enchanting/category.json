@@ -1,0 +1,10 @@
+{
+	"title": "Enchanting",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "enchanting_table"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

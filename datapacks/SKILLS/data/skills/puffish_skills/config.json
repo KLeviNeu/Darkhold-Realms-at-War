@@ -2,6 +2,18 @@
 	"version": 3,
 
 	"categories": [
-		"example"
+		"Combat",
+		"Archery",
+		"Magic",
+		"Mining",
+		"Woodcutting",
+		"Farming",
+		"Fishing",
+		"Cooking",
+		"Crafting",
+		"Building",
+		"Alchemy",
+		"Enchanting",
+		"Smithing"
 	]
 }

@@ -1,0 +1,358 @@
+{
+	"Projectile_damage+5%": {
+			"title": "+5% Projectile Damage",
+			"icon": {
+				"type": "item",
+				"data": {
+					"item": "arrow"
+				}
+			},
+			"rewards": [
+				{
+					"type": "puffish_skills:attribute",
+					"data": {
+						"attribute": "miapi:generic.projectile_damage",
+						"value": 0.05,
+						"operation": "multiply_total"
+					}
+				},
+				{
+					"type": "puffish_skills:attribute",
+					"data": {
+						"attribute": "opposing_force:ranged_damage",
+						"value": 0.05,
+						"operation": "multiply_total"
+					}
+				},
+				{
+					"type": "puffish_skills:attribute",
+					"data": {
+						"attribute": "puffish_attributes:ranged_damage",
+						"value": 0.05,
+						"operation": "multiply_total"
+					}
+				}
+			]
+		},
+
+		"Projectile_crit+15%": {
+			"title": "+15% Projectile Critical Strike Damage",
+			"icon": {
+				"type": "item",
+				"data": {
+					"item": "arrow"
+				}
+			},
+			"rewards": [
+				{
+					"type": "puffish_skills:attribute",
+					"data": {
+						"attribute": "miapi:generic.projectile_crit_multiplier",
+						"value": 0.15,
+						"operation": "multiply_total"
+					}
+				}
+			]
+		},
+
+		"Projectile_accuracy+5%": {
+			"title": "+5% Projectile Accuracy",
+			"icon": {
+				"type": "item",
+				"data": {
+					"item": "arrow"
+				}
+			},
+			"rewards": [
+				{
+					"type": "puffish_skills:attribute",
+					"data": {
+						"attribute": "miapi:generic.projectile_accuracy",
+						"value": 0.05,
+						"operation": "multiply_total"
+					}
+				}
+			]
+		},
+
+		"Projectile_pierce+5%": {
+			"title": "+5% Projectile Piercing",
+			"icon": {
+				"type": "item",
+				"data": {
+					"item": "arrow"
+				}
+			},
+			"rewards": [
+				{
+					"type": "puffish_skills:attribute",
+					"data": {
+						"attribute": "miapi:generic.projectile_piercing",
+						"value": 0.05,
+						"operation": "multiply_total"
+					}
+				},
+				{
+					"type": "puffish_skills:attribute",
+					"data": {
+						"attribute": "obscure_api:penetration",
+						"value": 0.05,
+						"operation": "multiply_total"
+					}
+				}
+			]
+		},
+
+		"Projectile_speed+10%": {
+			"title": "+10% Projectile Speed",
+			"icon": {
+				"type": "effect",
+				"data": {
+					"effect": "swiftness"
+				}
+			},
+			"rewards": [
+				{
+					"type": "puffish_skills:attribute",
+					"data": {
+						"attribute": "miapi:generic.projectile_speed",
+						"value": 0.1,
+						"operation": "multiply_total"
+					}
+				},
+				{
+					"type": "puffish_skills:attribute",
+					"data": {
+						"attribute": "puffish_attributes:bow_projectile_speed",
+						"value": 0.1,
+						"operation": "multiply_total"
+					}
+				},
+				{
+					"type": "puffish_skills:attribute",
+					"data": {
+						"attribute": "puffish_attributes:crossbowbow_projectile_speed",
+						"value": 0.1,
+						"operation": "multiply_total"
+					}
+				}
+			]
+		},
+
+
+	"arrow_damage+5%": {
+		"title": "+5% Arrow Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "arrow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:arrow_damage",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_lib:arrow_damage",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"arrow_velocity+5%": {
+		"title": "+5% Arrow Velocity",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "arrow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:arrow_velocity",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Draw_Speed+5%": {
+			"title": "+5% Draw Speed",
+			"icon": {
+				"type": "item",
+				"data": {
+					"item": "bow"
+				}
+			},
+			"rewards": [
+				{
+					"type": "puffish_skills:attribute",
+					"data": {
+						"attribute": "attributeslib:draw_speed",
+						"value": 0.05,
+						"operation": "multiply_total"
+					}
+				},
+				{
+					"type": "puffish_skills:attribute",
+					"data": {
+						"attribute": "miapi:generic.bow_draw_speed",
+						"value": 0.05,
+						"operation": "multiply_total"
+					}
+				}
+			]
+		},
+
+
+		"Armor_pierce+5%": {
+			"title": "+5% Armor Piercing",
+			"icon": {
+				"type": "item",
+				"data": {
+					"item": "bow"
+				}
+			},
+			"rewards": [
+				{
+					"type": "puffish_skills:attribute",
+					"data": {
+						"attribute": "irons_lib:armor_pierce",
+						"value": 0.05,
+						"operation": "multiply_total"
+					}
+				}
+			]
+		},
+	"Accuracy+5%": {
+			"title": "+5% Accuracy",
+			"icon": {
+				"type": "item",
+				"data": {
+					"item": "bow"
+				}
+			},
+			"rewards": [
+				{
+					"type": "puffish_skills:attribute",
+					"data": {
+						"attribute": "miapi:generic.projectile_accuracy",
+						"value": 0.05,
+						"operation": "multiply_total"
+					}
+				}
+			]
+		},
+
+	"movement_speed+5%": {
+		"title": "+5% Movement Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Sprint_speed+5%": {
+		"title": "+5% Movement Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:sprinting_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Jump_count+1": {
+		"title": "+1 Jump",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "jump_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "tconstruct:player.jump_count",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Jump_Power+10%": {
+		"title": "+10% Jump Power",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "jump_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "opposing_force:jump_power",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+	"Stamina+10%": {
+		"title": "+10% Max Stamina",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:stamina",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	}
+}
