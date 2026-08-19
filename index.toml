@@ -648,6 +648,11 @@ hash = "1363808b25879a23defe099b4d66e01a5ac150d7030c5ac59dfc326e4c4a14ab"
 metafile = true
 
 [[files]]
+file = "mods/default-skill-trees.pw.toml"
+hash = "aae55b19ae28c29d050df5de9e23364f3e4388cbf2d7c27d37df6e7425e98437"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "0950fd06529bd98cf84192d9a8d4cddc264a2a7b50706abc0e1dc8e3f58861eb"
 metafile = true
@@ -1254,6 +1259,11 @@ metafile = true
 [[files]]
 file = "mods/proxy-compatible-forge.pw.toml"
 hash = "5f5c428c2356afaf73018ea9c24fe90cb60e4c7ca1192aef47c2731de6fe0bf2"
+metafile = true
+
+[[files]]
+file = "mods/puffish-attributes.pw.toml"
+hash = "895f604eff178b25c3b071ab539c85acf859a106133b866031a0b81a17ec2eec"
 metafile = true
 
 [[files]]
