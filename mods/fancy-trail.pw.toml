@@ -1,13 +1,13 @@
 name = "Fancy Trail"
-filename = "Fancy-Trail-1.2.6-1.20.1-all.jar"
+filename = "Fancy-Trail-1.2.7-1.20.1-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha512"
-hash = "34e000ed911f1f378bf33356a55dafb71e2d7875dd00414239a3e93f33d33b741caf970a062da436acab064cc0f62e6c108dba2da1d0eec2b734e2dc936f7a1a"
+hash = "232179b08ec9ef4745124c41f510931659465e742410ccc5fc3cadf5f200a57a72b438e88f06d2c571c7604baa140c9c8efbb2d32cb026b862bb505973abb706"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8613021
+file-id = 8682091
 project-id = 1380365

@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquamirae.pw.toml"
-hash = "fc7ef8d7309bc912970799a5abddf751b9b19b4fef7e0e49fd224eb2f5517a86"
+hash = "79d24143702ea7ee1336f6b47db7efbed818dfd2a8a448f4353524c357fd72a3"
 metafile = true
 
 [[files]]
@@ -773,7 +773,7 @@ metafile = true
 
 [[files]]
 file = "mods/epicfight-extra.pw.toml"
-hash = "9ca295a5d03550834f52f151ebe4c0342a7f46812494678af7b6a89643689ed3"
+hash = "9010e531aa1fc2ef19f6a3e2562bee4b43ad37f1b1d900947290ff382310b394"
 metafile = true
 
 [[files]]
@@ -793,7 +793,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancy-trail.pw.toml"
-hash = "00875858ec4a8c09982dc6961233fc9a34c9e4168bec65e93d52f154561cdd0f"
+hash = "6942e11314f69f69006aa5d25f49c43d3e5bae975e27aa4931b99da6a5c2b590"
 metafile = true
 
 [[files]]
@@ -918,7 +918,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "a8783925d731189d093f88763ec037b6a6858228052e4fea03a7d76446fcde45"
+hash = "7b06a465409f65f033372c847aa8bf376fda2f5d0ad6efadc21864f25ce3c742"
 metafile = true
 
 [[files]]
@@ -1133,7 +1133,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "a709757187b9a4b2bd62e4e495eee5388e8823ada2721ad2fc93fa03ab917b6a"
+hash = "151240ca2704ec39533b3f0a9622286850963dccaa0c92c0169c2c3a6f31726c"
 metafile = true
 
 [[files]]
@@ -1327,7 +1327,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "8f1924406c646c3f7eadc743b901a3176dffa8ca860304aa8bd8c985f834ee3f"
+hash = "9fc87d93d5adcaab2878cc8173c84c65514827c0f86511953ef7c6805d3938ee"
 metafile = true
 
 [[files]]
