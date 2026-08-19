@@ -93,292 +93,288 @@ file = "config/iceandfire-client.toml"
 hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 
 [[files]]
-file = "datapacks/SKILLS/META-INF/mods.toml"
+file = "datapacks/SKILLS/skills-template.zip"
+hash = "1170187907b5550e92627acada997da89053f8ed87da200139ecb1ed2d84c7f7"
+
+[[files]]
+file = "datapacks/SKILLS/skills-template/META-INF/mods.toml"
 hash = "91a5fd65a138617dd1fd1cc35e21bddbdb55b1d82827ee4b72f5eb9f4b86ff4f"
 
 [[files]]
-file = "datapacks/SKILLS/META-INF/neoforge.mods.toml"
+file = "datapacks/SKILLS/skills-template/META-INF/neoforge.mods.toml"
 hash = "91a5fd65a138617dd1fd1cc35e21bddbdb55b1d82827ee4b72f5eb9f4b86ff4f"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Alchemy/category.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Alchemy/category.json"
 hash = "53f969f87b110bf1d6f957ad22335ca21c325fb4c12a7f55717133b7a3b2b006"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Alchemy/connections.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Alchemy/connections.json"
 hash = "a0b4adf0de54d44ad5d48274b29e8bd634216b2845410315c40ba51972cd8bc2"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Alchemy/definitions.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Alchemy/definitions.json"
 hash = "48244a958aef52e4a15a26473ca86615bf67b39082e9ea38dc3e6cfb57ed792b"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Alchemy/experience.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Alchemy/experience.json"
 hash = "94212a6ab1056ff57ea9a0116ba52ced8b88e29fc86f0b40aa660eb825649e57"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Alchemy/skills.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Alchemy/skills.json"
 hash = "d9b081f97e4c83c94d8843003607c12b4f1c6e3fcc8d3afa00d6c03db0bedfc6"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Archery/category.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Archery/category.json"
 hash = "31afadbf1ca507ce941b1f252a036ece3526005e6900164401a8208f78729581"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Archery/connections.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Archery/connections.json"
 hash = "f2f3fea3d47cda9a630d533c4abb604d1205b06148bd7f683891ea2daac38135"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Archery/definitions.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Archery/definitions.json"
 hash = "4e00813d97f4ccd39585bb01ad49c9b322af2f38a1292a1ede729b12ffeacaf1"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Archery/experience.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Archery/experience.json"
 hash = "de5b8181a22ae85b52ec6657581321adf656e92ec85342e5efeabede58fdffd2"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Archery/skills.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Archery/skills.json"
 hash = "10dd61c29622550252bfc0d4f7788321b15101458e561921e0ffb53f9e82789e"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Building/category.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Building/category.json"
 hash = "2ae3df84fcee7bb14b26d3343c1a48ff8599b76996a8f1a35745c01e3f225bfe"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Building/connections.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Building/connections.json"
 hash = "a0b4adf0de54d44ad5d48274b29e8bd634216b2845410315c40ba51972cd8bc2"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Building/definitions.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Building/definitions.json"
 hash = "48244a958aef52e4a15a26473ca86615bf67b39082e9ea38dc3e6cfb57ed792b"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Building/experience.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Building/experience.json"
 hash = "94212a6ab1056ff57ea9a0116ba52ced8b88e29fc86f0b40aa660eb825649e57"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Building/skills.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Building/skills.json"
 hash = "d9b081f97e4c83c94d8843003607c12b4f1c6e3fcc8d3afa00d6c03db0bedfc6"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Combat/category.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Combat/category.json"
 hash = "fd11c43aa12ee9b34754bcd740893863452628f82dad80a23b886c263a2f2cc3"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Combat/connections.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Combat/connections.json"
 hash = "5a564ca52be3871d7f27dcab3ae9b694a455443e4942d76450cab1cbedaefadf"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Combat/definitions.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Combat/definitions.json"
 hash = "ba4e63fff816b4cbe33280160911942e18658164aec80db0017c1401ecad728c"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Combat/experience.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Combat/experience.json"
 hash = "94212a6ab1056ff57ea9a0116ba52ced8b88e29fc86f0b40aa660eb825649e57"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Combat/skills.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Combat/skills.json"
 hash = "e4c8a2e89581bb1630d2b77a0fb97016b85607c14f550f8640ecd94274dfe8a9"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Cooking/category.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Cooking/category.json"
 hash = "2580e0234053973ab650c256727abe2b0e2853e1ff997f8cd6f5a4312546c8d7"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Cooking/connections.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Cooking/connections.json"
 hash = "a0b4adf0de54d44ad5d48274b29e8bd634216b2845410315c40ba51972cd8bc2"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Cooking/definitions.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Cooking/definitions.json"
 hash = "48244a958aef52e4a15a26473ca86615bf67b39082e9ea38dc3e6cfb57ed792b"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Cooking/experience.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Cooking/experience.json"
 hash = "94212a6ab1056ff57ea9a0116ba52ced8b88e29fc86f0b40aa660eb825649e57"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Cooking/skills.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Cooking/skills.json"
 hash = "d9b081f97e4c83c94d8843003607c12b4f1c6e3fcc8d3afa00d6c03db0bedfc6"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Crafting/category.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Crafting/category.json"
 hash = "177f8180faf433fe8424ce9d8d17b8348889ec021145492fa8fe83140647c72a"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Crafting/connections.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Crafting/connections.json"
 hash = "a0b4adf0de54d44ad5d48274b29e8bd634216b2845410315c40ba51972cd8bc2"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Crafting/definitions.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Crafting/definitions.json"
 hash = "48244a958aef52e4a15a26473ca86615bf67b39082e9ea38dc3e6cfb57ed792b"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Crafting/experience.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Crafting/experience.json"
 hash = "94212a6ab1056ff57ea9a0116ba52ced8b88e29fc86f0b40aa660eb825649e57"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Crafting/skills.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Crafting/skills.json"
 hash = "d9b081f97e4c83c94d8843003607c12b4f1c6e3fcc8d3afa00d6c03db0bedfc6"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Enchanting/category.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Enchanting/category.json"
 hash = "c5befc96b2b0e126e309aa34fccf1161772bb0ad798807f48111fb4481d2fca9"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Enchanting/connections.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Enchanting/connections.json"
 hash = "a0b4adf0de54d44ad5d48274b29e8bd634216b2845410315c40ba51972cd8bc2"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Enchanting/definitions.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Enchanting/definitions.json"
 hash = "48244a958aef52e4a15a26473ca86615bf67b39082e9ea38dc3e6cfb57ed792b"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Enchanting/experience.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Enchanting/experience.json"
 hash = "94212a6ab1056ff57ea9a0116ba52ced8b88e29fc86f0b40aa660eb825649e57"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Enchanting/skills.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Enchanting/skills.json"
 hash = "d9b081f97e4c83c94d8843003607c12b4f1c6e3fcc8d3afa00d6c03db0bedfc6"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Farming/category.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Farming/category.json"
 hash = "cb41bb0af6b6a91e68c801cd7f1e0128945e2d8539278875a862734c791c8ee0"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Farming/connections.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Farming/connections.json"
 hash = "a0b4adf0de54d44ad5d48274b29e8bd634216b2845410315c40ba51972cd8bc2"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Farming/definitions.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Farming/definitions.json"
 hash = "48244a958aef52e4a15a26473ca86615bf67b39082e9ea38dc3e6cfb57ed792b"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Farming/experience.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Farming/experience.json"
 hash = "94212a6ab1056ff57ea9a0116ba52ced8b88e29fc86f0b40aa660eb825649e57"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Farming/skills.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Farming/skills.json"
 hash = "d9b081f97e4c83c94d8843003607c12b4f1c6e3fcc8d3afa00d6c03db0bedfc6"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Fishing/category.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Fishing/category.json"
 hash = "b117f41481f1e6dfa1b2af83c710cfc7efef8de444adcff93e888ced1b4058d5"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Fishing/connections.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Fishing/connections.json"
 hash = "a0b4adf0de54d44ad5d48274b29e8bd634216b2845410315c40ba51972cd8bc2"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Fishing/definitions.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Fishing/definitions.json"
 hash = "48244a958aef52e4a15a26473ca86615bf67b39082e9ea38dc3e6cfb57ed792b"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Fishing/experience.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Fishing/experience.json"
 hash = "94212a6ab1056ff57ea9a0116ba52ced8b88e29fc86f0b40aa660eb825649e57"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Fishing/skills.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Fishing/skills.json"
 hash = "d9b081f97e4c83c94d8843003607c12b4f1c6e3fcc8d3afa00d6c03db0bedfc6"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Magic/category.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Magic/category.json"
 hash = "775f62983bd3d6f8c7dc029c13f52061224988ba8b22015f1752e2802cfd931d"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Magic/connections.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Magic/connections.json"
 hash = "a0b4adf0de54d44ad5d48274b29e8bd634216b2845410315c40ba51972cd8bc2"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Magic/definitions.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Magic/definitions.json"
 hash = "3b789698da9ed1de05d72de223622ce4fd20c5d211ce9a3a50e970e03942175f"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Magic/experience.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Magic/experience.json"
 hash = "94212a6ab1056ff57ea9a0116ba52ced8b88e29fc86f0b40aa660eb825649e57"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Magic/skills.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Magic/skills.json"
 hash = "d9b081f97e4c83c94d8843003607c12b4f1c6e3fcc8d3afa00d6c03db0bedfc6"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Mining/category.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Mining/category.json"
 hash = "0833bae46355a4d18f62d7797ada669e786ddd8740d542d80ff974539677c252"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Mining/connections.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Mining/connections.json"
 hash = "a0b4adf0de54d44ad5d48274b29e8bd634216b2845410315c40ba51972cd8bc2"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Mining/definitions.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Mining/definitions.json"
 hash = "48244a958aef52e4a15a26473ca86615bf67b39082e9ea38dc3e6cfb57ed792b"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Mining/experience.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Mining/experience.json"
 hash = "94212a6ab1056ff57ea9a0116ba52ced8b88e29fc86f0b40aa660eb825649e57"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Mining/skills.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Mining/skills.json"
 hash = "d9b081f97e4c83c94d8843003607c12b4f1c6e3fcc8d3afa00d6c03db0bedfc6"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Smithing/category.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Smithing/category.json"
 hash = "7c1a76bfb20f3b14cbc26210b86107d83abf746757baaec748812e835cebb1d2"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Smithing/connections.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Smithing/connections.json"
 hash = "a0b4adf0de54d44ad5d48274b29e8bd634216b2845410315c40ba51972cd8bc2"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Smithing/definitions.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Smithing/definitions.json"
 hash = "48244a958aef52e4a15a26473ca86615bf67b39082e9ea38dc3e6cfb57ed792b"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Smithing/experience.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Smithing/experience.json"
 hash = "94212a6ab1056ff57ea9a0116ba52ced8b88e29fc86f0b40aa660eb825649e57"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Smithing/skills.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Smithing/skills.json"
 hash = "d9b081f97e4c83c94d8843003607c12b4f1c6e3fcc8d3afa00d6c03db0bedfc6"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Woodcutting/category.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Woodcutting/category.json"
 hash = "421a63f09b5c4cc81fbf1a0e0f9a5a74c724d96005108c09144016a05ce5f0a1"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Woodcutting/connections.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Woodcutting/connections.json"
 hash = "a0b4adf0de54d44ad5d48274b29e8bd634216b2845410315c40ba51972cd8bc2"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Woodcutting/definitions.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Woodcutting/definitions.json"
 hash = "48244a958aef52e4a15a26473ca86615bf67b39082e9ea38dc3e6cfb57ed792b"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Woodcutting/experience.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Woodcutting/experience.json"
 hash = "94212a6ab1056ff57ea9a0116ba52ced8b88e29fc86f0b40aa660eb825649e57"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/categories/Woodcutting/skills.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Woodcutting/skills.json"
 hash = "d9b081f97e4c83c94d8843003607c12b4f1c6e3fcc8d3afa00d6c03db0bedfc6"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/config.json"
+file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/config.json"
 hash = "41f2f8c386dbac8ea4e1a467ea9e028cb092cab24c21e891177fb603cd549b9b"
 
 [[files]]
-file = "datapacks/SKILLS/data/skills/puffish_skills/skills-template.zip"
-hash = "1170187907b5550e92627acada997da89053f8ed87da200139ecb1ed2d84c7f7"
-
-[[files]]
-file = "datapacks/SKILLS/fabric.mod.json"
+file = "datapacks/SKILLS/skills-template/fabric.mod.json"
 hash = "46f9411031b108f13f9b050d2f590c1f53ee7f32433b5a5d02c59fc58d918282"
 
 [[files]]
-file = "datapacks/SKILLS/pack.mcmeta"
+file = "datapacks/SKILLS/skills-template/pack.mcmeta"
 hash = "e2c2ac11f392925641afe266bac2ed51740e1af5d2dc8296e24912f7598d50d5"
-
-[[files]]
-file = "datapacks/SKILLS/skills-template.zip"
-hash = "1170187907b5550e92627acada997da89053f8ed87da200139ecb1ed2d84c7f7"
 
 [[files]]
 file = "datapacks/VQ_EFCompat1.1.zip"
@@ -649,6 +645,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "1363808b25879a23defe099b4d66e01a5ac150d7030c5ac59dfc326e4c4a14ab"
+metafile = true
+
+[[files]]
+file = "mods/default-skill-trees.pw.toml"
+hash = "aae55b19ae28c29d050df5de9e23364f3e4388cbf2d7c27d37df6e7425e98437"
 metafile = true
 
 [[files]]
@@ -1133,7 +1134,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "151240ca2704ec39533b3f0a9622286850963dccaa0c92c0169c2c3a6f31726c"
+hash = "e76f7898339ce361f847148d5271c0e7a44c48099051809680a27b3c263e37fd"
 metafile = true
 
 [[files]]
@@ -1258,6 +1259,11 @@ metafile = true
 [[files]]
 file = "mods/proxy-compatible-forge.pw.toml"
 hash = "5f5c428c2356afaf73018ea9c24fe90cb60e4c7ca1192aef47c2731de6fe0bf2"
+metafile = true
+
+[[files]]
+file = "mods/puffish-attributes.pw.toml"
+hash = "895f604eff178b25c3b071ab539c85acf859a106133b866031a0b81a17ec2eec"
 metafile = true
 
 [[files]]
