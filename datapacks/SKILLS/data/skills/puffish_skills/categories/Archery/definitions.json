@@ -1,145 +1,146 @@
 {
 	"Projectile_damage+5%": {
-			"title": "+5% Projectile Damage",
-			"icon": {
-				"type": "item",
+		"title": "+5% Projectile Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "arrow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
 				"data": {
-					"item": "arrow"
+					"attribute": "miapi:generic.projectile_damage",
+					"value": 0.05,
+					"operation": "multiply_total"
 				}
 			},
-			"rewards": [
-				{
-					"type": "puffish_skills:attribute",
-					"data": {
-						"attribute": "miapi:generic.projectile_damage",
-						"value": 0.05,
-						"operation": "multiply_total"
-					}
-				},
-				{
-					"type": "puffish_skills:attribute",
-					"data": {
-						"attribute": "opposing_force:ranged_damage",
-						"value": 0.05,
-						"operation": "multiply_total"
-					}
-				},
-				{
-					"type": "puffish_skills:attribute",
-					"data": {
-						"attribute": "puffish_attributes:ranged_damage",
-						"value": 0.05,
-						"operation": "multiply_total"
-					}
-				}
-			]
-		},
-
-		"Projectile_crit+15%": {
-			"title": "+15% Projectile Critical Strike Damage",
-			"icon": {
-				"type": "item",
+			{
+				"type": "puffish_skills:attribute",
 				"data": {
-					"item": "arrow"
+					"attribute": "puffish_attributes:ranged_damage",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "sbiqeerenfhk7g6w"
+		}
+	},
+	"Projectile_crit+15%": {
+		"title": "+15% Projectile Critical Strike Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "arrow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "miapi:generic.projectile_crit_multiplier",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "gi5q7ywq4iecqbpo"
+		}
+	},
+	"Projectile_accuracy+5%": {
+		"title": "+5% Projectile Accuracy",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "arrow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "miapi:generic.projectile_accuracy",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "90axtit0gnrl7hw6"
+		}
+	},
+	"Projectile_pierce+5%": {
+		"title": "+5% Projectile Piercing",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "arrow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "miapi:generic.projectile_piercing",
+					"value": 0.05,
+					"operation": "multiply_total"
 				}
 			},
-			"rewards": [
-				{
-					"type": "puffish_skills:attribute",
-					"data": {
-						"attribute": "miapi:generic.projectile_crit_multiplier",
-						"value": 0.15,
-						"operation": "multiply_total"
-					}
-				}
-			]
-		},
-
-		"Projectile_accuracy+5%": {
-			"title": "+5% Projectile Accuracy",
-			"icon": {
-				"type": "item",
+			{
+				"type": "puffish_skills:attribute",
 				"data": {
-					"item": "arrow"
+					"attribute": "obscure_api:penetration",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "7kkb1ogwgqs34539"
+		}
+	},
+	"Projectile_speed+10%": {
+		"title": "+10% Projectile Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "miapi:generic.projectile_speed",
+					"value": 0.1,
+					"operation": "multiply_total"
 				}
 			},
-			"rewards": [
-				{
-					"type": "puffish_skills:attribute",
-					"data": {
-						"attribute": "miapi:generic.projectile_accuracy",
-						"value": 0.05,
-						"operation": "multiply_total"
-					}
-				}
-			]
-		},
-
-		"Projectile_pierce+5%": {
-			"title": "+5% Projectile Piercing",
-			"icon": {
-				"type": "item",
+			{
+				"type": "puffish_skills:attribute",
 				"data": {
-					"item": "arrow"
+					"attribute": "puffish_attributes:bow_projectile_speed",
+					"value": 0.1,
+					"operation": "multiply_total"
 				}
 			},
-			"rewards": [
-				{
-					"type": "puffish_skills:attribute",
-					"data": {
-						"attribute": "miapi:generic.projectile_piercing",
-						"value": 0.05,
-						"operation": "multiply_total"
-					}
-				},
-				{
-					"type": "puffish_skills:attribute",
-					"data": {
-						"attribute": "obscure_api:penetration",
-						"value": 0.05,
-						"operation": "multiply_total"
-					}
-				}
-			]
-		},
-
-		"Projectile_speed+10%": {
-			"title": "+10% Projectile Speed",
-			"icon": {
-				"type": "effect",
+			{
+				"type": "puffish_skills:attribute",
 				"data": {
-					"effect": "swiftness"
+					"attribute": "puffish_attributes:crossbow_projectile_speed",
+					"value": 0.1,
+					"operation": "multiply_total"
 				}
-			},
-			"rewards": [
-				{
-					"type": "puffish_skills:attribute",
-					"data": {
-						"attribute": "miapi:generic.projectile_speed",
-						"value": 0.1,
-						"operation": "multiply_total"
-					}
-				},
-				{
-					"type": "puffish_skills:attribute",
-					"data": {
-						"attribute": "puffish_attributes:bow_projectile_speed",
-						"value": 0.1,
-						"operation": "multiply_total"
-					}
-				},
-				{
-					"type": "puffish_skills:attribute",
-					"data": {
-						"attribute": "puffish_attributes:crossbowbow_projectile_speed",
-						"value": 0.1,
-						"operation": "multiply_total"
-					}
-				}
-			]
-		},
-
-
+			}
+		],
+		"metadata": {
+			"icon": "3tftqk96i2h9tfd9"
+		}
+	},
 	"arrow_damage+5%": {
 		"title": "+5% Arrow Damage",
 		"icon": {
@@ -165,9 +166,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "h1k77f9dlvdxaxlo"
+		}
 	},
-
 	"arrow_velocity+5%": {
 		"title": "+5% Arrow Velocity",
 		"icon": {
@@ -185,77 +188,85 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "htusn9j3mtga3vcu"
+		}
 	},
-
 	"Draw_Speed+5%": {
-			"title": "+5% Draw Speed",
-			"icon": {
-				"type": "item",
+		"title": "+5% Draw Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
 				"data": {
-					"item": "bow"
+					"attribute": "attributeslib:draw_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
 				}
 			},
-			"rewards": [
-				{
-					"type": "puffish_skills:attribute",
-					"data": {
-						"attribute": "attributeslib:draw_speed",
-						"value": 0.05,
-						"operation": "multiply_total"
-					}
-				},
-				{
-					"type": "puffish_skills:attribute",
-					"data": {
-						"attribute": "miapi:generic.bow_draw_speed",
-						"value": 0.05,
-						"operation": "multiply_total"
-					}
-				}
-			]
-		},
-
-
-		"Armor_pierce+5%": {
-			"title": "+5% Armor Piercing",
-			"icon": {
-				"type": "item",
+			{
+				"type": "puffish_skills:attribute",
 				"data": {
-					"item": "bow"
+					"attribute": "miapi:generic.bow_draw_time",
+					"value": 0.05,
+					"operation": "multiply_total"
 				}
-			},
-			"rewards": [
-				{
-					"type": "puffish_skills:attribute",
-					"data": {
-						"attribute": "irons_lib:armor_pierce",
-						"value": 0.05,
-						"operation": "multiply_total"
-					}
-				}
-			]
+			}
+		],
+		"metadata": {
+			"icon": "rxpae8raamk16qjl"
+		}
+	},
+	"Armor_pierce+5%": {
+		"title": "+5% Armor Piercing",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bow"
+			}
 		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_lib:armor_pierce",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "t3iqmw06ezqcgszw"
+		}
+	},
 	"Accuracy+5%": {
-			"title": "+5% Accuracy",
-			"icon": {
-				"type": "item",
-				"data": {
-					"item": "bow"
-				}
-			},
-			"rewards": [
-				{
-					"type": "puffish_skills:attribute",
-					"data": {
-						"attribute": "miapi:generic.projectile_accuracy",
-						"value": 0.05,
-						"operation": "multiply_total"
-					}
-				}
-			]
+		"title": "+5% Accuracy",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bow"
+			}
 		},
-
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "miapi:generic.projectile_accuracy",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "xyne4j7qa98y3s2s"
+		}
+	},
 	"movement_speed+5%": {
 		"title": "+5% Movement Speed",
 		"icon": {
@@ -273,9 +284,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "1x6ie02p6sqpjba8"
+		}
 	},
-
 	"Sprint_speed+5%": {
 		"title": "+5% Movement Speed",
 		"icon": {
@@ -293,9 +306,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "20g94ayer9wevugl"
+		}
 	},
-
 	"Jump_count+1": {
 		"title": "+1 Jump",
 		"icon": {
@@ -313,29 +328,11 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "3fuse1fdjljw1651"
+		}
 	},
-
-	"Jump_Power+10%": {
-		"title": "+10% Jump Power",
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "jump_boost"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "opposing_force:jump_power",
-					"value": 0.1,
-					"operation": "multiply_total"
-				}
-			}
-		]
-	},
-
 	"Stamina+10%": {
 		"title": "+10% Max Stamina",
 		"icon": {
@@ -353,6 +350,9 @@
 					"operation": "multiply_total"
 				}
 			}
-		]
+		],
+		"metadata": {
+			"icon": "q1xj242twxl92hdn"
+		}
 	}
 }

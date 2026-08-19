@@ -5,14 +5,14 @@
 		"icon": {
 			"type": "item",
 			"data": {
-				"item": "redstone_dust"
+				"item": "redstone"
 			}
 		},
 		"rewards": [
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "irons_spellbooks:blood_magic_power",
+					"attribute": "irons_spellbooks:blood_spell_power",
 					"value": 0.05,
 					"operation": "multiply_total"
 				}
@@ -32,7 +32,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "irons_spellbooks:ender_magic_power",
+					"attribute": "irons_spellbooks:ender_spell_power",
 					"value": 0.05,
 					"operation": "multiply_total"
 				}
@@ -45,14 +45,14 @@
 		"icon": {
 			"type": "item",
 			"data": {
-				"item": "bonemeal"
+				"item": "bone_meal"
 			}
 		},
 		"rewards": [
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "irons_spellbooks:evocation_magic_power",
+					"attribute": "irons_spellbooks:evocation_spell_power",
 					"value": 0.05,
 					"operation": "multiply_total"
 				}
@@ -72,7 +72,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "irons_spellbooks:fire_magic_power",
+					"attribute": "irons_spellbooks:fire_spell_power",
 					"value": 0.05,
 					"operation": "multiply_total"
 				}
@@ -92,7 +92,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "irons_spellbooks:holy_magic_power",
+					"attribute": "irons_spellbooks:holy_spell_power",
 					"value": 0.05,
 					"operation": "multiply_total"
 				}
@@ -112,7 +112,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "irons_spellbooks:ice_magic_power",
+					"attribute": "irons_spellbooks:ice_spell_power",
 					"value": 0.05,
 					"operation": "multiply_total"
 				}
@@ -132,7 +132,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "irons_spellbooks:lightning_magic_power",
+					"attribute": "irons_spellbooks:lightning_spell_power",
 					"value": 0.05,
 					"operation": "multiply_total"
 				}
@@ -152,7 +152,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "irons_spellbooks:nature_magic_power",
+					"attribute": "irons_spellbooks:nature_spell_power",
 					"value": 0.05,
 					"operation": "multiply_total"
 				}
@@ -165,7 +165,7 @@
 		"icon": {
 			"type": "item",
 			"data": {
-				"item": "spawn_egg"
+				"item": "skeleton_spawn_egg"
 			}
 		},
 		"rewards": [
@@ -206,7 +206,7 @@
 		"icon": {
 			"type": "effect",
 			"data": {
-				"item": "regeneration"
+				"effect": "regeneration"
 			}
 		},
 		"rewards": [
@@ -226,7 +226,7 @@
 		"icon": {
 			"type": "effect",
 			"data": {
-				"item": "haste"
+				"effect": "haste"
 			}
 		},
 		"rewards": [
@@ -246,14 +246,14 @@
 		"icon": {
 			"type": "effect",
 			"data": {
-				"item": "speed"
+				"effect": "speed"
 			}
 		},
 		"rewards": [
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "irons_spellbooks:cast_movespeed",
+					"attribute": "irons_spellbooks:casting_movespeed",
 					"value": 0.15,
 					"operation": "multiply_total"
 				}
@@ -266,7 +266,7 @@
 		"icon": {
 			"type": "effect",
 			"data": {
-				"item": "swiftness"
+				"effect": "haste"
 			}
 		},
 		"rewards": [
@@ -286,7 +286,7 @@
 		"icon": {
 			"type": "effect",
 			"data": {
-				"item": "strength"
+				"effect": "strength"
 			}
 		},
 		"rewards": [
@@ -306,7 +306,7 @@
 		"icon": {
 			"type": "effect",
 			"data": {
-				"item": "strength"
+				"effect": "strength"
 			}
 		},
 		"rewards": [

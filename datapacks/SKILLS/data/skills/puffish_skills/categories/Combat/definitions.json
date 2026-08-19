@@ -58,7 +58,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "attributeslib:critical_hit_chance",
+					"attribute": "attributeslib:crit_chance",
 					"value": 0.05,
 					"operation": "multiply_total"
 				}
@@ -81,7 +81,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "attributeslib:critical_hit_damage",
+					"attribute": "attributeslib:crit_damage",
 					"value": 0.1,
 					"operation": "multiply_total"
 				}
@@ -127,7 +127,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "epicfights:max_strikes",
+					"attribute": "epicfight:max_strikes",
 					"value": 1,
 					"operation": "addition"
 				}
@@ -150,7 +150,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "epicfights:stamina_regen",
+					"attribute": "epicfight:stamina_regen",
 					"value": 0.1,
 					"operation": "multiply_total"
 				}
@@ -358,14 +358,6 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "puffish_attributes:stealth",
-					"value": 0.15,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "opposing_force:stealth",
 					"value": 0.15,
 					"operation": "multiply_total"
 				}
