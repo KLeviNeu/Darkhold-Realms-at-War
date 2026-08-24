@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CONTROLS_README.txt"
+hash = "334a816f093fe26893041c05aff2e60e01155b87803250b962cc4692fbf122e1"
+
+[[files]]
 file = "complementary-unbound.pw.toml"
 hash = "3e473db2b73057eff50f1351b1efc7269affa48faa2f2fdc09d6b5afed386dfc"
 metafile = true
