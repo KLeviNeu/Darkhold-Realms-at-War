@@ -295,11 +295,11 @@ hash = "775f62983bd3d6f8c7dc029c13f52061224988ba8b22015f1752e2802cfd931d"
 
 [[files]]
 file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Magic/connections.json"
-hash = "a0b4adf0de54d44ad5d48274b29e8bd634216b2845410315c40ba51972cd8bc2"
+hash = "88399683751c8b39700fa9e79593af8764b88bccead6873c2b85a9c7c6cb5e82"
 
 [[files]]
 file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Magic/definitions.json"
-hash = "3b789698da9ed1de05d72de223622ce4fd20c5d211ce9a3a50e970e03942175f"
+hash = "156fd96151dcb029b43af9f4c0c7b1144ab0ed5bfc352771a08440c33723539f"
 
 [[files]]
 file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Magic/experience.json"
@@ -307,7 +307,7 @@ hash = "94212a6ab1056ff57ea9a0116ba52ced8b88e29fc86f0b40aa660eb825649e57"
 
 [[files]]
 file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Magic/skills.json"
-hash = "d9b081f97e4c83c94d8843003607c12b4f1c6e3fcc8d3afa00d6c03db0bedfc6"
+hash = "be62c6080204bc9fbcc80c6694be5f269abe840d37b1d4b76d5c50b2905725a1"
 
 [[files]]
 file = "datapacks/SKILLS/skills-template/data/skills/puffish_skills/categories/Mining/category.json"
@@ -464,11 +464,6 @@ hash = "c92d7a6dc58ca7168bda2dfc3cc0a5acde7af7a4d2134ec54d2014ecf47d9928"
 [[files]]
 file = "datapacks/packmenu/resources/pack.png"
 hash = "db4ba9188052b75c67fe536e5e7fc127499611abcb98b3542cf79a450fa13ece"
-
-[[files]]
-file = "makeup-ultra-fast-shader.pw.toml"
-hash = "63fa25d30274ff9a449a145a31a07909091a11eeecc195f8d34074402a9fe6dc"
-metafile = true
 
 [[files]]
 file = "mods/aaa-particles-world.pw.toml"
