@@ -1,0 +1,8 @@
+{
+	"x": 175,
+	"y": 60,
+	"width": 125,
+	"height": 20,
+	"langKey": "menu.quit",
+	"action": "QUIT"
+}

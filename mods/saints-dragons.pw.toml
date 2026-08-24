@@ -1,13 +1,13 @@
 name = "Saint's Dragons"
-filename = "saintsdragons-0.9.4+forge-1.20.1.jar"
+filename = "saintsdragons-0.9.5+forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha512"
-hash = "52ac8cd0a7a676913f4549a11efa9be4e48d68e4f4ffb79386bff1053da9e00320bcd716ad25d87efe08ee4c6b73bdbfb4c3c10f4dc609adba6b22fa50154b9d"
+hash = "1a27404527c25e40812705b13f5e4b9bc747d8de060130fb1d3cabda4e5dd312723129e865d78bc0799492f14a81442b1e2dfb17f40e8e38f6745b2e75143982"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8676079
+file-id = 8689985
 project-id = 1358098

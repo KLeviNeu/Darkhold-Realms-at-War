@@ -1,0 +1,13 @@
+name = "Shoulder Surfing Reloaded: Camera Fixes & Additions"
+filename = "ssrcamerafixes-forge-1.20.1-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "8e4a440cf58c71943c222c312d1a0c86642c89d87d3bb9763fdd9fc591c58aca09a28a6c985cc2cf5c7f901f1dfca034820c685bfaabd5b243c5fc7edd6c57dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8612030
+project-id = 1531224

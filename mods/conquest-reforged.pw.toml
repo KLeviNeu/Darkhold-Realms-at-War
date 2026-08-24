@@ -1,13 +1,13 @@
 name = "Conquest Reforged"
-filename = "ConquestReforged-forge-1.20.1-1.6.2.jar"
+filename = "ConquestReforged-forge-1.20.1-1.7.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha512"
-hash = "5709688040a2308c52433720fa52342bd9d5e8065ba71ce679333008597a726b3ae87b0a6a6a6cfa127b6c14b689d43ba638b44631b4d099f4157945d77a2e0a"
+hash = "5eb1563a44edacaa18c5b22a97819eee173c19fae0b90afe2c84691d975335064ffd32dcb67cd8838503fcda205fd982f5e10365f0be41f152575a7a0427190e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8472397
+file-id = 8702619
 project-id = 250077

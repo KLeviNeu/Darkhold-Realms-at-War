@@ -1,0 +1,13 @@
+name = "Mob Cap Overdrive - (Increased Max Hostile Mob spawn cap)"
+filename = "mobcapoverdrive.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "db51061ced4878823b1eb982dd15499de42a5ab9895f8b79e44459dc9d9fda20be8b93381a293b91f69095be68678fd7d2074a9f7b4a6f66a041a63cffb97d41"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7901061
+project-id = 1509362

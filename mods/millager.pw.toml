@@ -1,13 +1,13 @@
 name = "Millager (Village Defenders)"
-filename = "millager-forge-1.20.1-0.7.6.2.jar"
+filename = "millager-forge-1.20.1-0.7.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DFGcsxUu/versions/9ws55sr8/millager-forge-1.20.1-0.7.6.2.jar"
+url = "https://cdn.modrinth.com/data/DFGcsxUu/versions/4s3ZoRs2/millager-forge-1.20.1-0.7.7.jar"
 hash-format = "sha512"
-hash = "e02c8e958fc5989250387afd91685e9e55c97ebc3973174b6fb737f74d164b5448f88789a9b746ba5051ed2cad8663536ebc06b5e52941c2627e60cb924965e5"
+hash = "65bfc82b8cd1bfccfa96a2248d7173ffe4f4ecdb2389f3abd9d51c31ed42f8dc22955faeaea37ebb64a4115b10ddec8b49cfbfdf3da50fa456d365c6810f9a63"
 
 [update]
 [update.modrinth]
 mod-id = "DFGcsxUu"
-version = "9ws55sr8"
+version = "4s3ZoRs2"
