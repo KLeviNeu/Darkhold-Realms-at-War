@@ -748,10 +748,6 @@ hash = "1363808b25879a23defe099b4d66e01a5ac150d7030c5ac59dfc326e4c4a14ab"
 metafile = true
 
 [[files]]
-file = "mods/darkholdwebhook-1.0.0.jar"
-hash = "845bad79465e422cb05bdd93c6523913bb9a7d88cb2e31d9f88662313b32d426"
-
-[[files]]
 file = "mods/default-skill-trees.pw.toml"
 hash = "aae55b19ae28c29d050df5de9e23364f3e4388cbf2d7c27d37df6e7425e98437"
 metafile = true
@@ -1519,6 +1515,10 @@ metafile = true
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "a80b656d856850a891b4a29137c11bcb5833de69f6402a0f9980646e03c26940"
 metafile = true
+
+[[files]]
+file = "mods/statuswebhook-1.0.0.jar"
+hash = "1dac654b81197b30b111c4d3b6e4d97df47cdcb161aab9cfc7a13777fdbc1f94"
 
 [[files]]
 file = "mods/structory.pw.toml"
