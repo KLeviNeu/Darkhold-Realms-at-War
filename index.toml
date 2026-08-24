@@ -1741,14 +1741,6 @@ file = "packmenu/resources/assets/packmenu/texts/supporters.txt"
 hash = "a930d6ba2229ffdaf7768a063165cf8d3b5ca7bb5e6ef5e65b0ddc49be237833"
 
 [[files]]
-file = "packmenu/resources/assets/packmenu/textures/background.png"
-hash = "585d41053ee242b6203f1f83bebed618bcc5c134efe6b9d4d8136ed1db94ca2b"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/aklizbutton.png"
-hash = "0cebbd7cea1cb15bde9b058ae93058db935e79ef607ea2c1af990805fbf43701"
-
-[[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
 hash = "ec8c6b764755b1d4f2f0f1f95aee68f989faba5d0ee9c8bcc0c58790a87aa8f6"
 
