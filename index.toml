@@ -466,10 +466,6 @@ file = "datapacks/packmenu/resources/pack.png"
 hash = "db4ba9188052b75c67fe536e5e7fc127499611abcb98b3542cf79a450fa13ece"
 
 [[files]]
-file = "mods/DarkholdWebhook-1.0.0.jar"
-hash = "5d659d73e14b15c5b5096872446f79eb89eab4a2aa45ca4db42e45cdd1b5ef75"
-
-[[files]]
 file = "mods/aaa-particles-world.pw.toml"
 hash = "6b0dfea6882f09700c1d7b8cce19a8685bfc0427c8fa45f54a963a0f575032eb"
 metafile = true
@@ -750,6 +746,10 @@ metafile = true
 file = "mods/curios.pw.toml"
 hash = "1363808b25879a23defe099b4d66e01a5ac150d7030c5ac59dfc326e4c4a14ab"
 metafile = true
+
+[[files]]
+file = "mods/darkholdwebhook-1.0.0.jar"
+hash = "845bad79465e422cb05bdd93c6523913bb9a7d88cb2e31d9f88662313b32d426"
 
 [[files]]
 file = "mods/default-skill-trees.pw.toml"
