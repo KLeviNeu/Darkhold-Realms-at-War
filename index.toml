@@ -1518,7 +1518,7 @@ metafile = true
 
 [[files]]
 file = "mods/statuswebhook-1.0.0.jar"
-hash = "4fc31cbb2d66ed1d327744ad223bc588312399f48c61e7930e7fcdda5349eb49"
+hash = "1dac654b81197b30b111c4d3b6e4d97df47cdcb161aab9cfc7a13777fdbc1f94"
 
 [[files]]
 file = "mods/structory.pw.toml"
