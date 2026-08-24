@@ -466,6 +466,10 @@ file = "datapacks/packmenu/resources/pack.png"
 hash = "db4ba9188052b75c67fe536e5e7fc127499611abcb98b3542cf79a450fa13ece"
 
 [[files]]
+file = "mods/DarkholdWebhook-1.0.0.jar"
+hash = "5d659d73e14b15c5b5096872446f79eb89eab4a2aa45ca4db42e45cdd1b5ef75"
+
+[[files]]
 file = "mods/aaa-particles-world.pw.toml"
 hash = "6b0dfea6882f09700c1d7b8cce19a8685bfc0427c8fa45f54a963a0f575032eb"
 metafile = true
@@ -1515,10 +1519,6 @@ metafile = true
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "a80b656d856850a891b4a29137c11bcb5833de69f6402a0f9980646e03c26940"
 metafile = true
-
-[[files]]
-file = "mods/statuswebhook-1.0.0.jar"
-hash = "4fc31cbb2d66ed1d327744ad223bc588312399f48c61e7930e7fcdda5349eb49"
 
 [[files]]
 file = "mods/structory.pw.toml"
