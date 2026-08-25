@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/ares-hud.pw.toml"
-hash = "277dbc9104615ac5713b7ddbbef060363bfb94394cf050b0b615c8d34c2f61d4"
+hash = "fde2321b2d554e11e7cf65a2b6f1aa2501f0356ef3de50fcd63a664f1bbe99fd"
 metafile = true
 
 [[files]]
@@ -903,7 +903,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancy-toasts.pw.toml"
-hash = "9b6efb30f8b9468bbe8d278e04311cbf8238b9f2606fddd10d6a5fd2032c5779"
+hash = "3f184f617de0417a884e9cb78bd5774d02631c926733661c44c6a8b2a36611e5"
 metafile = true
 
 [[files]]
@@ -1068,7 +1068,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "68b9e9f8827b09a1a3f076a6042ca61f71f6639a0c150f5551a4df0d72794ea9"
+hash = "2c73f9fc4ea0a82304e3bfa6c1daa532f880bcf3d804c776a1c115ae8f3cbaf1"
 metafile = true
 
 [[files]]
@@ -1268,7 +1268,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "ad66e482cc22c0db4e563d3dcb0e1e05f5eebf6c0d536cd30ba289311ce95135"
+hash = "ff4f65652f170d12b98c08b0a8f218911baf059226e1aa3a34f63ffc4394866f"
 metafile = true
 
 [[files]]
