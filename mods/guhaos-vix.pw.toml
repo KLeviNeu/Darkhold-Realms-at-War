@@ -1,13 +1,13 @@
 name = "GUHAO's VIX"
-filename = "VIX-1.20-1.3.3-all.jar"
+filename = "VIX-1.20-1.3.4-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "dd19f5183a7271a516079d8c124ad028c9ce14aa0055b1858a8ee52d27cd08ce47ae95f17d1ffc2d3559584f9fd5885615b0ac14ef3616b561413647681112e2"
+hash-format = "sha1"
+hash = "877120e8c53b5bc7f0ca5f4202dbcf5a065077a4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8714262
+file-id = 8744295
 project-id = 1531111

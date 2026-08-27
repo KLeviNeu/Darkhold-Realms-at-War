@@ -953,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/frogilib.pw.toml"
-hash = "3da4592f23b79b426f7260e199a08ec48df5409a0ca060c2a2295a4d3c44d202"
+hash = "55dac42517a7d8677fab84243ddeb47e820ed25bf09f1915fde7ce45c1c3f77b"
 metafile = true
 
 [[files]]
@@ -1013,7 +1013,7 @@ metafile = true
 
 [[files]]
 file = "mods/guhaos-vix.pw.toml"
-hash = "15eaff28c5b114f14442e824b5d6e226d0ee884fe4c43358168d65756a3cc642"
+hash = "97c2b5474eeb786c92c1538e11d6da32ada7b1a80350a2642534a6058549c091"
 metafile = true
 
 [[files]]
@@ -1556,7 +1556,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "776bbe9189080cd077048a9365c1a31f8eda693eef295b54e482703b8616eb44"
+hash = "ab08586c5238ef50410e83f8da9d51e49b0aeab3d5c4859025ccdccaed242155"
 metafile = true
 
 [[files]]

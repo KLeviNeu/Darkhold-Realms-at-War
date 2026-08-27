@@ -1,13 +1,13 @@
 name = "FrogiLib"
-filename = "forge frogi_lib-1.1.0.jar"
+filename = "forge frogi_lib 1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "c4a571ff8597b79c4c7e7f06298a4856111ebefa340a97bbe63c2d221aab8b36dd87f332bd571f62c6143ae5e733b7f424d5f60dcc304d452175924a0eb1fd8f"
+hash-format = "sha1"
+hash = "d07a27c4f82f99fa59c7722127e467e40e60ff7a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8496771
+file-id = 8743148
 project-id = 1543125
