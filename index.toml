@@ -1770,3 +1770,35 @@ hash = "067666f88e89d2f96cb353dfe26b4fbc1e2bdad3d4b0904ec928bb6ed853b3ee"
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
 hash = "853b91bd8ca8924c5915c3dc8b3ff76848274d6a348baf4bd4900f623e56cf1a"
 metafile = true
+
+[[files]]
+file = "visual_keybinder/initialized.dat"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "visual_keybinder/layouts/1.Full Keyboard and mouse.layout.txt"
+hash = "4996bbb0d9a91f2d972f899f91fcf0f5195a9594a9bda446d0351e0e38eb5a3a"
+
+[[files]]
+file = "visual_keybinder/layouts/2.Mouse.layout.txt"
+hash = "c79b841eb72439e3815764ddd9643fe9ca36550c8dc68d457bd47dd4b49e9f14"
+
+[[files]]
+file = "visual_keybinder/layouts/3.Keyboard.layout.txt"
+hash = "83d0838dabec35f43073cba089c2dbdf989716a2e8e56b1af45f36201d7b2a49"
+
+[[files]]
+file = "visual_keybinder/layouts/4.Keypad.layout.txt"
+hash = "c46ac9489e69f7af03d027abceaa72b08128113c061ad9fdd71675ca9a0274a0"
+
+[[files]]
+file = "visual_keybinder/layouts/5.Function keys.layout.txt"
+hash = "ca2bc3b37769467042f78b81758ef449e6a52161d624eccaec3a11e4957f93e1"
+
+[[files]]
+file = "visual_keybinder/preset to load on first startup.txt"
+hash = "2c16f4fced19d3f6507f027880e05f2699fe67864a6990e0fbfc77ff3787386f"
+
+[[files]]
+file = "visual_keybinder/presets/Default.preset.txt"
+hash = "6bc3906ef7f849c730699cc337f3662ae3b0ec7e3d1b23b5ab05c7785721402b"
