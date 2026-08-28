@@ -1,0 +1,13 @@
+name = "CustomNPCs-Unofficial"
+filename = "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1a973b55f6f67e9fdeb197195e490ba92146381"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8414335
+project-id = 1052708

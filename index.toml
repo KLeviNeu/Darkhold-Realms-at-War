@@ -743,12 +743,17 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "a36352bb9c23025f886a4b8a9e30faa018893d6186e989a4e38a282ca90c140f"
+hash = "2ff90a53074619faf78a7e34e718fff3f2558076e116ac43180134b91c2d61a9"
 metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "a8d2d3a0dcf8ed7dc92602979bb4c7a6abf97e8b312c1cce135108a866d0f183"
+metafile = true
+
+[[files]]
+file = "mods/customnpcs-unofficial.pw.toml"
+hash = "9aa0d122d3cb317969c24a217fbefd813816d4caa9255f826c153c0413355526"
 metafile = true
 
 [[files]]
@@ -794,6 +799,11 @@ metafile = true
 [[files]]
 file = "mods/eeeabs-mobs.pw.toml"
 hash = "ba7a5c3535c909b135423c1695ca8ddc52ee033598ac1c22066551c1997b0b36"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "947e2f2067ecfad11b6fef94b6fc8e1e94ce8eeb89ed66a2ad663d6fc27b08cc"
 metafile = true
 
 [[files]]
@@ -1013,7 +1023,7 @@ metafile = true
 
 [[files]]
 file = "mods/guhaos-vix.pw.toml"
-hash = "97c2b5474eeb786c92c1538e11d6da32ada7b1a80350a2642534a6058549c091"
+hash = "a06f1f674bf43588c3ebef9f97ff79b016ab88d9f50c1d71c4cb89c53443d548"
 metafile = true
 
 [[files]]
@@ -1068,7 +1078,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2c73f9fc4ea0a82304e3bfa6c1daa532f880bcf3d804c776a1c115ae8f3cbaf1"
+hash = "b6cb4b89c06e20722b3a7d29a1e3373efa30f2e29baa02fd93d0ca167f44f36c"
 metafile = true
 
 [[files]]
