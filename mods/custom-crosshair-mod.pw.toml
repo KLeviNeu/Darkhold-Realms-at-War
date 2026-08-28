@@ -1,0 +1,13 @@
+name = "Custom Crosshair Mod"
+filename = "custom-crosshair-mod-v1.5.5-forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "265ba0989c2371d2e63d0357d31f8334c64991e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7096326
+project-id = 242995
