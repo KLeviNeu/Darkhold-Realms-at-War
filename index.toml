@@ -5,6 +5,34 @@ file = "CONTROLS_README.txt"
 hash = "798cc08c7512711a0ddd2cf2823b0802b5e02129fbda8f658eba0e32159ff0af"
 
 [[files]]
+file = "config/Crust/client_config_editor.toml"
+hash = "824a8679cc25fa0d569c743ac354e7aead5d8bcbc1d1af7a3bb3f3f6b37e1529"
+
+[[files]]
+file = "config/Crust/client_extra_inv_buttons.toml"
+hash = "7dd4e487501567b4eefc193eebda2f4d692df508396344a7a992e22ee96ec833"
+
+[[files]]
+file = "config/Crust/client_render_settings.toml"
+hash = "7a68ff87423719191bf04ae3a77133e07ec649461c18c412137b531f9987ac62"
+
+[[files]]
+file = "config/Crust/default_game_rules.toml"
+hash = "9a13e547c8bb8e1dd796afc9ef720dd1874e29c850d38eaa5fecc52d932c01db"
+
+[[files]]
+file = "config/Crust/modes.toml"
+hash = "1a1e4beb712c961f93397407174210de08d121e4a8515b4a72fa99220525dba7"
+
+[[files]]
+file = "config/Crust/utilities.toml"
+hash = "261ec0878c3fca127ccabb88c41a8578d9430cfc4aea8b52a825859e4a1d0432"
+
+[[files]]
+file = "config/ares_hud-client.toml"
+hash = "37a6651671bb2d502b59ddb982903a0637a6de08a2936d1f7b4a093287ec54cf"
+
+[[files]]
 file = "config/barista/Info.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -15,6 +43,10 @@ hash = "420d6aa116d50b5523b8813fbc16443f928f8bade82b7aa233c7a6f7c8e3b86b"
 [[files]]
 file = "config/barista/icon/icon.png"
 hash = "947034d3ed33b53ae82de2225ba061114bc36a223395e44b55c111bb46864328"
+
+[[files]]
+file = "config/epicfight-client.toml"
+hash = "1d5f71b1893b18adfffeacddeda05bb1b27c7e9b5c2f80ff1f0f854266966907"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -95,6 +127,10 @@ hash = "f4fc11bbf91953697dd336e18bcf94b81150781ad28e9564a7447db05c8893ce"
 [[files]]
 file = "config/iceandfire-client.toml"
 hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "9507c811971e36515a1865211d40879943e7e6010c5645999e07cffc3ee1824f"
 
 [[files]]
 file = "datapacks/VQ_EFCompat1.1.zip"
