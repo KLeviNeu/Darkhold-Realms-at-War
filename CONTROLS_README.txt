@@ -17,7 +17,7 @@ F12-Quark cam mode
 Shift+F12-Barista reload (Reloads the taskbar top bar, use if it's bugged)
 
 [NUMBER KEYS]
-0-Change joint
+0-Change joint, Lock-on target
 Shift+0-Show/hide HUD
 1-Hotbar and skill slot
 2-Hotbar and skill slot
@@ -33,3 +33,28 @@ Shift+0-Show/hide HUD
 Q-Drop item
 W-Walk forward + Ponder in JEI/Create
 E-Inventory
+R-Dragon Breath, Building Tool GUI, JEI Show recipe, Primary Ability, Variant selector, Spellbook wheel
+Ctrl+R-Toggle build/fight mode
+T-Chat
+Z-Chestplate Ability
+Ctrl+Z-Redo
+U-Jei Show Uses, Swap Shoulder view
+Ctrl+U-Show death history
+I-Siege weapon inventory, Legging interaction
+O-Cycle Shoulder/top view
+Ctrl+O-Journey map options (fullscreen), View Origins
+P-Social interactions screen 
+Ő-change map, transfer to storage
+Ú- Transfer to inventory
+Ö-none
+Ü-none
+Ö-none
+A-Strafe Left, add bookmark (JEI)
+S-Walk backwards, magnetic shield glove (doubletap)
+D-Strafe Right
+F-Swap item to offhand, use machine
+Ctrl+F-Search bar (Jei)
+G-Dragon strike, activate origins primary Ability, Channel dragon ability, Cycle tooltip tab 
+Ctrl+G-Open/close curios inventory
+H-Dragon secondary ability, 
+
