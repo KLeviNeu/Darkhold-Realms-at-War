@@ -46,6 +46,7 @@ Ctrl+O-Journey map options (fullscreen), View Origins
 P-Social interactions screen 
 Ő-change map, transfer to storage
 Ú- Transfer to inventory
+Ű-Change minimap PRESET
 Ö-none
 Ü-none
 Ö-none
@@ -56,5 +57,45 @@ F-Swap item to offhand, use machine
 Ctrl+F-Search bar (Jei)
 G-Dragon strike, activate origins primary Ability, Channel dragon ability, Cycle tooltip tab 
 Ctrl+G-Open/close curios inventory
+J-Talent tree
+Ctrl+J-Open EpicFight skill editor
 H-Dragon secondary ability, 
+K-Fancy toasts menu, compress stack (inventory), quark rotation lock
+Ctrl+K-Compress item (inventory)
+Shift+K-Compress all (inventory)
+L-Advancements
+Ctrl+L-quest log
+É-none
+Á-none
+Y-Hotbar swap, Helmet interaction
+Ctrl+Y-Undo
+X-Cataclysm ability, toggle dragon melee mode
+Ctrl+X-Clear crafting grid
+C-Cataclysm Helmet ability, EpicFight Ability
+V-Block Palette GUI, cataclysm boots ability, Cast selected Spell, Doppelganger, Quiver
+B-Open backpack
+N-none
+M-Structure Mirror
 
+[SPECIAL KEYS]
+Tab-List players, Focus grid Search bar, Refill last stack (inventory)
+Ctrl+Tab-Refill last (Inventory)
+Caps.L-none
+Shift-Sneak, Pause Jei recipe cycling + combinations
+Ctrl-Sprint + combinations
+L.Alt-Dodge, Free Look (hold), dragon descend
+R.Alt-none
+Space-Jump, Mobility skill, Start ladder climb
+R.Ctrl-same as ctrl
+R.shift-same as shift
+Enter-Place structure
+Backspace-Previouse recipe (Jei)
+Arrow keys-Move camera
+
+[MAP]
+Home-Show/Hide Fullscreen map
+Insert-Create waypoint
+Delete-Toggle all waypoints
+End-waypoint manager
+Page Up-Zoom in
+Page Down-Zoom out
