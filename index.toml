@@ -482,10 +482,6 @@ hash = "5752ce8b6c41e4aae0bfd74dd2da0925de80ceb20249bcab7969204843f7df1b"
 metafile = true
 
 [[files]]
-file = "mods/autostop-1.0.0.jar"
-hash = "2114207dad4cb6cbe7c0feb3656fd2f921adc180723c7a09ebdf62ca38f3b9d8"
-
-[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "d70e9de86975e3a1e0056a2f76eb13ea3931b94a65437e17f9eafff052b0ea75"
 metafile = true
@@ -496,7 +492,7 @@ hash = "df9cbc8b7f657858d1fa823c6eabe1af027e02c0e9b5fdbd5c4398ae97653ed6"
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "5359e6e635ebefb507e7cb81abff081d36f94d1c2ba60d65278516a9098d7693"
+hash = "a853be316e4e97d12a82774a05b1392393c87b73f5736f90ba1391a9329d0978"
 metafile = true
 
 [[files]]
@@ -1040,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9072d8fdb78840cb7701c96b231e99cc5748187884bfdaa7842f76ecb822d2ec"
+hash = "44c5b8fe2474bfdbbfa1634e1d19d140ae3cb85ff8fa602914f68594eba494a2"
 metafile = true
 
 [[files]]
@@ -1481,10 +1477,6 @@ metafile = true
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "a80b656d856850a891b4a29137c11bcb5833de69f6402a0f9980646e03c26940"
 metafile = true
-
-[[files]]
-file = "mods/statuswebhook-1.0.0.jar"
-hash = "ba1fa7ebe4d7c863973cf55fd37b1f9ee59412d6d9c09a7249dae83ccaeabcc6"
 
 [[files]]
 file = "mods/structory.pw.toml"
