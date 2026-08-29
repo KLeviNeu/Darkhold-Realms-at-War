@@ -1,14 +1,13 @@
 name = "Simply Swords [Fabric & Forge]"
-filename = "simplyswords-forge-1.56.0-1.20.1.jar"
+filename = "simplyswords-forge-neoforge-1.70.2-1.20.1.jar"
 side = "both"
-pin = true
 
 [download]
 hash-format = "sha512"
-hash = "c7ddb7612aa34a5b057d4108bcc9606c39b8b5554f56e26fefe098c6145b74006f9766df12b0eca4d7b7c1b0dad7ecad4ec86d218b31199d264d46f8069beb0b"
+hash = "f4ba377dc5a3cfa99859933c45746f2c730e5fa2b7a0af40fc3b93a396fa3f671799231af0286e9766e5629a334105f1ede63668a3aa9fff72fbf5f97a76ac61"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5639538
+file-id = 8746028
 project-id = 659887
