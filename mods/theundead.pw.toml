@@ -3,8 +3,8 @@ filename = "THEUNDEADREVAMPED_2.0E_1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "72a2ff09482221090fd8d54507f9656fa9126abc"
+hash-format = "sha512"
+hash = "aebfa4fba8145276928016c5265dc4a7b460df48335ec3d2b8e15da9c47678024993c97901ab85ac68170d2eb777591cc6f942ecb4968b9c4890504ef6089f70"
 mode = "metadata:curseforge"
 
 [update]
