@@ -3,8 +3,8 @@ filename = "WeaponsOfMiracles-2.0.171-mc1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "60e2590e521d01338b3f1ae0b7e614c88311e6e4e3f5735f733d49c40b043a16a3832e1f25c75f94bc5702a3f4a2ee299d517fd517c19622371524bf4e42f4da"
+hash-format = "sha1"
+hash = "25eaf24b3062a4491565936a5588cb22223a9ffe"
 mode = "metadata:curseforge"
 
 [update]

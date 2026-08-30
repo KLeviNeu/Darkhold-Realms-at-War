@@ -3,8 +3,8 @@ filename = "ftbmaterials-forge-20.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "538ba5af2b67ca254da8902f3f97dd3c9ca16f0c0a9a9b9e13ce93e13ca8cabe597fd7a320bb683738ddfd3524e71a2af40a791be0dc7fdd11a3668a2462817e"
+hash-format = "sha1"
+hash = "7223915ca21af9c51bab0d7c9de0bd1492af24e2"
 mode = "metadata:curseforge"
 
 [update]

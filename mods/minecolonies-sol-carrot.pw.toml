@@ -3,8 +3,8 @@ filename = "MineColonies_SoLCarrot-1.20.1-1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "fd829e9898fe71125cd44328417aabed9a0d93afc09f26efb30335961d72288b9d4c55114627556a0145fb17fc0c2a9b9bc37f362c9fb9e6198481e175dca7be"
+hash-format = "sha1"
+hash = "56fca411648c9b82848ce4006d2de6e5ae1feef8"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "oceanicrealms-1.0.7-last-laster-ver.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "9501f7dc5f71c378f1a8860ffdeb2b1385eaed1a35b40dd6dc25e978e1af729b0af10bb55b5a5f867480d5a951ea2710ff87f05e658f6a0d64603b1698726b7f"
+hash-format = "sha1"
+hash = "624d0583081291088f79273d21d0458c46417feb"
 mode = "metadata:curseforge"
 
 [update]

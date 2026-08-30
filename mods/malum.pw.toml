@@ -3,8 +3,8 @@ filename = "malum-1.20.1-1.6.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "76b3a9d6fad5a4f0e1a24dd4ff40b3215b78319373f5b3ed7261570f2ae22c3601dd873907356476a03e10104669194c9fdb693ef7643edccd6062c97083cd2b"
+hash-format = "sha1"
+hash = "ecf1d9a6e4e69119f9583f90b9587107a75d8195"
 mode = "metadata:curseforge"
 
 [update]

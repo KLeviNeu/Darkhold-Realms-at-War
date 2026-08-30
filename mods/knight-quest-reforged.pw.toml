@@ -3,8 +3,8 @@ filename = "knightquest-forge-1.20.1-1.9.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "32e5e9d565737fc23a519f56bbe985ad6a7a54e9abb0804ee9253afff0a8a440d6a6359f2bd9aecd031fba56dbcb0ba1b17a8f746859c9ffee5e81446e09265a"
+hash-format = "sha1"
+hash = "a82cd5ada6cc8374582aeb7075c1153ad5b4ff82"
 mode = "metadata:curseforge"
 
 [update]

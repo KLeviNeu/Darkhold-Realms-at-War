@@ -3,8 +3,8 @@ filename = "visual_keybinder-1.20.1 - 0.1.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "473ac10a236765c77fded59f2ba36686054e23efd122cba8c3d8a279c7dfc6743ad46aaa1f75463ee6f27a7ff34f655fc678f1f29235d2ed1da6f1d5b6f48dd0"
+hash-format = "sha1"
+hash = "88a524a32d540e49438bab2b28d3f8188eac1fa3"
 mode = "metadata:curseforge"
 
 [update]

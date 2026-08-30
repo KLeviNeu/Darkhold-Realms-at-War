@@ -3,8 +3,8 @@ filename = "fancytoasts-1.5.1-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "64470f60ce0a6fca5d944157ac511d5407819e94d3a7e603bf30a0688b83df837ad2686197bbf7056299a1535081a6860b7f307373a8d825a3b9a573f329828c"
+hash-format = "sha1"
+hash = "0f23a334ea9bb49607a5d2f71eb9724969bb2ac4"
 mode = "metadata:curseforge"
 
 [update]

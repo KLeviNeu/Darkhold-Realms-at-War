@@ -3,8 +3,8 @@ filename = "cataclysmfortresses-1.20.1-Forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "5bba718010581a8d5b11ba299375ec7040e04dfccb7b1706fcbd82f46ea41f97339cc2b2ffd4796206df774ed187c3b0946c80554964bebbc7bcfca66cbab3b0"
+hash-format = "sha1"
+hash = "f2124c088990f46a1b02ec7fdb249f948bb24a6a"
 mode = "metadata:curseforge"
 
 [update]

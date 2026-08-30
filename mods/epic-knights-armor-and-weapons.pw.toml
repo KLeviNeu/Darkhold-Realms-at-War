@@ -3,8 +3,8 @@ filename = "epic-knights-1.20.1-forge-10.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "1932424160a6b61a459e729a042c7764a58cb8fc42737f1fa380f7b28cf757a47744cffc426e74bb670b78559f97d53cf38fbefc538d7b58984433c47ace05e3"
+hash-format = "sha1"
+hash = "b76f56523dcde7ae30f4a3c299b1d104348b92eb"
 mode = "metadata:curseforge"
 
 [update]

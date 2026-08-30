@@ -3,8 +3,8 @@ filename = "sound-physics-remastered-forge-1.20.1-1.5.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "f6759a7049947b4e114f754a49dcdab7d7b5f194b5bd531182ac30a2cdddb58576cd56ad65b5688f03aa42d7f24d342ee3a9b7f5474b9e0463f986d5fd62d555"
+hash-format = "sha1"
+hash = "aef2c02392624f0a12475ada809366b12ac9ec52"
 mode = "metadata:curseforge"
 
 [update]
