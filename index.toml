@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "6f6d311ca3bd0b001ab2d886912d67b5064089ecc284a0bccd043e9d80b3b6d5"
+hash = "09d1ec8d202d90e6146086e107aefcd892f17fc3a4d98311c8b5e54845da4ef7"
 metafile = true
 
 [[files]]
@@ -871,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancy-toasts.pw.toml"
-hash = "13962a59aea887e7c81603b111788c4c81f2f622f5fe475a734cc04d96ee2d25"
+hash = "ae2a4f2f9706a83994f1914864c35084ed58ce2cd7b2dbeb270b7bd63588d32c"
 metafile = true
 
 [[files]]
@@ -1036,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "604d1b4505b8169ec42b8294fd30f68fe6803c805a50a4f61eafbeb8bead024f"
+hash = "873dcea8cfe4f7d3d9d8bcc9c6f497bcd63bf4c4eec8b958c7490f0d0098dcbd"
 metafile = true
 
 [[files]]
@@ -1211,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "625b1d8f9249a05637286e76d57b6357b94cd912c499604139792c4e98a3a2e1"
+hash = "f44c7f5d279e63de078ad86149b8291303f3eb0c4f1db17aa0ac2f02e41a6233"
 metafile = true
 
 [[files]]
@@ -1530,7 +1530,7 @@ metafile = true
 
 [[files]]
 file = "mods/theundead.pw.toml"
-hash = "6e04ebd6532f7a861a07b66a937859ba89b332d0031e390e5bb4d095a595ed7f"
+hash = "b406f00ef45581f00f069ec8c6aaa0a58b6a60034c57e4b1bab33805be4c3d83"
 metafile = true
 
 [[files]]
