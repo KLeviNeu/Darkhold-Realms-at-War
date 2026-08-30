@@ -133,10 +133,6 @@ file = "config/oculus.properties"
 hash = "9507c811971e36515a1865211d40879943e7e6010c5645999e07cffc3ee1824f"
 
 [[files]]
-file = "datapacks/VQ_EFCompat1.1.zip"
-hash = "813628339caf51701513d6d6374920d9e9080f92034320e93e4cf42f07dd1c24"
-
-[[files]]
 file = "datapacks/skills-template/META-INF/mods.toml"
 hash = "91a5fd65a138617dd1fd1cc35e21bddbdb55b1d82827ee4b72f5eb9f4b86ff4f"
 
