@@ -536,11 +536,6 @@ hash = "2195b22648787aac875b1ea60c51cca57c1c0a4db4241ec52cd3ea2abfeaebf4"
 metafile = true
 
 [[files]]
-file = "mods/bluemap.pw.toml"
-hash = "a632b5a1c76cb8a5bb13363cebbcc8504a6bbc3c0aa2d43b25cb22b298621ae8"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "49f9d94df22724949d2ce1ae70b73461dfe7d92ce6ad6ceae9739cef0b34a089"
 metafile = true
