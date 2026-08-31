@@ -536,6 +536,11 @@ hash = "2195b22648787aac875b1ea60c51cca57c1c0a4db4241ec52cd3ea2abfeaebf4"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "a632b5a1c76cb8a5bb13363cebbcc8504a6bbc3c0aa2d43b25cb22b298621ae8"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "49f9d94df22724949d2ce1ae70b73461dfe7d92ce6ad6ceae9739cef0b34a089"
 metafile = true
@@ -1037,7 +1042,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "29b6c4af8bb7715a50aea93dd91966a71e66acad859afc65ec77a6a5099bc88f"
+hash = "cd1db03059af93a508b6f7259bcc71d0adf1c8a1b74bcc7c05b093fdf63bf1df"
 metafile = true
 
 [[files]]
@@ -1207,7 +1212,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "f44c7f5d279e63de078ad86149b8291303f3eb0c4f1db17aa0ac2f02e41a6233"
+hash = "295cf2b21c295aaf8fb4642b4c6efe5010542c39e59b97683d103def852fb77e"
 metafile = true
 
 [[files]]
@@ -1581,7 +1586,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy-server-side-forge-neoforge.pw.toml"
-hash = "c32ac45d98944ff77f4a9beb3e8c1a66fc376406321166ca64974f954ce09b28"
+hash = "ea075a53da7b507be6353d9c7f7be1de2cf487e0f1363ea8da35a5fc726eae3e"
 metafile = true
 
 [[files]]
