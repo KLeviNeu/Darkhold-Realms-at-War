@@ -1240,6 +1240,11 @@ hash = "7da59f9bf519ee6062772eb5cb5e6147f69b9dc4af38440cf58e03d5b0d94cae"
 metafile = true
 
 [[files]]
+file = "mods/simply-bows.pw.toml"
+hash = "508396683581f172e4e3addd31fe7ec7b9e6168c2ecb7eef5542962d185f4939"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "7dba926514ee74fcdf377e3647c7d0bba2442170502d497c8927c5d6be334319"
 metafile = true
@@ -1347,6 +1352,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "dde1bb3913ae431fba2f79383fd2b039a3eeda280eec3a726c23b334877d1ee4"
+metafile = true
+
+[[files]]
+file = "mods/too-many-bows.pw.toml"
+hash = "c7333f2141e10a689fd8a9a76f9f4cb16f8fd311ecde02c23a3ac2335425ae3c"
 metafile = true
 
 [[files]]
