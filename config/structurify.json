@@ -1,0 +1,339 @@
+{
+  "config_version": "2.0.34",
+  "config_datetime": "2026-09-02_00-57-13",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "nova_structures:illager_camp",
+      "blacklisted_biomes": [
+        "minecraft:river"
+      ]
+    },
+    {
+      "name": "pirates_eureka:ship",
+      "whitelisted_biomes": [
+        "minecraft:cold_ocean",
+        "#forge:ocean/deep",
+        "#forge:ocean",
+        "#c:ocean",
+        "#c:deep_ocean",
+        "#biomeswevegone:ocean",
+        "#apoli:category/ocean",
+        "oceanicrealms:sandstone_ocean"
+      ]
+    }
+  ],
+  "structure_sets": [
+    {
+      "name": "aquamirae:pirate_ship",
+      "structure_weights": {
+        "aquamirae:pirate_ship": 23
+      }
+    },
+    {
+      "name": "ba_bt:ocean_tower_set",
+      "spacing": 37,
+      "separation": 20
+    },
+    {
+      "name": "biomeswevegone:villages",
+      "structure_weights": {
+        "biomeswevegone:village/pumpkin_patch": 1,
+        "biomeswevegone:village/forgotten": 19,
+        "biomeswevegone:village/salem": 15,
+        "biomeswevegone:village/swamp": 1,
+        "biomeswevegone:village/red_rock": 8,
+        "biomeswevegone:village/skyris": 7
+      }
+    },
+    {
+      "name": "bosses_of_mass_destruction:lich_tower",
+      "spacing": 51,
+      "structure_weights": {
+        "bosses_of_mass_destruction:lich_tower": 14
+      }
+    },
+    {
+      "name": "cataclysm:abandoned_structures",
+      "structure_weights": {
+        "cataclysm:abandoned_temple": 18,
+        "cataclysm:abandoned_spire": 1,
+        "cataclysm:abandoned_village": 13
+      }
+    },
+    {
+      "name": "cataclysm:acropolis",
+      "structure_weights": {
+        "cataclysm:acropolis": 23
+      }
+    },
+    {
+      "name": "cataclysm:ancient_factory",
+      "spacing": 71
+    },
+    {
+      "name": "cataclysm:cursed_pyramid",
+      "spacing": 51
+    },
+    {
+      "name": "cataclysm:ruined_citadel",
+      "spacing": 30
+    },
+    {
+      "name": "cataclysm:sunken_city",
+      "spacing": 51,
+      "separation": 40,
+      "structure_weights": {
+        "cataclysm:sunken_city": 60
+      }
+    },
+    {
+      "name": "dungeons_arise:major_structures",
+      "spacing": 30,
+      "separation": 20
+    },
+    {
+      "name": "dungeons_arise:minor_structures",
+      "spacing": 25,
+      "separation": 15
+    },
+    {
+      "name": "dungeons_enhanced:black_citadel",
+      "spacing": 37,
+      "separation": 33
+    },
+    {
+      "name": "dungeons_enhanced:castle",
+      "spacing": 49,
+      "separation": 35
+    },
+    {
+      "name": "dungeons_enhanced:large_dungeon",
+      "spacing": 39,
+      "separation": 37
+    },
+    {
+      "name": "dungeons_enhanced:pirate_ship",
+      "spacing": 54,
+      "separation": 33
+    },
+    {
+      "name": "dungeons_enhanced:stables",
+      "spacing": 43,
+      "separation": 22
+    },
+    {
+      "name": "dungeons_enhanced:sunken_shrine",
+      "structure_weights": {
+        "dungeons_enhanced:sunken_shrine": 33
+      }
+    },
+    {
+      "name": "irons_spellbooks:citadel",
+      "spacing": 81
+    },
+    {
+      "name": "irons_spellbooks:impaled_icebreaker",
+      "spacing": 55
+    },
+    {
+      "name": "knights_and_castles:castle",
+      "spacing": 41,
+      "separation": 40
+    },
+    {
+      "name": "medieval_buildings:houses",
+      "spacing": 78,
+      "separation": 27
+    },
+    {
+      "name": "medieval_buildings:ship",
+      "spacing": 31,
+      "separation": 30
+    },
+    {
+      "name": "medieval_nether:houses",
+      "spacing": 22
+    },
+    {
+      "name": "medievalend:houses",
+      "spacing": 23,
+      "separation": 18
+    },
+    {
+      "name": "minecolonies:amazon_camp",
+      "spacing": 35
+    },
+    {
+      "name": "minecolonies:barbarian_camp",
+      "spacing": 35
+    },
+    {
+      "name": "minecolonies:desert_camp",
+      "spacing": 35
+    },
+    {
+      "name": "minecolonies:empty_colony",
+      "spacing": 30,
+      "separation": 25
+    },
+    {
+      "name": "minecraft:mineshafts",
+      "frequency": 0.142
+    },
+    {
+      "name": "minecraft:ocean_monuments",
+      "structure_weights": {
+        "minecraft:monument": 17
+      }
+    },
+    {
+      "name": "minecraft:villages",
+      "spacing": 36
+    },
+    {
+      "name": "mobs_of_mythology:automaton_structure",
+      "spacing": 30
+    },
+    {
+      "name": "mvs:acacia_log_pile",
+      "spacing": 17
+    },
+    {
+      "name": "mvs:acacia_tree",
+      "spacing": 14
+    },
+    {
+      "name": "mvs:barn",
+      "spacing": 27
+    },
+    {
+      "name": "mvs:big_oak_tree",
+      "spacing": 30
+    },
+    {
+      "name": "mvs:boulder",
+      "spacing": 25
+    },
+    {
+      "name": "mvs:campsite",
+      "spacing": 31
+    },
+    {
+      "name": "mvs:cart",
+      "spacing": 27
+    },
+    {
+      "name": "mvs:castle_ruins",
+      "spacing": 35
+    },
+    {
+      "name": "mvs:cathedral",
+      "spacing": 49,
+      "separation": 45
+    },
+    {
+      "name": "mvs:medium_oak_lantern",
+      "spacing": 13,
+      "separation": 12
+    },
+    {
+      "name": "mvs:paths",
+      "spacing": 13
+    },
+    {
+      "name": "mvs:small_oak_pond",
+      "spacing": 25
+    },
+    {
+      "name": "mvs:small_ruin",
+      "spacing": 28
+    },
+    {
+      "name": "mvs:small_ship",
+      "spacing": 29
+    },
+    {
+      "name": "nova_structures:nether_structures",
+      "spacing": 45
+    },
+    {
+      "name": "nova_structures:taverns",
+      "spacing": 29
+    },
+    {
+      "name": "pirates_eureka:ships",
+      "spacing": 13
+    },
+    {
+      "name": "saintsdragons:draconian_nucleus",
+      "spacing": 40
+    },
+    {
+      "name": "saintsdragons:varasuchus_roost",
+      "spacing": 40
+    },
+    {
+      "name": "supplementaries:way_signs",
+      "spacing": 13
+    },
+    {
+      "name": "terralith:rare_village",
+      "spacing": 26
+    },
+    {
+      "name": "towns_and_towers:towns",
+      "spacing": 28
+    },
+    {
+      "name": "valarian_conquest:structures",
+      "spacing": 23,
+      "structure_weights": {
+        "valarian_conquest:templar_castle": 1,
+        "valarian_conquest:visgothian_castle": 1,
+        "valarian_conquest:templar_outpost": 3,
+        "valarian_conquest:neutral_tent_camp": 15,
+        "valarian_conquest:barathian_castle": 1,
+        "valarian_conquest:valarian_outpost": 3,
+        "valarian_conquest:visgothian_outpost": 3,
+        "valarian_conquest:valarian_castle": 1,
+        "valarian_conquest:orleanian_castle": 1,
+        "valarian_conquest:burgundian_castle": 1,
+        "valarian_conquest:neutral_outpost": 23,
+        "valarian_conquest:bohemian_outpost": 3,
+        "valarian_conquest:orleanian_outpost": 3,
+        "valarian_conquest:bandit_ruins": 3,
+        "valarian_conquest:barathian_outpost": 3,
+        "valarian_conquest:hospitaller_castle": 1,
+        "valarian_conquest:hospitaller_outpost": 3,
+        "valarian_conquest:burgundian_outpost": 3,
+        "valarian_conquest:bandit_camp": 3,
+        "valarian_conquest:neutral_tent_camp_2": 25,
+        "valarian_conquest:bandit_ruins_2": 1
+      }
+    },
+    {
+      "name": "valhelsia_structures:big_trees",
+      "spacing": 20
+    },
+    {
+      "name": "valhelsia_structures:castle_ruins",
+      "spacing": 25
+    },
+    {
+      "name": "valhelsia_structures:castles",
+      "spacing": 17
+    },
+    {
+      "name": "valhelsia_structures:spawner_dungeons",
+      "spacing": 18
+    }
+  ],
+  "structure_template_pools": []
+}
