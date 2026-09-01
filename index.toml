@@ -1340,11 +1340,6 @@ hash = "924b38191a83954b0e3972537da67e9b49c1c193a0b452d96715372415940b3f"
 metafile = true
 
 [[files]]
-file = "mods/textrues-embeddium-options.pw.toml"
-hash = "ae4956baa7bfc8a7d596169d256eba7ed2e2961b55e4ad331b50d3dc6c72baeb"
-metafile = true
-
-[[files]]
 file = "mods/theundead.pw.toml"
 hash = "b091cfa420b444fe5c5f61abe9da7cd4e76e9c339458cee7d127c3178304137f"
 metafile = true
