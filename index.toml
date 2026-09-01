@@ -449,6 +449,11 @@ hash = "eec1b7fa102a9236a96b8a545f70c44e40d9b5c0b0409f99e87876f1bd1d7ecd"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "28ec0fe825391261f68b2de4f7719f29dbc7b8c5a02876e6acfde975375cf3f4"
+metafile = true
+
+[[files]]
 file = "mods/conquest-reforged.pw.toml"
 hash = "786ce63d571cfccf62428139b962f8a610bc4cc69b3d2f823c5149405e7f49fc"
 metafile = true
@@ -730,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "d9235ffaef9b45c0b6bd457fe4bc6ce3f9a793e72b30d0afbe729decfaeac0fc"
+hash = "834dfc3eac7e8cbfe203578f1120ba298711f0426133950ce8972f5afc025a4d"
 metafile = true
 
 [[files]]
@@ -890,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "fe63954b8297df1948be6f57a40fd01fcf6723b447640f0108ec3a8277427ace"
+hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
 metafile = true
 
 [[files]]
