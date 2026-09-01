@@ -3,8 +3,8 @@ filename = "eureka-1201-1.6.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "676bd10482e286ca74882629c38cf16ae25971b8"
+hash-format = "sha512"
+hash = "7ab6b0f3aa81e572efbb8f0b109c0a8852c4f145f467ce3903e2336d782d81fc9fe5cf2c8a14edb508f92a613def5e47680e370cdaef80956d436920343b89d4"
 mode = "metadata:curseforge"
 
 [update]

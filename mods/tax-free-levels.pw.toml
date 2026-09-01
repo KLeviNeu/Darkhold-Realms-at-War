@@ -3,8 +3,8 @@ filename = "TaxFreeLevels-1.4.25-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "488d2415d5d6cf4caa6fc4afaf29f85b04fa1172"
+hash-format = "sha512"
+hash = "1d07d4ffaecacc4d1d15951b05d5cbe1ebabd6b58b7ab1ac0f2539417444df59c835484019c720210c4d5f1951adefe7efe9673a3acbc9333ae50d1dc38fb083"
 mode = "metadata:curseforge"
 
 [update]

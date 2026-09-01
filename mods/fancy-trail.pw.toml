@@ -3,8 +3,8 @@ filename = "Fancy-Trail-1.2.7-1.20.1-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1ea82342a75326c319bc14b21fa933b59bb76d76"
+hash-format = "sha512"
+hash = "232179b08ec9ef4745124c41f510931659465e742410ccc5fc3cadf5f200a57a72b438e88f06d2c571c7604baa140c9c8efbb2d32cb026b862bb505973abb706"
 mode = "metadata:curseforge"
 
 [update]

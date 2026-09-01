@@ -3,8 +3,8 @@ filename = "eidolon_repraised-1.20.1-0.3.13.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "323054485b7d511da2dfa7db71276f44794d1d24"
+hash-format = "sha512"
+hash = "b5e7389d64d62246287670e31e0583876371a6abd499259118f9800b85c94b5cd1d4235011ab0ffd0d9cd51bcffd0acaf64ae215b7d6e22c0253defcf05cf762"
 mode = "metadata:curseforge"
 
 [update]

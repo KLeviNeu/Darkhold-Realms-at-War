@@ -3,8 +3,8 @@ filename = "lootintegrations_dnt-2.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "909d1411490eef2abb174fc54679bb38c8a20af3"
+hash-format = "sha512"
+hash = "4c63da877ba60af539c535c5e65e1b800d741e26c6277fd882ceb5b767b6914f0f85f443a137c87c29c0cc433444c8e9db8846b7993822b0e4e26da9d6b44082"
 mode = "metadata:curseforge"
 
 [update]

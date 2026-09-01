@@ -3,8 +3,8 @@ filename = "Clumps-forge-1.20.1-12.0.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "97cc669f68dbe812cb77cc3631339334fc28b877"
+hash-format = "sha512"
+hash = "8519f95133e1bab4163b44d39fb5c7bf5968be340961df428d9b98ab92f6f75641d76c81f632e5f86e244b429321758957d6e8c5d0e0007f498259697bfc7018"
 mode = "metadata:curseforge"
 
 [update]

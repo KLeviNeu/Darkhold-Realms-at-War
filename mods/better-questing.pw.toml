@@ -3,8 +3,8 @@ filename = "BetterQuesting-Forge-1.20.1-4.0.71.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "abdbe25edd5d5ac51394e8de05a909dea015d0b2"
+hash-format = "sha512"
+hash = "2742c3c65f7598a19869905ecea369c575461d48d95e14d3f53da247da3c3d2d943d8c613f7f09fa55703376ee32b8c3ba61940b3962370b36faa289b77bbc58"
 mode = "metadata:curseforge"
 
 [update]

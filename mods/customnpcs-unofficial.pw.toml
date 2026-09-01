@@ -3,8 +3,8 @@ filename = "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c1a973b55f6f67e9fdeb197195e490ba92146381"
+hash-format = "sha512"
+hash = "056bad1ce3c2260aad4a0abf7a8dc72b2fba589de72ca22da547392a4f1195c5d09f022d2e788480364546660fe1e5bc68308056a8aedb0e8d48f8c2ec5b3b35"
 mode = "metadata:curseforge"
 
 [update]

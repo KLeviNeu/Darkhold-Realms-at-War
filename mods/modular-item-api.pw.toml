@@ -3,8 +3,8 @@ filename = "Truly-Modular-miapi-forge-1.1.49-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f10d1a8ffa1b8485a6ff1e25b691574d0a3cc7e3"
+hash-format = "sha512"
+hash = "8a9c3fd184895148f7e9b2645cdcf832acb5088f866fff4543bd9aaf8fe0771598d9ee3902cf51b12faf27b49ded553a573bd904df3d5726eee87f7248f16f7b"
 mode = "metadata:curseforge"
 
 [update]

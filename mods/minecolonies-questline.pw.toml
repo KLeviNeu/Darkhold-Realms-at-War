@@ -3,8 +3,8 @@ filename = "minecolonies-questline-1.20.1-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d69b66ed347be8f24c20411c16463470be5efb1d"
+hash-format = "sha512"
+hash = "b1494e00c4ab38091e673d42d38922a82bcc085f8b06e756ce364d41c607e2fc24d4fd5ebb3d7f68c959cbd54906796a6e7ece6af144654d2d72ee6410d167a9"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "vss-0.2.12-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "172062615f4665991d0775052513413148adfcc3"
+hash-format = "sha512"
+hash = "d1db3fd1b8a0e52a0122a481af4a73ad22ec54c5f604b7890dd3c00eea05353481b743bccf81b0aacccf59a23935024473a5ab9fd812c52f74e8ffbe5d18b250"
 mode = "metadata:curseforge"
 
 [update]

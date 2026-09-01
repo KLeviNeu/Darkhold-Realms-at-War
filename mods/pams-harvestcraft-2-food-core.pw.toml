@@ -3,8 +3,8 @@ filename = "pamhc2foodcore-1.20.4-1.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7fafd6a0c6692142b8dfb249341659f463fc9cba"
+hash-format = "sha512"
+hash = "49f988cbe3c8f96657d93813fcd249cb7820f233c839442b5ba0b2159b0aa08c84c77995ad368490452095d47826e7e255913f537da850cdd64f5bccabb61b08"
 mode = "metadata:curseforge"
 
 [update]

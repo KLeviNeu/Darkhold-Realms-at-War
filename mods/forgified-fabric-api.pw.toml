@@ -3,8 +3,8 @@ filename = "fabric-api-0.92.6+1.11.15+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dbf2d4fcc80895e2c3d56d015a806c94fd3910d0"
+hash-format = "sha512"
+hash = "ded32d8eda52ac42f966950ee3d3d716f87c05262442e10f05e08d302fc9948fd1fb8844179bf521bf369e7253e60d81e26e1b74f0d63c42f1140170a207876a"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "too_many_bows-forge-4.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "08b327c4f4db686ef5e215cdf86cb5e5596dac07"
+hash-format = "sha512"
+hash = "324dd4d46042769d234fd117ed0df82964089714466ed0ae5ec616c760350b991778064d75de3152d22acc7e28bf343e55748c901594f93e8c2bb255ea8f42af"
 mode = "metadata:curseforge"
 
 [update]

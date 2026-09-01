@@ -3,8 +3,8 @@ filename = "aaa_particles_world-forge-1.20.1-2.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9641308bd78212cf6559858b346f59a83f12e76c"
+hash-format = "sha512"
+hash = "fb1807617d725f0d21de78d7823e946f2c609ac178b9784b183e908a43c6315b3292d48fb633cefca75d854a5f716ba9ed2f29faf39bcf3ac6fd3f602ca193ee"
 mode = "metadata:curseforge"
 
 [update]

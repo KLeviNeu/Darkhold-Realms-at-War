@@ -3,8 +3,8 @@ filename = "ftb-filter-system-forge-20.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "812de9759fe87cb405e14cbb0fe5b72a7ee11f42"
+hash-format = "sha512"
+hash = "4344015842a0bec06ad25751d2dd7f63bf0c2d9346b1dee272fd3183a8bf2a6c30c9e3c0141bf586fe1b0f2add34c918e46119b8f9ef0a1d0ba127785c026211"
 mode = "metadata:curseforge"
 
 [update]

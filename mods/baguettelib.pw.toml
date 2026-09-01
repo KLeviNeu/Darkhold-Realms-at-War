@@ -3,8 +3,8 @@ filename = "baguettelib-1.20.1-Forge-2.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1e9e700ac26d6c6e2070a2ae64aacbdc19cd0fd0"
+hash-format = "sha512"
+hash = "22e7ed8d0ef067003f12db9330749dd4833f9feaa16619373d8fcc6756257e89085bd3cae183bf1819342cd835656c263bafbafb78c349acd7d49cbeec6ade69"
 mode = "metadata:curseforge"
 
 [update]

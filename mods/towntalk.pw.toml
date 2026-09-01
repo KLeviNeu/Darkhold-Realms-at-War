@@ -3,8 +3,8 @@ filename = "towntalk-1.20.1-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "03e6488b9e762888d1d187d5cf73a60695b63c52"
+hash-format = "sha512"
+hash = "53fb6e0125958bf43735d3430dc25561d8bc12abe4a59f225caaa507578a5eb91ea6dda199010d0aff6277071c7a7ca3af15f55c4bc25cbaaa5c45814935d2d1"
 mode = "metadata:curseforge"
 
 [update]

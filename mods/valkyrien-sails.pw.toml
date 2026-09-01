@@ -3,8 +3,8 @@ filename = "vs_sails-1.20.1-0.3.2-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3117b59e5b9eb8f8edf5d458de0e3ad91b8f99cf"
+hash-format = "sha512"
+hash = "209925b6f8b9a21997517f33d99531c8e33faf5c135d96d7b897bdf40c0ddc658d2962aa38fd88012b0671e99560c8e99db5170b48db7e61b349a0b9c1c52d3b"
 mode = "metadata:curseforge"
 
 [update]

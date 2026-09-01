@@ -3,8 +3,8 @@ filename = "crust-1.20.1-4.17.28.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e2cfe59697d7d21524d6540640dee579ed770761"
+hash-format = "sha512"
+hash = "f33f8ad522fd933d8aff22fdc512ecac4d543dbe0c3030d0e2ffb452714ac86879e8ecdbba548ab7be37868133b66632e43d3d259b360251e0b3ce2d8584c378"
 mode = "metadata:curseforge"
 
 [update]

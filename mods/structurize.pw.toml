@@ -3,8 +3,8 @@ filename = "structurize-1.20.1-1.0.818.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "432c949c9023aedc84f8c40b8b629e2357e506de"
+hash-format = "sha512"
+hash = "f265e5b6a3934ad35f330c8dd3190fb30f3feda8f5561b32902f83b90614497d3f085e3604b4b154be2bcab2d459ad081e959d83daaaf04f9319b07334ff871c"
 mode = "metadata:curseforge"
 
 [update]

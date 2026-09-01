@@ -3,8 +3,8 @@ filename = "custom-crosshair-mod-v1.5.5-forge-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "265ba0989c2371d2e63d0357d31f8334c64991e1"
+hash-format = "sha512"
+hash = "3abe4ea2c728bea77fca41fe1661f3262bcab06aa51ad657e52db0052f46d45c62adebbccf498c2cd1f52e65dcab983cb78d7265ccb155e7f51cf6c31d20a027"
 mode = "metadata:curseforge"
 
 [update]

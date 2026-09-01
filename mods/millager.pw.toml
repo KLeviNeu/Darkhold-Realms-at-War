@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DFGcsxUu/versions/4s3ZoRs2/millager-forge-1.20.1-0.7.7.jar"
-hash-format = "sha1"
-hash = "ed58b201470c77440d873f7e0e553cd6a3c0df32"
+hash-format = "sha512"
+hash = "65bfc82b8cd1bfccfa96a2248d7173ffe4f4ecdb2389f3abd9d51c31ed42f8dc22955faeaea37ebb64a4115b10ddec8b49cfbfdf3da50fa456d365c6810f9a63"
 
 [update]
 [update.modrinth]
