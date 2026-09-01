@@ -544,6 +544,11 @@ hash = "31223928fa90de33c5433ac7cbb6ebef58ec8e1a28f7f1051f3d6f62c9f0c644"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "14369a7bd08e135eeae52c3ed53dcd43d2ceb0ec7d803813a67a561f6abd15b7"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "4f20e80971061a30889fdcd89cc72f9204c14b253799556eb6b721ce5e3dd896"
 metafile = true
@@ -656,6 +661,11 @@ metafile = true
 [[files]]
 file = "mods/epic-fight-skill-irons-spells-n-spellbooks.pw.toml"
 hash = "92a75809c9655904d4ebab3dba7525ca08671e3aa3e5cd07ee99761e13f0db91"
+metafile = true
+
+[[files]]
+file = "mods/epic-fight-tinker-compat.pw.toml"
+hash = "9a11d474ce942d024054f6eb386d9f32a22cb0af9c2d98c4c236bb88fc1fe8e7"
 metafile = true
 
 [[files]]
@@ -1338,6 +1348,11 @@ hash = "74c1151b497645ad478316084a62adf2732ff02f5783473ea0d4b9995ca71cce"
 metafile = true
 
 [[files]]
+file = "mods/tconjei.pw.toml"
+hash = "3c437c4fb1f709f7f3559072305c9a210ad5e85546317842d888d4ed3704a8df"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "1ebd6d8bef2732166c2cc70e16cd99d779ef2b9670cdb62c9b327276cd1669aa"
 metafile = true
@@ -1358,8 +1373,23 @@ hash = "b091cfa420b444fe5c5f61abe9da7cd4e76e9c339458cee7d127c3178304137f"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-compatibility.pw.toml"
+hash = "c1d983525b54626e42100f88ab30feac9c336abb79d32d40eaafd115a24925e7"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "114fcc15f4430edbb187705f542783258dfcd91fc129af144ed6d76632aa0208"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-jewelry-ex.pw.toml"
+hash = "2cb4b97c7957372d5332a67ce245728d719804270a6e84ca5ec7dbe09661923d"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-jewelry.pw.toml"
+hash = "372db04ce17907c44084942ebdfc2428d4ac4418ae0fc8946bd462d6bf22caf3"
 metafile = true
 
 [[files]]
@@ -1435,11 +1465,6 @@ metafile = true
 [[files]]
 file = "mods/vlib.pw.toml"
 hash = "00eb13e6e372f586b826e4fb62a9cbef00d5363f29afef621b8ced5296a16c85"
-metafile = true
-
-[[files]]
-file = "mods/voxy-server-side-forge-neoforge.pw.toml"
-hash = "792aa26e2c24afd81764dcb8fa91cd2b223d6f8cfd8a32aba9eb1899a9c34bed"
 metafile = true
 
 [[files]]
