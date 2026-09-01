@@ -1413,6 +1413,11 @@ hash = "8218428880055bbc5d29a0e61c95743768c895cd874f051b350a27a93d88b8a4"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-pirates.pw.toml"
+hash = "f6504f84b8c60fde0f791bf34769f8196095643a1374d8fb62f6c0e99c2ac12f"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-sails.pw.toml"
 hash = "84a96aa308959a4447accd3ed02341a012750113db7dc18c805c50c1bfdb543e"
 metafile = true
