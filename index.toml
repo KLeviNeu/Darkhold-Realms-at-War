@@ -133,6 +133,14 @@ file = "config/oculus.properties"
 hash = "9507c811971e36515a1865211d40879943e7e6010c5645999e07cffc3ee1824f"
 
 [[files]]
+file = "config/sodiumextras-client.toml"
+hash = "c40ef66f5167a8c889f25d13e4c6fba41c3a781e90f34813ca72c660d2ab277d"
+
+[[files]]
+file = "config/vs_sails/config.cfg"
+hash = "326c524778e2972a6b805ae22924814ecc4c935f0897150d05124e1f7913489d"
+
+[[files]]
 file = "datapacks/skills-template/META-INF/mods.toml"
 hash = "91a5fd65a138617dd1fd1cc35e21bddbdb55b1d82827ee4b72f5eb9f4b86ff4f"
 
