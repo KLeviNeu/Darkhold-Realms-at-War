@@ -137,6 +137,18 @@ file = "config/sodiumextras-client.toml"
 hash = "c40ef66f5167a8c889f25d13e4c6fba41c3a781e90f34813ca72c660d2ab277d"
 
 [[files]]
+file = "config/structurify.json"
+hash = "b194b81cf85dc44492b2ef12ffa8cd98e83e5545bd4c56a3ef17ef1c03455d18"
+
+[[files]]
+file = "config/structurize-client.toml"
+hash = "87e09b48d2cd1d940b7cd38850f22f55da45680cf5cc364de623ebb8607b6f73"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "6625906e5f4de61d7352c2753d5f8e10e6c76b765bea79b3657f957660642eb4"
+
+[[files]]
 file = "config/vs_sails/config.cfg"
 hash = "326c524778e2972a6b805ae22924814ecc4c935f0897150d05124e1f7913489d"
 
