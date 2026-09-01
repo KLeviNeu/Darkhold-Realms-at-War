@@ -676,6 +676,11 @@ hash = "0e522d1f423757c7a38a05388712b73e16d11db4e5a6d34d37c10d5673dfd829"
 metafile = true
 
 [[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "fbd9436bbb5853fd2834b1c0649ce6b262b2d4cae05b5a784c22c3a77091091b"
+metafile = true
+
+[[files]]
 file = "mods/evilcraft.pw.toml"
 hash = "e41e4b47635fe26efccb97f3a5a5f4cb3b392fd4a420252ee93e3f6765c19139"
 metafile = true
@@ -1057,7 +1062,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "7f4522bcb25e7f16f1871996b44fe4d2b28606082d667e76e693f037b38d7187"
+hash = "f1b639d65a61beb5aff628fe27bcfcc1c184fd8e41deaac87a1859f5d2da3196"
 metafile = true
 
 [[files]]
@@ -1407,6 +1412,21 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "1599ec6c9417782ff9c68bd2ff66045ec1e85c837b1b801b4fc8f27dc3b012cd"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-sails.pw.toml"
+hash = "c063f0bf2a10876881f4ce09d3cd481543a9513060db115a68d221ae28047051"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "81484132585ff44f11984c45cf4bf8f529faee1bcb54335f4ed1c7f7ebf6b9c0"
+metafile = true
+
+[[files]]
+file = "mods/vlib.pw.toml"
+hash = "0b3c359b8f7636c2cdbb003dd1d8ba291d10e96d778fd7e4f56e925bcc11ace8"
 metafile = true
 
 [[files]]
