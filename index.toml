@@ -1578,11 +1578,6 @@ hash = "f6504f84b8c60fde0f791bf34769f8196095643a1374d8fb62f6c0e99c2ac12f"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-sails.pw.toml"
-hash = "84a96aa308959a4447accd3ed02341a012750113db7dc18c805c50c1bfdb543e"
-metafile = true
-
-[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "8208b0c2d6fe1fd55a2156a2571717eb5961daf80876466b633e05dd11a0e53e"
 metafile = true
@@ -1595,11 +1590,6 @@ metafile = true
 [[files]]
 file = "mods/vlib.pw.toml"
 hash = "0b3c359b8f7636c2cdbb003dd1d8ba291d10e96d778fd7e4f56e925bcc11ace8"
-metafile = true
-
-[[files]]
-file = "mods/vs-waterworks.pw.toml"
-hash = "99a77d675a02f7715773e91964dab07131516a3ff26b8cdc10b14f229b22fb0c"
 metafile = true
 
 [[files]]
