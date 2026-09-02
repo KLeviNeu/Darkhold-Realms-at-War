@@ -5,15 +5,6 @@
 		"Combat",
 		"Archery",
 		"Magic",
-		"Mining",
-		"Woodcutting",
-		"Farming",
-		"Fishing",
-		"Cooking",
-		"Crafting",
-		"Building",
-		"Alchemy",
-		"Enchanting",
-		"Smithing"
+		"Fishing"
 	]
 }

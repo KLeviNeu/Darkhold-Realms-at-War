@@ -298,7 +298,7 @@ hash = "be62c6080204bc9fbcc80c6694be5f269abe840d37b1d4b76d5c50b2905725a1"
 
 [[files]]
 file = "datapacks/skills-template/data/skills/puffish_skills/config.json"
-hash = "41f2f8c386dbac8ea4e1a467ea9e028cb092cab24c21e891177fb603cd549b9b"
+hash = "fc047b8c356d1f8e018d3b6ea9de5a63302d3f1aa8ed2401e776bd68b9d46303"
 
 [[files]]
 file = "datapacks/skills-template/fabric.mod.json"
@@ -960,11 +960,6 @@ hash = "694b5a321b5ac4dcfe81092e8469ebbd852774b0bcb7cf5fb235678e91cb7f3b"
 metafile = true
 
 [[files]]
-file = "mods/jade-vs.pw.toml"
-hash = "f0ea08d21ecc78ec797cbf3b8160d8d08d8d7fe2729b3d631013c721daee111d"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "9e615409bc53ed28f46133884c59059a603d20c0405d759848ebc40374f52315"
 metafile = true
@@ -1375,7 +1370,7 @@ metafile = true
 
 [[files]]
 file = "mods/saints-dragons.pw.toml"
-hash = "5d7f2e7515a46375805eb3c275f485fa3003220f01790eb094cff6ff013a0f2a"
+hash = "dd7f52ea90083184ee05dafb35dcda25e3511913564e50b5be1e08fdaa2e8b42"
 metafile = true
 
 [[files]]
