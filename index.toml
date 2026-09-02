@@ -426,11 +426,6 @@ file = "mods/betterfog-forge-1.20.1.jar"
 hash = "41aad0a6fd15a2b84149afdd17aac9f719bf904c2dcd5677b69c32e4d2d7c3a5"
 
 [[files]]
-file = "mods/beyond-oxygen.pw.toml"
-hash = "5070360f3ddb589e5b1e1897389fc5ccd8e0d1c57113a24e1bfb12693bf5ee6f"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "5c139099c26c4c639a03ce21152d4fd9a71798394c5ad8cc7bd25cb6924bb5ce"
 metafile = true
