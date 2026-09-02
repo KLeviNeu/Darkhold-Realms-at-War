@@ -5,6 +5,16 @@ file = "CONTROLS_README.txt"
 hash = "798cc08c7512711a0ddd2cf2823b0802b5e02129fbda8f658eba0e32159ff0af"
 
 [[files]]
+file = "complementary-reimagined.pw.toml"
+hash = "a7a48b8ccf7f04eaf9932c8f9a89ebec7d789e81703653fefb451fd23e6ca5de"
+metafile = true
+
+[[files]]
+file = "complementary-unbound.pw.toml"
+hash = "645f899eb3c6cc28330816729ab48bcefb205cc2f350bc5671c1af71fbb6ed44"
+metafile = true
+
+[[files]]
 file = "config/Crust/client_config_editor.toml"
 hash = "824a8679cc25fa0d569c743ac354e7aead5d8bcbc1d1af7a3bb3f3f6b37e1529"
 
