@@ -1,5 +1,5 @@
 {
-	"Projectile_damage+5%": {
+	"Projectile_damage+1.25%": {
 		"title": "+5% Projectile Damage",
 		"icon": {
 			"type": "item",
@@ -12,7 +12,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "miapi:generic.projectile_damage",
-					"value": 0.05,
+					"value": 0.0125,
 					"operation": "multiply_total"
 				}
 			},
@@ -20,7 +20,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "puffish_attributes:ranged_damage",
-					"value": 0.05,
+					"value": 0.0125,
 					"operation": "multiply_total"
 				}
 			}
@@ -42,7 +42,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "miapi:generic.projectile_crit_multiplier",
-					"value": 0.15,
+					"value": 0.0125,
 					"operation": "multiply_total"
 				}
 			}
@@ -73,8 +73,8 @@
 			"icon": "90axtit0gnrl7hw6"
 		}
 	},
-	"Projectile_pierce+5%": {
-		"title": "+5% Projectile Piercing",
+	"Projectile_pierce+1.25%": {
+		"title": "+1.25% Projectile Piercing",
 		"icon": {
 			"type": "item",
 			"data": {
@@ -86,7 +86,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "miapi:generic.projectile_piercing",
-					"value": 0.05,
+					"value": 0.0125,
 					"operation": "multiply_total"
 				}
 			},
@@ -94,7 +94,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "obscure_api:penetration",
-					"value": 0.05,
+					"value": 0.0125,
 					"operation": "multiply_total"
 				}
 			}
@@ -141,8 +141,8 @@
 			"icon": "3tftqk96i2h9tfd9"
 		}
 	},
-	"arrow_damage+5%": {
-		"title": "+5% Arrow Damage",
+	"arrow_damage+1.25%": {
+		"title": "+1.25% Arrow Damage",
 		"icon": {
 			"type": "item",
 			"data": {
@@ -154,7 +154,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "attributeslib:arrow_damage",
-					"value": 0.05,
+					"value": 0.0125,
 					"operation": "multiply_total"
 				}
 			},
@@ -162,7 +162,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "irons_lib:arrow_damage",
-					"value": 0.05,
+					"value": 0.0125,
 					"operation": "multiply_total"
 				}
 			}
@@ -193,8 +193,8 @@
 			"icon": "htusn9j3mtga3vcu"
 		}
 	},
-	"Draw_Speed+5%": {
-		"title": "+5% Draw Speed",
+	"Draw_Speed+2.5%": {
+		"title": "+2.5% Draw Speed",
 		"icon": {
 			"type": "item",
 			"data": {
@@ -206,7 +206,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "attributeslib:draw_speed",
-					"value": 0.05,
+					"value": 0.025,
 					"operation": "multiply_total"
 				}
 			},
@@ -214,7 +214,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "miapi:generic.bow_draw_time",
-					"value": 0.05,
+					"value": 0.025,
 					"operation": "multiply_total"
 				}
 			}
@@ -223,8 +223,8 @@
 			"icon": "rxpae8raamk16qjl"
 		}
 	},
-	"Armor_pierce+5%": {
-		"title": "+5% Armor Piercing",
+	"Armor_pierce+2.5%": {
+		"title": "+2.5% Armor Piercing",
 		"icon": {
 			"type": "item",
 			"data": {
@@ -236,7 +236,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "irons_lib:armor_pierce",
-					"value": 0.05,
+					"value": 0.025,
 					"operation": "multiply_total"
 				}
 			}
@@ -267,8 +267,8 @@
 			"icon": "xyne4j7qa98y3s2s"
 		}
 	},
-	"movement_speed+5%": {
-		"title": "+5% Movement Speed",
+	"movement_speed+3%": {
+		"title": "+3% Movement Speed",
 		"icon": {
 			"type": "effect",
 			"data": {
@@ -280,7 +280,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "generic.movement_speed",
-					"value": 0.05,
+					"value": 0.03,
 					"operation": "multiply_total"
 				}
 			}
@@ -324,7 +324,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "tconstruct:player.jump_count",
-					"value": 0.05,
+					"value": 1,
 					"operation": "multiply_total"
 				}
 			}
