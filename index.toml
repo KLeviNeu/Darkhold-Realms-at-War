@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/ares-hud.pw.toml"
-hash = "f07da2079ca4c04a096b79b9270e67c46547a777b76e1707350378894949bd2e"
+hash = "d01c14a078538c966ffca63c368076de5f2d2f550b41c5543d337fdf355bfb1d"
 metafile = true
 
 [[files]]
@@ -1235,6 +1235,11 @@ metafile = true
 [[files]]
 file = "mods/particular-reforged.pw.toml"
 hash = "6f624d9a5165451aae56d7d6196ed2fee18928fcdb6c2d5f24b2d1196763c3fd"
+metafile = true
+
+[[files]]
+file = "mods/physics-mod.pw.toml"
+hash = "9b61a0d7a6623df68a91e347887cfc4ccc63df0a4bbe42015f3b897d21cb344a"
 metafile = true
 
 [[files]]
