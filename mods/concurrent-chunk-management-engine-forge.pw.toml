@@ -1,0 +1,13 @@
+name = "Concurrent Chunk Management Engine - Forge"
+filename = "c2meforge-0.2.0-forge.6-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a0634650f9afee4ecbcf27c7403c839f3128d32"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8790346
+project-id = 1610389
