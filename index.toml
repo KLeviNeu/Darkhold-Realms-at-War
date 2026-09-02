@@ -129,6 +129,26 @@ file = "config/iceandfire-client.toml"
 hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 
 [[files]]
+file = "config/jade/hide-blocks.json"
+hash = "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "532fadc7cb9b50fbf7a3d8b01108096163f37aa6ee0d53bca3716f18f3e4bf3c"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "eea16f93a5e2dd75f260dfb421d0a655814a2fc517e46d73bdd0505998867088"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "467f851055e7bcbef0343c569888ca64c2e70c015baefd02ec8fee251329bbc0"
+
+[[files]]
 file = "config/mobcapoverdrive-common.toml"
 hash = "0320b320d73919d7d8c8aab4306065d17ec418d0a00384728e958bb467a5542f"
 
@@ -404,6 +424,11 @@ metafile = true
 [[files]]
 file = "mods/betterfog-forge-1.20.1.jar"
 hash = "41aad0a6fd15a2b84149afdd17aac9f719bf904c2dcd5677b69c32e4d2d7c3a5"
+
+[[files]]
+file = "mods/beyond-oxygen.pw.toml"
+hash = "7edb8bd74a46892b29fa0546ca94792ef6a331a84cda6ef1f38f974aadfd0faa"
+metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
@@ -937,6 +962,11 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "694b5a321b5ac4dcfe81092e8469ebbd852774b0bcb7cf5fb235678e91cb7f3b"
+metafile = true
+
+[[files]]
+file = "mods/jade-vs.pw.toml"
+hash = "f0ea08d21ecc78ec797cbf3b8160d8d08d8d7fe2729b3d631013c721daee111d"
 metafile = true
 
 [[files]]
@@ -1570,6 +1600,16 @@ metafile = true
 [[files]]
 file = "mods/vlib.pw.toml"
 hash = "0b3c359b8f7636c2cdbb003dd1d8ba291d10e96d778fd7e4f56e925bcc11ace8"
+metafile = true
+
+[[files]]
+file = "mods/vs-collision-damage.pw.toml"
+hash = "5b6a62b3e19dedb475791bc5d79abfcb1f395c69ec5a014686cb6f06e51b1567"
+metafile = true
+
+[[files]]
+file = "mods/vs-waterworks.pw.toml"
+hash = "99a77d675a02f7715773e91964dab07131516a3ff26b8cdc10b14f229b22fb0c"
 metafile = true
 
 [[files]]

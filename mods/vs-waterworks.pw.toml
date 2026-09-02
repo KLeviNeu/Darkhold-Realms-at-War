@@ -1,0 +1,13 @@
+name = "Waterworks VS"
+filename = "vs_waterworks-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31945de7f2858253ce9daef2e27b85db56b2cb6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7525774
+project-id = 1410028
