@@ -1603,11 +1603,6 @@ hash = "0b3c359b8f7636c2cdbb003dd1d8ba291d10e96d778fd7e4f56e925bcc11ace8"
 metafile = true
 
 [[files]]
-file = "mods/vs-collision-damage.pw.toml"
-hash = "5b6a62b3e19dedb475791bc5d79abfcb1f395c69ec5a014686cb6f06e51b1567"
-metafile = true
-
-[[files]]
 file = "mods/vs-waterworks.pw.toml"
 hash = "99a77d675a02f7715773e91964dab07131516a3ff26b8cdc10b14f229b22fb0c"
 metafile = true
