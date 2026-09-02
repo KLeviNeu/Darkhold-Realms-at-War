@@ -676,11 +676,6 @@ hash = "92a75809c9655904d4ebab3dba7525ca08671e3aa3e5cd07ee99761e13f0db91"
 metafile = true
 
 [[files]]
-file = "mods/epic-fight-tinker-compat.pw.toml"
-hash = "9a11d474ce942d024054f6eb386d9f32a22cb0af9c2d98c4c236bb88fc1fe8e7"
-metafile = true
-
-[[files]]
 file = "mods/epic-knights-armor-and-weapons.pw.toml"
 hash = "eb02ca895802d094a663fc5b29065e8f00ad46a095adb432399a2ab8979fe802"
 metafile = true
