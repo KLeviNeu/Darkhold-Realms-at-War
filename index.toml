@@ -720,6 +720,11 @@ hash = "3db9620dac88b463579990c1fb10afc2779df9e6ccc11521ef1e7f6bb63a9e4f"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "eb03970bd1052913759297b435d11d1a105b9812d0985d06c9c299075523fa11"
+metafile = true
+
+[[files]]
 file = "mods/eureka-ships.pw.toml"
 hash = "05c333e7f584ab00e86991454c1bc026330499d28f7db297080b8c1b2c73c786"
 metafile = true
