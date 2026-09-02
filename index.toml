@@ -501,6 +501,21 @@ hash = "afa721b6d27ca4c3be9599d6b12031e1ac65d58893008b2bc33560a2fd72a2de"
 metafile = true
 
 [[files]]
+file = "mods/create-o-plenty.pw.toml"
+hash = "c430ed4de730f554138768eba9a85f3b93eb81c50cf76eb741048c5ea57bed7a"
+metafile = true
+
+[[files]]
+file = "mods/create-questing.pw.toml"
+hash = "873cece426de50cdb3a9bccb171a9946790eeceeb33354724e2347f9593b387a"
+metafile = true
+
+[[files]]
+file = "mods/create-rustic-structures.pw.toml"
+hash = "0e381b10b9f5ad4e8aa1a123e4b9272d3a5ecd4a7ca01df8527645112109306d"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "d5e77dd1d33deb910f56433136ade781fe8a246f701c382aad64e4d40ba8a90f"
 metafile = true
@@ -951,6 +966,11 @@ hash = "6ab28c99b421cdc12a03e6167234b5a12654d9f5fd54070e0997c915b3a8027e"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations-cataclysm.pw.toml"
+hash = "b66363bc8af99fdca57b3ad7446e346cac6258e462d495327889fae99730fdaa"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations-choicetheorems-overhauled.pw.toml"
 hash = "c70a8d5dd74385484456e2f1118a489e5d7781735fbfd04804c8622b0241639f"
 metafile = true
@@ -966,6 +986,11 @@ hash = "0ed5f7b3fc3cdbab6d89388629392595ea41c47ea4e4345baa4fe0a438f74bd3"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations-moogs-voyager-soaring-end-nether.pw.toml"
+hash = "1d1900af1cdbab0494705ff36698c1bb40eb307df68688d079e5e18e7781a80e"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations-structory-towers.pw.toml"
 hash = "ec786ae9792427974a8eedca8c1d471af52138068e5c1970f3c591a1c94ca9d4"
 metafile = true
@@ -973,6 +998,11 @@ metafile = true
 [[files]]
 file = "mods/loot-integrations-towns-and-towers.pw.toml"
 hash = "81a1b5aa610b938ad406ba615fb092576cf98af9310a711fa93e33b24ba3e1d3"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-valhelsia-structures.pw.toml"
+hash = "bfab8a45a4eb5e0e850eb6a9dd890dfa63eea6586360b0a1df30a93a488b4431"
 metafile = true
 
 [[files]]
@@ -1117,6 +1147,11 @@ metafile = true
 [[files]]
 file = "mods/myths-of-the-sea.pw.toml"
 hash = "a7003a7e204a320265eb2e390baa941afe98d982fc9372bc49aa9e8f558c54ab"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
 metafile = true
 
 [[files]]
@@ -1424,6 +1459,11 @@ hash = "cf0d3ca9cce8ae3977850389f7642953b0d5062d4fbb5abc80e113003fa56b27"
 metafile = true
 
 [[files]]
+file = "mods/underwater-village.pw.toml"
+hash = "5b8e2f4b51125e9c995aea88ff351b1428fdcde52f29eadfde15c1e138e044a4"
+metafile = true
+
+[[files]]
 file = "mods/unique-accessories.pw.toml"
 hash = "915359df15b5e274ffb3b50eb2a0835520a8bf6024b230fce9c6e803d14584d5"
 metafile = true
@@ -1464,6 +1504,11 @@ hash = "8208b0c2d6fe1fd55a2156a2571717eb5961daf80876466b633e05dd11a0e53e"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
+hash = "8d43ef6d5520e1801d75562f329668215cf3a523ec5fc360bf3a5f138fe6ec41"
+metafile = true
+
+[[files]]
 file = "mods/vlib.pw.toml"
 hash = "00eb13e6e372f586b826e4fb62a9cbef00d5363f29afef621b8ced5296a16c85"
 metafile = true
@@ -1476,6 +1521,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "4eacb7cacdc83ebe7eef5bdb3894c423c95931f3508a9bcb86ad584a7520e57b"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise-seven-seas.pw.toml"
+hash = "0b03ce76554551677c7c083f468c789739b4837b015232b89b6f4d9378a42766"
 metafile = true
 
 [[files]]
