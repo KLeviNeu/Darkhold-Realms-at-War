@@ -2,9 +2,9 @@
 	"version": 3,
 
 	"categories": [
-		"Combat",
-		"Archery",
-		"Magic",
-		"Fishing"
+		"combat",
+		"archery",
+		"magic",
+		"fishing"
 	]
 }
