@@ -1238,9 +1238,13 @@ hash = "6f624d9a5165451aae56d7d6196ed2fee18928fcdb6c2d5f24b2d1196763c3fd"
 metafile = true
 
 [[files]]
-file = "mods/physics-mod.pw.toml"
-hash = "9b61a0d7a6623df68a91e347887cfc4ccc63df0a4bbe42015f3b897d21cb344a"
+file = "mods/physics-mod-pro-v171o-forge-mc-1-20-1.pw.toml"
+hash = "950cbf67e29980f62aad19f13e16c3ddb6d52395b57910650b44d1c5cb92030e"
 metafile = true
+
+[[files]]
+file = "mods/physics-mod-pro-v171o-forge-mc-1.20.1.jar"
+hash = "0bb8e79f03d0f0e0497e384bb9a974d259b8807927c9277134fe6dd01a57e40b"
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"

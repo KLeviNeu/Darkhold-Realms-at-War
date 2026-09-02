@@ -1,0 +1,8 @@
+name = "physics-mod-pro-v171o-forge-mc-1.20.1"
+filename = "file"
+side = "both"
+
+[download]
+url = "https://www.patreon.com/file?h=89202866&m=698320435"
+hash-format = "sha256"
+hash = "0bb8e79f03d0f0e0497e384bb9a974d259b8807927c9277134fe6dd01a57e40b"
