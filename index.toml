@@ -226,7 +226,7 @@ hash = "f2f3fea3d47cda9a630d533c4abb604d1205b06148bd7f683891ea2daac38135"
 
 [[files]]
 file = "datapacks/skills-template/data/skills/puffish_skills/categories/archery/definitions.json"
-hash = "4e00813d97f4ccd39585bb01ad49c9b322af2f38a1292a1ede729b12ffeacaf1"
+hash = "0e38f6051a754af01e4dfc09fc97fb53bc790d223b97c55416fa7e11ad2cc28b"
 
 [[files]]
 file = "datapacks/skills-template/data/skills/puffish_skills/categories/archery/experience.json"
@@ -298,7 +298,7 @@ hash = "be62c6080204bc9fbcc80c6694be5f269abe840d37b1d4b76d5c50b2905725a1"
 
 [[files]]
 file = "datapacks/skills-template/data/skills/puffish_skills/config.json"
-hash = "fc047b8c356d1f8e018d3b6ea9de5a63302d3f1aa8ed2401e776bd68b9d46303"
+hash = "fc5c1c26906c292db16490a820a2a7b76ec7463ead0ef8138e7a7f3a4f98c54d"
 
 [[files]]
 file = "datapacks/skills-template/fabric.mod.json"
