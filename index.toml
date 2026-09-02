@@ -1364,6 +1364,11 @@ file = "mods/tcompat-1.20.1-2.0.3.jar"
 hash = "d694d68bc989c0eb9102b334189bc9159b6a5a03d505304a2209cd02448f18f8"
 
 [[files]]
+file = "mods/tconjei.pw.toml"
+hash = "3c437c4fb1f709f7f3559072305c9a210ad5e85546317842d888d4ed3704a8df"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "1ebd6d8bef2732166c2cc70e16cd99d779ef2b9670cdb62c9b327276cd1669aa"
 metafile = true
@@ -1386,11 +1391,6 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "114fcc15f4430edbb187705f542783258dfcd91fc129af144ed6d76632aa0208"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-jewelry-ex.pw.toml"
-hash = "2cb4b97c7957372d5332a67ce245728d719804270a6e84ca5ec7dbe09661923d"
 metafile = true
 
 [[files]]
