@@ -129,8 +129,40 @@ file = "config/iceandfire-client.toml"
 hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 
 [[files]]
+file = "config/mobcapoverdrive-common.toml"
+hash = "0320b320d73919d7d8c8aab4306065d17ec418d0a00384728e958bb467a5542f"
+
+[[files]]
 file = "config/oculus.properties"
-hash = "9507c811971e36515a1865211d40879943e7e6010c5645999e07cffc3ee1824f"
+hash = "6828cb5d9fd78eac6f772d1fe97398d1681586907bd7608c064348fdfcb8e575"
+
+[[files]]
+file = "config/physicsmod/physics_animations_client_config.json"
+hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
+
+[[files]]
+file = "config/physicsmod/physics_blocks_client_config.json"
+hash = "7dae32501e21fc442a81ac2a761543c1436979e197377dc3147d38ad418801ab"
+
+[[files]]
+file = "config/physicsmod/physics_client_config.json"
+hash = "ddbcf336d2e00a69dc2e79e1d3b4a84fe497bbd0a16964ab110e9d8fd99c3aed"
+
+[[files]]
+file = "config/physicsmod/physics_cloth_config.json"
+hash = "c004242898b912a2ad1a836a4e017d921c1e8660180565ce56dc4cadc027e939"
+
+[[files]]
+file = "config/physicsmod/physics_mobs_client_config.json"
+hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
+
+[[files]]
+file = "config/physicsmod/physics_server_config.json"
+hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
+
+[[files]]
+file = "config/physicsmod/physics_vines_client_config.json"
+hash = "26c87245ef1acf8cc0ad8b09b71e8babe542f5a9be4628b560210714d7b06239"
 
 [[files]]
 file = "config/sodiumextras-client.toml"
@@ -150,7 +182,11 @@ hash = "6625906e5f4de61d7352c2753d5f8e10e6c76b765bea79b3657f957660642eb4"
 
 [[files]]
 file = "config/vs_sails/config.cfg"
-hash = "326c524778e2972a6b805ae22924814ecc4c935f0897150d05124e1f7913489d"
+hash = "c4a19c0b3976b4d222fbc4660c22aac0ed8269412f5b85070d82187f14535c37"
+
+[[files]]
+file = "crosshair_config.ccmcfg"
+hash = "7d97288afb2499c2dce74638231e334d4c1f0799debfeebe6b9453e5ab04f560"
 
 [[files]]
 file = "datapacks/skills-template/META-INF/mods.toml"
@@ -387,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/bosses-of-mass-destruction-forge.pw.toml"
 hash = "87260d15b05d7cba793c9ddbebae06dc22e042fe747120db9b5b8f441d875524"
+metafile = true
+
+[[files]]
+file = "mods/bossesrise.pw.toml"
+hash = "b66345a42cf78fc591a935a17907d135370348a015125fd06de6aba168240362"
 metafile = true
 
 [[files]]
@@ -721,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "eb03970bd1052913759297b435d11d1a105b9812d0985d06c9c299075523fa11"
+hash = "e731f9e35dec75db269ac795389f3ca86fde666d98c22c89d893df2638bf96c5"
 metafile = true
 
 [[files]]
@@ -1130,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "a679cf8ef932ef7d062529604b27eb48430e9a404ad468b1d43901b0a0aa7cc1"
+hash = "3e5141a2031dc5bac1eb21c6f9e3a31dee8ab28e67864da305bf56a9eb6612a3"
 metafile = true
 
 [[files]]
@@ -1279,7 +1320,7 @@ metafile = true
 
 [[files]]
 file = "mods/puffish-skills.pw.toml"
-hash = "ac4d2a9f420768615e2898f725a5d8e51cd4e8ca905b8d515166b2ca8ec104dc"
+hash = "ec1744f42dd78e3714d23664dd1d041ad4662646ef7f4492ad6cae4a2b130a0b"
 metafile = true
 
 [[files]]
@@ -1603,7 +1644,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "73636e60d80c277603503d97c8bf4c8a7c530ce5544edd0d7b60c9772bc8e0d0"
+hash = "d3d054299d2a3aa3e03c590787157cc9ea9c877948f7e0dacf824567dfa70633"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
@@ -1711,8 +1752,12 @@ file = "script.ps1"
 hash = "36c418908b5194cc99e848dd0b780b3c00550861ef3d3bbef52753330f6c70da"
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-9.5c.zip.txt"
-hash = "aad98e732f2828762d574c705a9a30cb95c779d59b36bed7cdfbbea94958b009"
+file = "servers.dat"
+hash = "527419a3044497b1687e4a86cd97b500727d05bdc96a2641aa0f131e3367a640"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.9 + EuphoriaPatches_1.10.0.txt"
+hash = "3b54f894b92cff8ae9f74196943cbedb857780b1250d169746581d4700bddab7"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

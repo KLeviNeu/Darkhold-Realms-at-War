@@ -1,0 +1,46 @@
+
+[general]
+	#Master toggle
+	enabled = true
+	#Extra logging
+	debug_log = false
+	#Monster spawn growth rate toward cap (1.0 = normal for this mod, higher = fills cap faster).
+	#Range: 0.0 ~ 20.0
+	monster_spawn_rate = 2.0
+	#Base extra spawn attempts per player per tick (scaled by spawn rate and fps logic).
+	#Range: 0 ~ 500
+	base_extra_attempts_per_player_per_tick = 2
+	#Only keep extra-spawned monsters from despawning when within this range of a player.
+	#Range: 0 ~ 512
+	keep_alive_range = 96
+	#Seconds to keep extra-spawned monsters protected from despawn (while within range).
+	#Range: 0 ~ 3600
+	keep_alive_seconds = 90
+	#Maximum excess monsters per player (primary limiter).
+	#Range: 0 ~ 1000
+	excess_cap_per_player = 35
+	#Global excess cap (multiplayer safety ceiling; in singleplayer acts only as hard-stop for runaway chunk loaders).
+	#Range: 0 ~ 20000
+	excess_cap_global = 140
+	#If client FPS is below this in singleplayer, reduce growth; if it stays low long enough, start despawning excess.
+	#Range: 10 ~ 240
+	target_fps = 55
+	#How often (ticks) to evaluate FPS logic. 20 = once per second.
+	#Range: 1 ~ 200
+	fps_check_interval_ticks = 20
+	#When in low-FPS despawn mode, despawn up to this many excess monsters per check (0 disables despawn mode).
+	#Range: 0 ~ 500
+	despawn_excess_when_low_fps = 2
+	#Minimum growth scale when FPS is low (0.0 = stop growth; 0.1 = still allow 10% growth).
+	#Range: 0.0 ~ 1.0
+	fps_pressure_min_scale = 0.1
+	#How fast growth scale recovers toward 1.0 when FPS is >= target. Typical: 0.02 to 0.10
+	#Range: 0.0 ~ 1.0
+	fps_pressure_recover_rate = 0.05
+	#How fast growth scale drops when FPS is below target. Typical: 0.05 to 0.30
+	#Range: 0.0 ~ 1.0
+	fps_pressure_drop_rate = 0.1
+	#How many consecutive FPS checks below target before enabling despawn mode (mode switch).
+	#Range: 1 ~ 60
+	low_fps_streak_to_despawn = 3
+
