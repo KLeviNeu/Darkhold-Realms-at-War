@@ -3,8 +3,8 @@ filename = "Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "475063a73e381b8512126ae511e2642d7a67f00447695ac65c15a269c99dc05f83c5c12eaa84bcd1eb15dcface2dc5b42af355cdbabbe6b32dd6b621ca226fef"
+hash-format = "sha1"
+hash = "5924e8b6cec952dae66055ebaea1bde6f84e2239"
 mode = "metadata:curseforge"
 
 [update]

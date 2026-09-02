@@ -3,8 +3,8 @@ filename = "fantasy_weapons-forge-0.4-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "99ec1d461924b8d875a2681b2b06aafc0694fba92dec946c159990f5682ff28f44e5b63ba31fc4b0ff27a0cff16de3e1577a1658e606e885d5ab694c8baf60c3"
+hash-format = "sha1"
+hash = "a2baf193c557e742cd00d314b9061e2848b7f24a"
 mode = "metadata:curseforge"
 
 [update]

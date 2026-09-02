@@ -3,8 +3,8 @@ filename = "medieval_buildings_nether_edition-1.20.1-1.0.2-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "936600ae997102f5f1f2a207da6fb2aa393075066031cfaa1dd9373c26f0a10af263cc11e03aee1934dfbc6af75fcd30aeddc4f9f2aa6671b92fc01857ba14ad"
+hash-format = "sha1"
+hash = "5c6c11ef678a500bdf1fb35e8e82739a71765f3e"
 mode = "metadata:curseforge"
 
 [update]
