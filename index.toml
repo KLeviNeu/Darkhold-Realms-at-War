@@ -887,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "6499131eb811f49b5cf2523463805272f422b3d7fb6e2189264fb18d2cd25754"
+hash = "a48fa17dc56ef41784086e446ca7d392d49c01fa1851717b9eede84c9259bf58"
 metafile = true
 
 [[files]]
@@ -1370,7 +1370,7 @@ metafile = true
 
 [[files]]
 file = "mods/saints-dragons.pw.toml"
-hash = "dd7f52ea90083184ee05dafb35dcda25e3511913564e50b5be1e08fdaa2e8b42"
+hash = "9964bf86a0279f83491ba67c73958761954f18cb09dffc72f6aac51bdef29a8c"
 metafile = true
 
 [[files]]
@@ -1455,7 +1455,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "c4312e30a33c522a5f55b20a905973c7f2ea5ac13cae736fb63245eb9d0cd201"
+hash = "111d851176843b22f6f3b6d096ab202fead7d41edb14fc6d7858bd85cc8497d3"
 metafile = true
 
 [[files]]
