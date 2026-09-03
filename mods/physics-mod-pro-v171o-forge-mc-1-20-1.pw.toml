@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://www.patreon.com/file?h=89202866&m=698320435"
-hash-format = "sha256"
-hash = "0bb8e79f03d0f0e0497e384bb9a974d259b8807927c9277134fe6dd01a57e40b"
+hash-format = "sha1"
+hash = "d4ed5d97f2d60bb1dc7226b42e3d28a979e7c40a"

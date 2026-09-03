@@ -3,8 +3,8 @@ filename = "[1.20.1-forge]-Epic-Knights-Ice-and-Fire-1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "8634fe6ab34b46f10883bca711a61356e13c34c2c1ed6f2123284fcebc4a4440d2e9a7f4e07bae0da2e603a7d7c624e662777b3d0c9e24b8f2ef2f215ed2a5ac"
+hash-format = "sha1"
+hash = "5a749de70ca0feb9b50b663785a2c48ea9e07e60"
 mode = "metadata:curseforge"
 
 [update]

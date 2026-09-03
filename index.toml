@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerbons-api.pw.toml"
-hash = "6d5dfd8068d4ed86d256d447c9082c8f73be9986e1640a440965e45bf5051020"
+hash = "da9026c48b5c6bc9eab17bca48f4b1fd8540fcae23365d63c9d7c4e5c7eb0a30"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/combat-evolution.pw.toml"
-hash = "cca794d627cf6362d2d49d46cde46fbb5b175c642ebef675908be4cea7f893c7"
+hash = "1286cf964d65e9bd03b10e0fdf032c75dbfd4647f0e6fb559eef19f69e30b703"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-enhanced-lootintegration-addon.pw.toml"
-hash = "c9654e2ee46f48613b8b8a45f7e8cfd748406697731b8e8f83d43c3d1c30bb03"
+hash = "7ecc53b768d60f9d7990b5db2832fea11e21e8fb44df8a9cbdaedf1d3ca20402"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/epic-fight-mod.pw.toml"
-hash = "32a6854455a8623c8ea08b7801ee82c9467b581fac81de189287453c2b099321"
+hash = "cc04a459af3ff21b2aa09cde7ab562f33eb13c9d6d158c71d09cb4bc0bdee325"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/epic-knights-ice-and-fire.pw.toml"
-hash = "42c4d5dfc74af57c01fabe919fa3ee87fc8a38ca4d8878752ad0c5dfc4032645"
+hash = "8def2231d2d5e4b2a5c98c82ea5021cf190084987752445448a7529ad38ea840"
 metafile = true
 
 [[files]]
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/fragmentum.pw.toml"
-hash = "8de14ccd9172d8326e6ee8adfc6c0549f73ef5c2780459a14f504f7f254dabe8"
+hash = "4f27e9288c015d33a43af4273378d3660aeae322689e6ebe978d207d021a3ec8"
 metafile = true
 
 [[files]]
@@ -867,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-materials.pw.toml"
-hash = "31f54b49e78f8e0417259e186e212b12d2379c0aee8d3ef31036c7b8284e45c0"
+hash = "468dbb58292fa7ad156774d03c4fde6a7bbffd82cc2b2b098b5cffea9c514cd1"
 metafile = true
 
 [[files]]
@@ -887,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "a48fa17dc56ef41784086e446ca7d392d49c01fa1851717b9eede84c9259bf58"
+hash = "61af3fc8d7415903f843fdac262dfaf480d202de8ee8ba7f7d3227e6f6dabe02"
 metafile = true
 
 [[files]]
@@ -917,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
-hash = "a1f69cd26164a783fb6f64851ec28c4906dcba9632277cf2ba0ace0a24b9fbb4"
+hash = "94c7c45a70d0cea86695ecd467f8e5c22510442c53c44291a570986e234428e5"
 metafile = true
 
 [[files]]
@@ -1126,12 +1126,12 @@ metafile = true
 
 [[files]]
 file = "mods/medieval-buildings.pw.toml"
-hash = "09f8e6093c0da4d5eef7c57ff777a1c5d8e92afd5b0a7ef654b7924ed251b574"
+hash = "efa146ae6c38c772de1f15f9f0d62a01ed08a024f9f6a334abda1795504109b9"
 metafile = true
 
 [[files]]
 file = "mods/medieval-music.pw.toml"
-hash = "5e33c1bbc2792a3596d2518eaaad5dd5396d7956460f1b8dae6cb0ee72fa6a14"
+hash = "fa56a8be288f888c8046831f986d37167f066c7bbb13ce1760a992114eed0b11"
 metafile = true
 
 [[files]]
@@ -1151,7 +1151,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies-questline.pw.toml"
-hash = "06bb5dbc7eaec65bbb36696d1d691177f08b98c005bcd2933f026aacf9240d0c"
+hash = "e13a0d44b010e8b4a775f27876f995df1abcf043fbf8beed8a90e2da08783d7d"
 metafile = true
 
 [[files]]
@@ -1181,7 +1181,7 @@ metafile = true
 
 [[files]]
 file = "mods/modular-item-api.pw.toml"
-hash = "a47725b9975365cae17fa000422d8f45cd41a74ca8a32d949bd1a4da6c5dcee6"
+hash = "8a8957ddf1c19be1c95c31e696ff1b49e035a9a70f79c2442767e72bd4753bbe"
 metafile = true
 
 [[files]]
@@ -1300,7 +1300,7 @@ metafile = true
 
 [[files]]
 file = "mods/physics-mod-pro-v171o-forge-mc-1-20-1.pw.toml"
-hash = "48e4655dac839f05ee68135a40eada82f185bf8de6cdad7203bb2b541cfbe453"
+hash = "aa9e82904cb2aba0083cf17040d85598655f2f6ecb2d4dec1da84a79379b061c"
 metafile = true
 
 [[files]]
@@ -1320,7 +1320,7 @@ metafile = true
 
 [[files]]
 file = "mods/pmwa.pw.toml"
-hash = "a22600a3f0498bc6b6ae04a3d88f10208d7e8150dcb5adf03f58296266442ca6"
+hash = "bb5e540a79c433632d9559e99802d9a26775e88e76b6ad2f52acfde22dc7ad9a"
 metafile = true
 
 [[files]]
@@ -1380,7 +1380,7 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
-hash = "e974979d463711b8ccdc578fd87e654f6ff60da446b25c87a4bdd8ebd569fdf5"
+hash = "0c41a171e535eeab09672ffe05724bcc47081ab05b260bbc3882c43ee3446186"
 metafile = true
 
 [[files]]
@@ -1405,7 +1405,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "c4fdbd71a92311184047122b02061614dda15f9fad03e7a0531ce6e9edb70982"
+hash = "8d3e9ef52ac3b65fb976629b55652ca30f9ad8b7ff37925c3111ae78386e1a97"
 metafile = true
 
 [[files]]
@@ -1494,7 +1494,7 @@ metafile = true
 
 [[files]]
 file = "mods/theundead.pw.toml"
-hash = "b091cfa420b444fe5c5f61abe9da7cd4e76e9c339458cee7d127c3178304137f"
+hash = "b406f00ef45581f00f069ec8c6aaa0a58b6a60034c57e4b1bab33805be4c3d83"
 metafile = true
 
 [[files]]
