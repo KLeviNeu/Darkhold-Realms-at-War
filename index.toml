@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "aab11bdecc1776fb66758434f5f86a3de7fe157562152ccbb741541394a4e4a0"
+hash = "f1327ee5da04f76a717dc76b8610b919dec281eadb3a4f1322bb6d3711881f46"
 metafile = true
 
 [[files]]
@@ -792,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/evilcraft.pw.toml"
-hash = "f765643f6b3bb270a43891fffb0035f3d69a409aed7073ec46bc47b63c8a018a"
+hash = "0e50509c41d4727f8ac8c25811dfbecb1b055ee87ce01b2e071288c30e115ec1"
 metafile = true
 
 [[files]]
@@ -971,7 +971,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "facb584eb3ea1af1fe61eb3cd5d88f68069d4293b3c1a7747dca208206601785"
+hash = "562d4d48069a238a8100b277a5961f241ab04b175b5d7ab0a69da153164f16bc"
 metafile = true
 
 [[files]]
@@ -986,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/knight-lib.pw.toml"
-hash = "85f536ab3a56ea47a648e9d14d959008a4d00b746771871a92820889eed2794f"
+hash = "ee72b9e23c8601f8e4a167373980f9a379312a15960cd30ce536e31cc32a762a"
 metafile = true
 
 [[files]]
@@ -1111,7 +1111,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "34b4ac8e09eef863ef29be66793e2ae5364784f7205ac288cf4f37ebe52ced29"
+hash = "ce10ba1203319554de02f99d08ad0805cfae496466bbd0fe851bc36b086d3ee0"
 metafile = true
 
 [[files]]
@@ -1161,7 +1161,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "d231c4a9864795b6e20ffa83154f853c752356d0768d1ac0617c5f3d92da7c4e"
+hash = "815f52506bddf3c7cff35e2d285a343c3d5889e8856a8670aee329d88b6936db"
 metafile = true
 
 [[files]]
@@ -1375,7 +1375,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "4716989be9166e31315e8394a5069c87441ed915127dc858d1c44c83b5a491ef"
+hash = "b3e39831fb574d728076ef95c969e8ca578ab6a3eb499a35718dd9b71d5cdfe4"
 metafile = true
 
 [[files]]
@@ -1415,12 +1415,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "d87a2fb7970d6922ddec76f1a758c272fa665e1447bfebfbfeb886411ca18392"
+hash = "3a9d2735c912a17d89a7d4fbbaa2ceb526f1698184a139c8cb720874311f9cad"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "b45a8099d4302af4707f6db58779dbe39898d186e999366e64f16653398a9d63"
+hash = "3bf5356d44d0a03ee55aa56c671c6a6e067a0acf7b6152644f76ceb6ff8bef0f"
 metafile = true
 
 [[files]]
@@ -1460,7 +1460,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "96acce7f708d12a56acfbc2a597e82c12d44683c6a4ae299e97c306764fb2f8d"
+hash = "65e8f514033c28cdd4eabc13f4a268fbd6e4431b5ab1994b6a43614825fbbc51"
 metafile = true
 
 [[files]]
@@ -1499,7 +1499,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "114fcc15f4430edbb187705f542783258dfcd91fc129af144ed6d76632aa0208"
+hash = "4ad50414118a11e81331902e9d508101ed0f825c4acb266e561ff85f9872bca3"
 metafile = true
 
 [[files]]
@@ -1790,7 +1790,7 @@ hash = "067666f88e89d2f96cb353dfe26b4fbc1e2bdad3d4b0904ec928bb6ed853b3ee"
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "7d65177921223b06ba06fe5c39fc05faed80be269f7f08bb8e56317152a1141a"
+hash = "8e0f29922d7215d2e5524e0b3441023dfe22079fd05b899ad72c27e478ecba85"
 metafile = true
 
 [[files]]
