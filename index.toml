@@ -1388,11 +1388,6 @@ hash = "234a0955899c1261a2b2b7bdaca159a8a7db2afbbf1a648644abea1e4305fa4f"
 metafile = true
 
 [[files]]
-file = "mods/seamless-ores.pw.toml"
-hash = "43a75c444b942c0843138348c09eca3110b908e21758c1d64906187fd4ef19b0"
-metafile = true
-
-[[files]]
 file = "mods/selene.pw.toml"
 hash = "b3e39831fb574d728076ef95c969e8ca578ab6a3eb499a35718dd9b71d5cdfe4"
 metafile = true
