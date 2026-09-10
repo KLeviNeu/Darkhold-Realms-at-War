@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "d4d5838bb986254afbcde2910ef3274f334ef333b8f3587b34378df4d9b4663f"
+hash = "4248dbb1fcf788348d4e29ab7a831ed711c1ad880a8abaec051f2cf261d40316"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/epic-fight-avalon.pw.toml"
-hash = "207125377741d125218cc69ba8a6b8a296cf55f9f5512bcda4f1b0016fa2d367"
+hash = "1924e4fee9fec7799906cc772b9c97185bb8d54d7c1d0d4b7d454783218002b5"
 metafile = true
 
 [[files]]
@@ -1171,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobs-of-mythology.pw.toml"
-hash = "1d34aeb3916a4c0f09b84bc29c405c97c500cea2f647f72db6417866ed3644f6"
+hash = "08d2cb34e8ac971ee4ebbea633aa8f61e5421e108871c060d2e0abdefc72e196"
 metafile = true
 
 [[files]]
@@ -1370,7 +1370,7 @@ metafile = true
 
 [[files]]
 file = "mods/saints-dragons.pw.toml"
-hash = "9964bf86a0279f83491ba67c73958761954f18cb09dffc72f6aac51bdef29a8c"
+hash = "234a0955899c1261a2b2b7bdaca159a8a7db2afbbf1a648644abea1e4305fa4f"
 metafile = true
 
 [[files]]
@@ -1415,12 +1415,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3a9d2735c912a17d89a7d4fbbaa2ceb526f1698184a139c8cb720874311f9cad"
+hash = "cfb0764ead0cc94a7d4e23aaf061f4c4a497fc09c85fa54a51d5d4e05940d87e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "3bf5356d44d0a03ee55aa56c671c6a6e067a0acf7b6152644f76ceb6ff8bef0f"
+hash = "161e11d3d81652206236f91256e0189c20b2193ab046e4a90358f84036f11ca6"
 metafile = true
 
 [[files]]
@@ -1494,7 +1494,7 @@ metafile = true
 
 [[files]]
 file = "mods/theundead.pw.toml"
-hash = "b406f00ef45581f00f069ec8c6aaa0a58b6a60034c57e4b1bab33805be4c3d83"
+hash = "b1bc44b899d2d0e5052ff3f89f71c1d87a72181729a116dc86ff1243edde2a9d"
 metafile = true
 
 [[files]]
