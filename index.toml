@@ -570,11 +570,6 @@ hash = "300b3839d89d38625bb6fac3e47ea9c71c34f0c94585438ac25c777092fd6f8e"
 metafile = true
 
 [[files]]
-file = "mods/cosy-critters.pw.toml"
-hash = "d851a0089c8ffa3b48305ebf68534043c8613226ae973cc26d53b911188ccb30"
-metafile = true
-
-[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "afa721b6d27ca4c3be9599d6b12031e1ac65d58893008b2bc33560a2fd72a2de"
 metafile = true
