@@ -570,6 +570,11 @@ hash = "300b3839d89d38625bb6fac3e47ea9c71c34f0c94585438ac25c777092fd6f8e"
 metafile = true
 
 [[files]]
+file = "mods/cosy-critters.pw.toml"
+hash = "d851a0089c8ffa3b48305ebf68534043c8613226ae973cc26d53b911188ccb30"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "afa721b6d27ca4c3be9599d6b12031e1ac65d58893008b2bc33560a2fd72a2de"
 metafile = true
@@ -707,6 +712,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "7014da497c8fcf45b7403d5b026170cac8f1531514fdf2e47c4459b4f4b178c0"
+metafile = true
+
+[[files]]
+file = "mods/embers-ancient-remnants.pw.toml"
+hash = "ad2e2402371aaed6c80c3da2873d173c472ac1e2e30c8f0da0a959bc3fada8c5"
 metafile = true
 
 [[files]]
@@ -1383,6 +1393,11 @@ hash = "234a0955899c1261a2b2b7bdaca159a8a7db2afbbf1a648644abea1e4305fa4f"
 metafile = true
 
 [[files]]
+file = "mods/seamless-ores.pw.toml"
+hash = "43a75c444b942c0843138348c09eca3110b908e21758c1d64906187fd4ef19b0"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "b3e39831fb574d728076ef95c969e8ca578ab6a3eb499a35718dd9b71d5cdfe4"
 metafile = true
@@ -1410,6 +1425,11 @@ metafile = true
 [[files]]
 file = "mods/sinytra-connector.pw.toml"
 hash = "64cf14d53ff31c4f85919a7ccef310a6ba26474b872ddaccabb7a65e6fa29e8a"
+metafile = true
+
+[[files]]
+file = "mods/skarrier-mobs.pw.toml"
+hash = "35799b639e632eed30e8db5a3e44cb376c92ee9daeb2434d5c050b5087c0506c"
 metafile = true
 
 [[files]]
