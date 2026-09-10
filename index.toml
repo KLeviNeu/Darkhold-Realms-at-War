@@ -455,6 +455,11 @@ hash = "b66345a42cf78fc591a935a17907d135370348a015125fd06de6aba168240362"
 metafile = true
 
 [[files]]
+file = "mods/burnt.pw.toml"
+hash = "b6c9eb52f332948c22d8e1f85a465a7e80fdd7c9135e8cccf4c396de810b240d"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "820f6c27ac66553c5addf91f986931e6d898458bf54b12facf01665a3560de90"
 metafile = true
@@ -990,7 +995,7 @@ metafile = true
 
 [[files]]
 file = "mods/knight-lib.pw.toml"
-hash = "a9f4ed596540a33341fdfad7c6faed01cfcdca21198a67984f40c7ce17344f7f"
+hash = "932e3fbce70330028c81b1f38ecd61d795e87ae3bfe951677077c64b064ec6c2"
 metafile = true
 
 [[files]]
@@ -1115,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "2594534b7858a96e1596fec08dd657bdb03f018e6e5a6008292dfa611d67561d"
+hash = "40f272e33aa6870147037a13b85fc94b396f6a4944f50146a06cd2d011c92631"
 metafile = true
 
 [[files]]
