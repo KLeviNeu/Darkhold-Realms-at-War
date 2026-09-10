@@ -317,10 +317,6 @@ file = "datapacks/skills-template/pack.mcmeta"
 hash = "e2c2ac11f392925641afe266bac2ed51740e1af5d2dc8296e24912f7598d50d5"
 
 [[files]]
-file = "mods/EuphoriaPatcher-1.10.0-r5.9-fabric.jar"
-hash = "58dfacd4a5774c5fdcdbfe32f6c713e04ad77a786ece3dcad67e94cd70b8293e"
-
-[[files]]
 file = "mods/aaa-particles-world.pw.toml"
 hash = "f49c51970501ebc2db781c61d209c2751d34f1d35555c0286f7191d95a7c7a37"
 metafile = true
