@@ -29,6 +29,10 @@ file = "config/Crust/utilities.toml"
 hash = "261ec0878c3fca127ccabb88c41a8578d9430cfc4aea8b52a825859e4a1d0432"
 
 [[files]]
+file = "config/Obscuria/aquamirae-early.json"
+hash = "48d7cb1ed8ff2224a17840d28c3ebddc47bd355d46df2ef1eba7778cfffcc125"
+
+[[files]]
 file = "config/ares_hud-client.toml"
 hash = "37a6651671bb2d502b59ddb982903a0637a6de08a2936d1f7b4a093287ec54cf"
 
@@ -43,6 +47,10 @@ hash = "8dea297206b468853bc336d2cc5d2b5147ea35097efa7076b0366ad788c0b7f9"
 [[files]]
 file = "config/barista/icon/icon.png"
 hash = "947034d3ed33b53ae82de2225ba061114bc36a223395e44b55c111bb46864328"
+
+[[files]]
+file = "config/biomeswevegone/world_generation.json"
+hash = "3a104b8b630190a7c907fc9044b256ee6e41dbeb5ee238a6161c8dcea5c5918d"
 
 [[files]]
 file = "config/epicfight-client.toml"
@@ -198,7 +206,7 @@ hash = "87e09b48d2cd1d940b7cd38850f22f55da45680cf5cc364de623ebb8607b6f73"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "6625906e5f4de61d7352c2753d5f8e10e6c76b765bea79b3657f957660642eb4"
+hash = "afc536a1b3de3f5220c1146443dc107017cef90eebc21052664e850de07504b5"
 
 [[files]]
 file = "config/vs_sails/config.cfg"
