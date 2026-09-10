@@ -990,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/knight-lib.pw.toml"
-hash = "ee72b9e23c8601f8e4a167373980f9a379312a15960cd30ce536e31cc32a762a"
+hash = "a9f4ed596540a33341fdfad7c6faed01cfcdca21198a67984f40c7ce17344f7f"
 metafile = true
 
 [[files]]
@@ -1115,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "ce10ba1203319554de02f99d08ad0805cfae496466bbd0fe851bc36b086d3ee0"
+hash = "2594534b7858a96e1596fec08dd657bdb03f018e6e5a6008292dfa611d67561d"
 metafile = true
 
 [[files]]
