@@ -206,7 +206,7 @@ hash = "87e09b48d2cd1d940b7cd38850f22f55da45680cf5cc364de623ebb8607b6f73"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "afc536a1b3de3f5220c1146443dc107017cef90eebc21052664e850de07504b5"
+hash = "2ce29a49c36599c35d7c2ca521ba98ecb71cdf3b3d7dbf730bb39a237245ac41"
 
 [[files]]
 file = "config/vs_sails/config.cfg"
