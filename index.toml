@@ -455,11 +455,6 @@ hash = "b66345a42cf78fc591a935a17907d135370348a015125fd06de6aba168240362"
 metafile = true
 
 [[files]]
-file = "mods/burnt.pw.toml"
-hash = "b6c9eb52f332948c22d8e1f85a465a7e80fdd7c9135e8cccf4c396de810b240d"
-metafile = true
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "820f6c27ac66553c5addf91f986931e6d898458bf54b12facf01665a3560de90"
 metafile = true
