@@ -1,13 +1,13 @@
 name = "Ares-HUD"
-filename = "ares_hud-1.20.1-1.7.5-all.jar"
+filename = "ares_hud-2.2.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6bcdb793d4e17a6716c69cbe8bb6241bdcf95bf3"
+hash = "fcb5134af0d02be69fb6fd329a751ef6ef0641fd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8785587
+file-id = 9480646
 project-id = 1477275

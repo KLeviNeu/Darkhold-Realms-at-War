@@ -1,13 +1,13 @@
 name = "Too Many Bows"
-filename = "too_many_bows-forge-4.1.2.jar"
+filename = "too_many_bows-forge-4.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "324dd4d46042769d234fd117ed0df82964089714466ed0ae5ec616c760350b991778064d75de3152d22acc7e28bf343e55748c901594f93e8c2bb255ea8f42af"
+hash-format = "sha1"
+hash = "ba2b2ff6eb4dccd456979e57d80e76fc482c8cc9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8735189
+file-id = 9583831
 project-id = 1141533

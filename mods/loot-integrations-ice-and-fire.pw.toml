@@ -1,13 +1,13 @@
 name = "Loot Integrations: Ice and Fire"
-filename = "lootintegrations_iceandfire-1.2.jar"
+filename = "lootintegrations_iceandfire-1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "1fbd8cbfaee5ba93ec1717453786b7e8ae17f1f38c663e1d3ae4faf23c56bae6676c578007db92c5d4ebd91ddaa4d54f832cb65a0189385ecb1527192dbe309f"
+hash-format = "sha1"
+hash = "282613b9b381ec34800bf7c9af232d22488a5aac"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7920079
+file-id = 8914945
 project-id = 1272782

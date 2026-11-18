@@ -1,13 +1,13 @@
 name = "AAA Particles"
-filename = "aaa_particles-forge-1.20.1-2.2.3.jar"
+filename = "aaa_particles-forge-1.20.1-2.3.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "ff772c0745b0c939825104462c7d95d3ad3617deccdb158d487b78223e2744b0ca239f413bd125a00c04ac62b087f9c952070105a95106817ce00f0d916595b6"
+hash-format = "sha1"
+hash = "3d5d1adc13297a99ab9c6ef2cda910ef4109634f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8402758
+file-id = 9239318
 project-id = 979809

@@ -1,13 +1,13 @@
 name = "EpicFight-Nightfall"
-filename = "EpicFight Nightfall-3.4.1-all.jar"
+filename = "EpicFight Nightfall-3.4.2-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "381db5ce85b8a40451ea9e26b8ddcfd5eafef578713422aae186581dc2f054b7d21c4de85256dd6014f3329e5c40c920ccfa0f55cc077832c55a940a207d1f0a"
+hash-format = "sha1"
+hash = "b99cb2c78e94ef8f0071ea88e7002a42051068ae"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8693642
+file-id = 9015395
 project-id = 1307848

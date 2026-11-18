@@ -1,13 +1,13 @@
 name = "AAA Particles: World"
-filename = "aaa_particles_world-forge-1.20.1-2.0.0.jar"
+filename = "aaa_particles_world-forge-1.20.1-2.0.2-beta.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9641308bd78212cf6559858b346f59a83f12e76c"
+hash = "2c3fb5bb45511b980ea49d680b71d7bf9b00fb54"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8278666
+file-id = 8922158
 project-id = 1157870

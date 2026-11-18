@@ -1,13 +1,13 @@
 name = "Euphoria Patches"
-filename = "EuphoriaPatcher-1.10.0-r5.9-forge.jar"
+filename = "EuphoriaPatcher-1.11.0-r5.10-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f6130c8fa64508d1e92a8b0ca664ab1ed131110a"
+hash = "d99eff92b51bae0a2cb353013ec34e221b20b8f9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8791862
+file-id = 9688052
 project-id = 915902

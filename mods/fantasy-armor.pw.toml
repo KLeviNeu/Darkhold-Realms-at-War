@@ -1,13 +1,13 @@
 name = "Fantasy Armor (Medieval Series)"
-filename = "fantasy_armor-forge-1.2.4-1.20.1.jar"
+filename = "fantasy-armor-1.3.1-1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "8337b0d3a1bd7296f716d8652e66aaf48a87a6011e7d497c7616c1cc85f4e263f1243bcef03c6453c7e4e253ec30f816a8a87980835d4eaf18c0c6a137ea87d9"
+hash-format = "sha1"
+hash = "270d1b008faf53015a4223923671d9e375e9ff81"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7850802
+file-id = 9407921
 project-id = 1083998

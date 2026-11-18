@@ -1,13 +1,13 @@
 name = "Combat Evolution"
-filename = "CombatEvolution-2.2.6.jar"
+filename = "CombatEvolution-2.3.6-Forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "be712f47518fc7a7a6206dab2f676ed00d53a5c9"
+hash = "50b9c229e10b734742ec76a9f16294df3eb28815"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8699861
+file-id = 9589282
 project-id = 1377795

@@ -1,13 +1,13 @@
 name = "Unique Accessories"
-filename = "uniqueaccessories-1.3.3-forge-mc1.20.1.jar"
+filename = "uniqueaccessories-2.0.1-forge-mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b3e1f0ad0e75c2e341d9c30bbb523cdbf360a81f"
+hash = "3b3fc785b4358235184bc5387af6649728393e54"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7293163
+file-id = 9244682
 project-id = 1336987
